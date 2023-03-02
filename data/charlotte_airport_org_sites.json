@@ -1,0 +1,4849 @@
+{
+  "features": [
+    {
+      "id": "nc-001010",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-001010",
+        "status": "live",
+        "salesuniqueid": [
+          "ConcourseC-C2/C4-C4-CCD (ad2-nc-001010)",
+          "ConcourseC-C2/C4-C2-CCD (ad1-nc-001010)"
+        ],
+        "site": {
+          "id": "nc-001010",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2021-01-13",
+            "code": "live"
+          },
+          "parentsite": "CLT-Concourse C",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-CONC C-C2/C4",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2021-01-09",
+            "linkActual": "2021-01-13"
+          },
+          "device": {
+            "name": "CLT-CONC C-C2/C4",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-001010",
+            "display": [
+              {
+                "playerId": "nc-001010-C02-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "004KCCVKQ931"
+              },
+              {
+                "playerId": "nc-001010-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "911KCKJP3189"
+              }
+            ],
+            "modem": [],
+            "player": [
+              {
+                "id": "nc-001010-C02",
+                "hostname": "ad2-nc-001010",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:92:E8",
+                "serial": "U723175",
+                "salesuniqueid": "ConcourseC-C2/C4-C4-CCD (ad2-nc-001010)"
+              },
+              {
+                "id": "nc-001010-C01",
+                "hostname": "ad1-nc-001010",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:92:D1",
+                "serial": "U723174",
+                "salesuniqueid": "ConcourseC-C2/C4-C2-CCD (ad1-nc-001010)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-001010",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-001010",
+              "type": "ooh",
+              "siteId": "nc-001010"
+            }
+          },
+          {
+            "id": "broadsign.version:14.5.1-2-ad2-nc-001010",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-001010",
+              "type": "ooh",
+              "siteId": "nc-001010"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-001010",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-001010",
+              "type": "ooh",
+              "siteId": "nc-001010"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad2-nc-001010",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-001010",
+              "type": "ooh",
+              "siteId": "nc-001010"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-000017",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-000017",
+        "status": "live",
+        "salesuniqueid": [
+          "ConcourseC-C9/C11-C11-CCD (ad2-nc-000017)",
+          "ConcourseC-C9/C11-C9-CCD (ad1-nc-000017)"
+        ],
+        "site": {
+          "id": "nc-000017",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2021-01-13",
+            "code": "live"
+          },
+          "parentsite": "CLT-Concourse C",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-Concourse C  -C9/C11",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2021-01-13",
+            "linkActual": "2021-01-13"
+          },
+          "device": {
+            "name": "CLT-Concourse C  -C9/C11",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-000017",
+            "display": [
+              {
+                "playerId": "nc-000017-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "004KCMRKR427"
+              },
+              {
+                "playerId": "nc-000017-C02-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "004KCDGKR426"
+              }
+            ],
+            "modem": [],
+            "player": [
+              {
+                "id": "nc-000017-C02",
+                "hostname": "ad2-nc-000017",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:92:E2",
+                "serial": "U723173",
+                "salesuniqueid": "ConcourseC-C9/C11-C11-CCD (ad2-nc-000017)"
+              },
+              {
+                "id": "nc-000017-C01",
+                "hostname": "ad1-nc-000017",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:6B:C5",
+                "serial": "U723172",
+                "salesuniqueid": "ConcourseC-C9/C11-C9-CCD (ad1-nc-000017)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-000017",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000017",
+              "type": "ooh",
+              "siteId": "nc-000017"
+            }
+          },
+          {
+            "id": "broadsign.version:14.5.1-2-ad2-nc-000017",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000017",
+              "type": "ooh",
+              "siteId": "nc-000017"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-000017",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000017",
+              "type": "ooh",
+              "siteId": "nc-000017"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad2-nc-000017",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000017",
+              "type": "ooh",
+              "siteId": "nc-000017"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-001013",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-001013",
+        "status": "installed",
+        "salesuniqueid": [],
+        "site": {
+          "id": "nc-001013",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Installed",
+            "code": "installed"
+          },
+          "parentsite": "CLT-Concourse B",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT - B1-0030",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {},
+          "device": {
+            "name": "CLT - B1-0030",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-001013",
+            "display": [],
+            "modem": [],
+            "player": []
+          },
+          "components": []
+        },
+        "tags": []
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-000008",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-000008",
+        "status": "live",
+        "salesuniqueid": [
+          "ConcourseA-A8/A10-A10-CCD (ad2-nc-000008)",
+          "ConcourseA-A8/A10-A8-CCD (ad1-nc-000008)"
+        ],
+        "site": {
+          "id": "nc-000008",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2019-11-08",
+            "code": "live"
+          },
+          "parentsite": "CLT-Concourse A",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-Concourse A - A8/A10",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2019-11-06",
+            "linkActual": "2019-11-08"
+          },
+          "device": {
+            "name": "CLT-Concourse A - A8/A10",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-000008",
+            "display": [
+              {
+                "playerId": "nc-000008-C02-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "908KCZPQC509"
+              },
+              {
+                "playerId": "nc-000008-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "908KCCVQC507"
+              }
+            ],
+            "modem": [],
+            "player": [
+              {
+                "id": "nc-000008-C02",
+                "hostname": "ad2-nc-000008",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:6B:C7",
+                "serial": "U723168",
+                "salesuniqueid": "ConcourseA-A8/A10-A10-CCD (ad2-nc-000008)"
+              },
+              {
+                "id": "nc-000008-C01",
+                "hostname": "ad1-nc-000008",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:92:E3",
+                "serial": "U723167",
+                "salesuniqueid": "ConcourseA-A8/A10-A8-CCD (ad1-nc-000008)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-000008",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000008",
+              "type": "ooh",
+              "siteId": "nc-000008"
+            }
+          },
+          {
+            "id": "broadsign.version:14.5.1-2-ad2-nc-000008",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000008",
+              "type": "ooh",
+              "siteId": "nc-000008"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-000008",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000008",
+              "type": "ooh",
+              "siteId": "nc-000008"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad2-nc-000008",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000008",
+              "type": "ooh",
+              "siteId": "nc-000008"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-000009",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-000009",
+        "status": "live",
+        "salesuniqueid": [
+          "ConcourseA-A7/A9-A9-CCD (ad2-nc-000009)",
+          "ConcourseA-A7/A9-A7-CCD (ad1-nc-000009)"
+        ],
+        "site": {
+          "id": "nc-000009",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2019-11-07",
+            "code": "live"
+          },
+          "parentsite": "CLT-Concourse A",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-Concourse A - A7/A9",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2019-11-07",
+            "linkActual": "2019-11-07"
+          },
+          "device": {
+            "name": "CLT-Concourse A - A7/A9",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-000009",
+            "display": [
+              {
+                "playerId": "nc-000009-C02-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "907KCMRQ1851"
+              },
+              {
+                "playerId": "nc-000009-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "908KCQXQC508"
+              }
+            ],
+            "modem": [],
+            "player": [
+              {
+                "id": "nc-000009-C02",
+                "hostname": "ad2-nc-000009",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:92:E9",
+                "serial": "U723170",
+                "salesuniqueid": "ConcourseA-A7/A9-A9-CCD (ad2-nc-000009)"
+              },
+              {
+                "id": "nc-000009-C01",
+                "hostname": "ad1-nc-000009",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:92:BB",
+                "serial": "U723169",
+                "salesuniqueid": "ConcourseA-A7/A9-A7-CCD (ad1-nc-000009)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-000009",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000009",
+              "type": "ooh",
+              "siteId": "nc-000009"
+            }
+          },
+          {
+            "id": "broadsign.version:14.5.1-2-ad2-nc-000009",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000009",
+              "type": "ooh",
+              "siteId": "nc-000009"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-000009",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000009",
+              "type": "ooh",
+              "siteId": "nc-000009"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad2-nc-000009",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000009",
+              "type": "ooh",
+              "siteId": "nc-000009"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-000013",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-000013",
+        "status": "live",
+        "salesuniqueid": [
+          "ConcourseB-B9/B11-B11-CCD (ad2-nc-000013)",
+          "ConcourseB-B9/B11-B9-CCD (ad1-nc-000013)"
+        ],
+        "site": {
+          "id": "nc-000013",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2019-09-20",
+            "code": "live"
+          },
+          "parentsite": "CLT-Concourse B",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-Concourse B-IxNSight-Refresh-19 - B9/B11",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2019-09-20",
+            "linkActual": "2019-09-20"
+          },
+          "device": {
+            "name": "CLT-Concourse B-IxNSight-Refresh-19 - B9/B11",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-000013",
+            "display": [
+              {
+                "playerId": "nc-000013-C02-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "906KCXMN8954"
+              },
+              {
+                "playerId": "nc-000013-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "906KCWCN8953"
+              }
+            ],
+            "modem": [],
+            "player": [
+              {
+                "id": "nc-000013-C02",
+                "hostname": "ad2-nc-000013",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:6C:0B",
+                "serial": "U719606",
+                "salesuniqueid": "ConcourseB-B9/B11-B11-CCD (ad2-nc-000013)"
+              },
+              {
+                "id": "nc-000013-C01",
+                "hostname": "ad1-nc-000013",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:6C:09",
+                "serial": "U719605",
+                "salesuniqueid": "ConcourseB-B9/B11-B9-CCD (ad1-nc-000013)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-000013",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000013",
+              "type": "ooh",
+              "siteId": "nc-000013"
+            }
+          },
+          {
+            "id": "broadsign.version:14.5.1-2-ad2-nc-000013",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000013",
+              "type": "ooh",
+              "siteId": "nc-000013"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-000013",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000013",
+              "type": "ooh",
+              "siteId": "nc-000013"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad2-nc-000013",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000013",
+              "type": "ooh",
+              "siteId": "nc-000013"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-001021",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-001021",
+        "status": "installed",
+        "salesuniqueid": [],
+        "site": {
+          "id": "nc-001021",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Installed",
+            "code": "installed"
+          },
+          "parentsite": "CLT-Concourse D",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT - D2-3520",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {},
+          "device": {
+            "name": "CLT - D2-3520",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-001021",
+            "display": [],
+            "modem": [],
+            "player": []
+          },
+          "components": []
+        },
+        "tags": []
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-000022",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-000022",
+        "status": "live",
+        "salesuniqueid": [
+          "ConcourseD-D7/D9-D9-CCD (ad2-nc-000022)",
+          "ConcourseD-D7/D9-D7-CCD (ad1-nc-000022)"
+        ],
+        "site": {
+          "id": "nc-000022",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2014-01-01",
+            "code": "live"
+          },
+          "parentsite": "CLT-Concourse D",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-Concourse D - D7/D9",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2014-01-01",
+            "linkActual": "2014-01-01"
+          },
+          "device": {
+            "name": "CLT-Concourse D - D7/D9",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-000022",
+            "display": [
+              {
+                "manufacturer": "NEC",
+                "size": "75\"",
+                "serial": "21018627NA"
+              },
+              {
+                "playerId": "nc-000022-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "72\"",
+                "serial": "311KCUK9H998"
+              }
+            ],
+            "modem": [],
+            "player": [
+              {
+                "id": "nc-000022-C02",
+                "hostname": "ad2-nc-000022",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:71:22:BB",
+                "serial": "U862226",
+                "salesuniqueid": "ConcourseD-D7/D9-D9-CCD (ad2-nc-000022)"
+              },
+              {
+                "id": "nc-000022-C01",
+                "hostname": "ad1-nc-000022",
+                "manufacturer": "Logic Supply",
+                "macAddress": "78:F2:9E:90:F8:C2",
+                "serial": "U680605",
+                "salesuniqueid": "ConcourseD-D7/D9-D7-CCD (ad1-nc-000022)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-000022",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000022",
+              "type": "ooh",
+              "siteId": "nc-000022"
+            }
+          },
+          {
+            "id": "broadsign.version:14.5.1-2-ad2-nc-000022",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000022",
+              "type": "ooh",
+              "siteId": "nc-000022"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-000022",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000022",
+              "type": "ooh",
+              "siteId": "nc-000022"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad2-nc-000022",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000022",
+              "type": "ooh",
+              "siteId": "nc-000022"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-001033",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-001033",
+        "status": "live",
+        "salesuniqueid": [
+          "BaggageCarouselA-E-BCD (ad1-nc-001033)"
+        ],
+        "site": {
+          "id": "nc-001033",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2023-01-19",
+            "code": "live"
+          },
+          "parentsite": "CLT-Baggage Claim",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-Baggage Claim-Baggage Carousel A East - Single",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2023-01-19",
+            "linkActual": "2023-01-19"
+          },
+          "device": {
+            "name": "CLT-Baggage Claim-Baggage Carousel A East - Single",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-001033",
+            "display": [
+              {
+                "playerId": "nc-001033-C02-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "911KCKJP3141"
+              }
+            ],
+            "modem": [],
+            "player": [
+              {
+                "id": "nc-001033-C02",
+                "hostname": "ad2-nc-001033",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:6B:D6",
+                "serial": "U719240",
+                "salesuniqueid": "BaggageCarouselA-E-BCD (ad1-nc-001033)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-001033",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-001033",
+              "type": "ooh",
+              "siteId": "nc-001033"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-001033",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-001033",
+              "type": "ooh",
+              "siteId": "nc-001033"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-001035",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-001035",
+        "status": "live",
+        "salesuniqueid": [
+          "BaggageB-ICPC-BCD (ad1-nc-000030)"
+        ],
+        "site": {
+          "id": "nc-001035",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2023-01-19",
+            "code": "live"
+          },
+          "parentsite": "CLT-Baggage Claim",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-Baggage Claim-West End Baggage Hall - ICPC",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2023-01-19",
+            "linkActual": "2023-01-19"
+          },
+          "device": {
+            "name": "CLT-Baggage Claim-West End Baggage Hall - ICPC",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-001035",
+            "display": [
+              {
+                "playerId": "nc-001035-C02-D01",
+                "manufacturer": "Planar",
+                "orientation": "Landscape",
+                "size": "22\"",
+                "serial": "IxN-002200-dis"
+              },
+              {
+                "playerId": "nc-001035-C03-D01",
+                "manufacturer": "Planar",
+                "orientation": "Landscape",
+                "size": "22\"",
+                "serial": "IxN-002201-dis"
+              },
+              {
+                "playerId": "nc-001035-C01-D01",
+                "manufacturer": "Planar",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "PREFM2JA00039"
+              }
+            ],
+            "modem": [],
+            "player": [
+              {
+                "id": "nc-001035-C01",
+                "hostname": "ad1-nc-001035",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:92:B8",
+                "serial": "U723737",
+                "salesuniqueid": "BaggageB-ICPC-BCD (ad1-nc-000030)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-001035",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-001035",
+              "type": "ooh",
+              "siteId": "nc-001035"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-001035",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-001035",
+              "type": "ooh",
+              "siteId": "nc-001035"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-000032",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-000032",
+        "status": "live",
+        "salesuniqueid": [
+          "BaggageD-ICPC-BCD (ad1-nc-000032)"
+        ],
+        "site": {
+          "id": "nc-000032",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2020-02-29",
+            "code": "live"
+          },
+          "parentsite": "CLT-Baggage Claim",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-Baggage Claim-Baggage D - ICPC",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2020-02-29",
+            "linkActual": "2020-02-29"
+          },
+          "device": {
+            "name": "CLT-Baggage Claim-Baggage D - ICPC",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-000032",
+            "display": [
+              {
+                "playerId": "nc-000032-C03-D01",
+                "manufacturer": "Planar",
+                "orientation": "Landscape",
+                "size": "22\"",
+                "serial": "IxN-002207-dis"
+              },
+              {
+                "playerId": "nc-000032-C02-D01",
+                "manufacturer": "Planar",
+                "orientation": "Landscape",
+                "size": "22\"",
+                "serial": "IxN-002206-dis"
+              },
+              {
+                "playerId": "nc-000031-C01-D01",
+                "manufacturer": "Planar",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "PQGUL6JA00023"
+              }
+            ],
+            "modem": [],
+            "player": [
+              {
+                "id": "nc-000032-C01",
+                "hostname": "ad1-nc-000032",
+                "manufacturer": "Logic Supply",
+                "macAddress": "78:F2:9E:91:6E:5F",
+                "serial": "U700126",
+                "salesuniqueid": "BaggageD-ICPC-BCD (ad1-nc-000032)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-000032",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000032",
+              "type": "ooh",
+              "siteId": "nc-000032"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-000032",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000032",
+              "type": "ooh",
+              "siteId": "nc-000032"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-000020",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-000020",
+        "status": "live",
+        "salesuniqueid": [
+          "ConcourseD-D1/D2-D1-CCD (ad1-nc-000020)",
+          "ConcourseD-D1/D2-D2-CCD (ad2-nc-000020)"
+        ],
+        "site": {
+          "id": "nc-000020",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2014-01-01",
+            "code": "live"
+          },
+          "parentsite": "CLT-Concourse D",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-Concourse D - D1/D2",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2014-01-01",
+            "linkActual": "2014-01-01"
+          },
+          "device": {
+            "name": "CLT-Concourse D - D1/D2",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-000020",
+            "display": [
+              {
+                "playerId": "nc-000020-C02-D01",
+                "manufacturer": "NEC",
+                "resolution": "1920x1080",
+                "size": "72\u201d",
+                "serial": "11016377NA"
+              },
+              {
+                "playerId": "nc-000020-C01-D01",
+                "manufacturer": "NEC",
+                "resolution": "1920x1080",
+                "size": "72\u201d",
+                "serial": "11016560NA"
+              }
+            ],
+            "modem": [],
+            "player": [
+              {
+                "id": "nc-000020-C01",
+                "hostname": "ad1-nc-000020",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:6B:FD",
+                "serial": "U730017",
+                "salesuniqueid": "ConcourseD-D1/D2-D1-CCD (ad1-nc-000020)"
+              },
+              {
+                "id": "nc-000020-C02",
+                "hostname": "ad2-nc-000020",
+                "manufacturer": "Logic Supply",
+                "macAddress": "78:F2:9E:91:6E:67",
+                "serial": "U700121",
+                "salesuniqueid": "ConcourseD-D1/D2-D2-CCD (ad2-nc-000020)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-000020",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000020",
+              "type": "ooh",
+              "siteId": "nc-000020"
+            }
+          },
+          {
+            "id": "broadsign.version:14.5.1-2-ad2-nc-000020",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000020",
+              "type": "ooh",
+              "siteId": "nc-000020"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-000020",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000020",
+              "type": "ooh",
+              "siteId": "nc-000020"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad2-nc-000020",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000020",
+              "type": "ooh",
+              "siteId": "nc-000020"
+            }
+          }
+        ],
+        "zendesk": {
+          "openTickets": 2
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-001000",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-001000",
+        "status": "live",
+        "salesuniqueid": [
+          "ConcourseA-A25-VW (ad1-nc-001000)"
+        ],
+        "site": {
+          "id": "nc-001000",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2019-07-08",
+            "code": "live"
+          },
+          "parentsite": "CLT-Concourse A",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-Concourse A - A25 - Video Wall",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2019-06-27",
+            "linkActual": "2019-07-08"
+          },
+          "device": {
+            "name": "CLT-Concourse A - A25 - Video Wall",
+            "productGroup": "Large Format",
+            "uniqueId": "nc-001000",
+            "display": [
+              {
+                "playerId": "nc-001000-C01-D04",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "55\u201d",
+                "serial": "903KCWCMG009"
+              },
+              {
+                "playerId": "nc-001000-C01-D06",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "55\u201d",
+                "serial": "903KCNLMG007"
+              },
+              {
+                "playerId": "nc-001000-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "55\u201d",
+                "serial": "907KCPYLK296"
+              },
+              {
+                "playerId": "nc-001000-C01-D05",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "55\u201d",
+                "serial": "903KCASMG008"
+              },
+              {
+                "playerId": "nc-001000-C01-D02",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "55\u201d",
+                "serial": "907KCJZLK292"
+              },
+              {
+                "playerId": "nc-001000-C01-D03",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "55\u201d",
+                "serial": "903KCRNMF990"
+              }
+            ],
+            "modem": [],
+            "player": [
+              {
+                "id": "nc-001000-C01",
+                "hostname": "ad1-nc-001000",
+                "manufacturer": "Logic Supply",
+                "macAddress": "70:85:C2:16:30:95",
+                "serial": "U704731",
+                "salesuniqueid": "ConcourseA-A25-VW (ad1-nc-001000)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-001000",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-001000",
+              "type": "ooh",
+              "siteId": "nc-001000"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-001000",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-001000",
+              "type": "ooh",
+              "siteId": "nc-001000"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-001018",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-001018",
+        "status": "installed",
+        "salesuniqueid": [],
+        "site": {
+          "id": "nc-001018",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Installed",
+            "code": "installed"
+          },
+          "parentsite": "CLT-Concourse C",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT - C1-5080",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {},
+          "device": {
+            "name": "CLT - C1-5080",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-001018",
+            "display": [],
+            "modem": [],
+            "player": []
+          },
+          "components": []
+        },
+        "tags": []
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-000028",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-000028",
+        "status": "live",
+        "salesuniqueid": [
+          "BaggageCarouselE-BCD (ad1-nc-000028)"
+        ],
+        "site": {
+          "id": "nc-000028",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2020-06-22",
+            "code": "live"
+          },
+          "parentsite": "CLT-Baggage Claim",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-Baggage Claim-Baggage Carousel E - Single",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2020-06-22",
+            "linkActual": "2020-06-22"
+          },
+          "device": {
+            "name": "CLT-Baggage Claim-Baggage Carousel E - Single",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-000028",
+            "display": [
+              {
+                "playerId": "nc-000028-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "906KCJZN8980"
+              }
+            ],
+            "modem": [],
+            "player": [
+              {
+                "id": "nc-000028-C01",
+                "hostname": "ad1-nc-000028",
+                "manufacturer": "Intel",
+                "macAddress": "F4:4D:30:6D:4F:1F",
+                "serial": "G6BN713007LS",
+                "salesuniqueid": "BaggageCarouselE-BCD (ad1-nc-000028)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-000028",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000028",
+              "type": "ooh",
+              "siteId": "nc-000028"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-000028",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000028",
+              "type": "ooh",
+              "siteId": "nc-000028"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-000007",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-000007",
+        "status": "live",
+        "salesuniqueid": [
+          "ConcourseA-A6/A8-A8-CCD (ad2-nc-000007)",
+          "ConcourseA-A6/A8-A6-CCD (ad1-nc-000007)"
+        ],
+        "site": {
+          "id": "nc-000007",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2019-11-08",
+            "code": "live"
+          },
+          "parentsite": "CLT-Concourse A",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-Concourse A - A6/A8",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2019-11-06",
+            "linkActual": "2019-11-08"
+          },
+          "device": {
+            "name": "CLT-Concourse A - A6/A8",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-000007",
+            "display": [
+              {
+                "playerId": "nc-000007-C02-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "908KCYQQC506"
+              },
+              {
+                "playerId": "nc-000007-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "907KCDGQ1850"
+              }
+            ],
+            "modem": [],
+            "player": [
+              {
+                "id": "nc-000007-C02",
+                "hostname": "ad2-nc-000007",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:92:D8",
+                "serial": "U723166",
+                "salesuniqueid": "ConcourseA-A6/A8-A8-CCD (ad2-nc-000007)"
+              },
+              {
+                "id": "nc-000007-C01",
+                "hostname": "ad1-nc-000007",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:92:B6",
+                "serial": "U723165",
+                "salesuniqueid": "ConcourseA-A6/A8-A6-CCD (ad1-nc-000007)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-000007",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000007",
+              "type": "ooh",
+              "siteId": "nc-000007"
+            }
+          },
+          {
+            "id": "broadsign.version:14.5.1-2-ad2-nc-000007",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000007",
+              "type": "ooh",
+              "siteId": "nc-000007"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-000007",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000007",
+              "type": "ooh",
+              "siteId": "nc-000007"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad2-nc-000007",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000007",
+              "type": "ooh",
+              "siteId": "nc-000007"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-001024",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-001024",
+        "status": "installed",
+        "salesuniqueid": [],
+        "site": {
+          "id": "nc-001024",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Installed",
+            "code": "installed"
+          },
+          "parentsite": "CLT-Baggage Claim",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT - M1-4530",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {},
+          "device": {
+            "name": "CLT - M1-4530",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-001024",
+            "display": [],
+            "modem": [],
+            "player": []
+          },
+          "components": []
+        },
+        "tags": []
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-001014",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-001014",
+        "status": "installed",
+        "salesuniqueid": [],
+        "site": {
+          "id": "nc-001014",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Installed",
+            "code": "installed"
+          },
+          "parentsite": "CLT-Concourse B",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT - B1-3075",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {},
+          "device": {
+            "name": "CLT - B1-3075",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-001014",
+            "display": [],
+            "modem": [],
+            "player": []
+          },
+          "components": []
+        },
+        "tags": []
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-000021",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-000021",
+        "status": "live",
+        "salesuniqueid": [
+          "ConcourseD-D4/D6-D4-CCD (ad1-nc-000021)",
+          "ConcourseD-D4/D6-D6-CCD (ad2-nc-000021)"
+        ],
+        "site": {
+          "id": "nc-000021",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2014-01-01",
+            "code": "live"
+          },
+          "parentsite": "CLT-Concourse D",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-Concourse D - D4/D6",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2014-01-01",
+            "linkActual": "2014-01-01"
+          },
+          "device": {
+            "name": "CLT-Concourse D - D4/D6",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-000021",
+            "display": [
+              {
+                "playerId": "nc-000021-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "72\"",
+                "serial": "306KCYQ45042"
+              },
+              {
+                "playerId": "nc-000021-C02-D01",
+                "manufacturer": "NEC",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "72\u201d",
+                "serial": "16017916NA"
+              }
+            ],
+            "modem": [],
+            "player": [
+              {
+                "id": "nc-000021-C01",
+                "hostname": "ad1-nc-000021",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:6C:6E",
+                "serial": "U723735",
+                "salesuniqueid": "ConcourseD-D4/D6-D4-CCD (ad1-nc-000021)"
+              },
+              {
+                "id": "nc-000021-C02",
+                "hostname": "ad2-nc-000021",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:6B:D8",
+                "serial": "U719241",
+                "salesuniqueid": "ConcourseD-D4/D6-D6-CCD (ad2-nc-000021)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-000021",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000021",
+              "type": "ooh",
+              "siteId": "nc-000021"
+            }
+          },
+          {
+            "id": "broadsign.version:14.5.1-2-ad2-nc-000021",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000021",
+              "type": "ooh",
+              "siteId": "nc-000021"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-000021",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000021",
+              "type": "ooh",
+              "siteId": "nc-000021"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad2-nc-000021",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000021",
+              "type": "ooh",
+              "siteId": "nc-000021"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-000015",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-000015",
+        "status": "live",
+        "salesuniqueid": [
+          "ConcourseB-B2/B4-B2-CCD (ad1-nc-000015)",
+          "ConcourseB-B2/B4-B4-CCD (ad2-nc-000015)"
+        ],
+        "site": {
+          "id": "nc-000015",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2019-09-20",
+            "code": "live"
+          },
+          "parentsite": "CLT-Concourse B",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-Concourse B-IxNSight-Refresh-19 - B2/B4",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2019-09-17",
+            "linkActual": "2019-09-20"
+          },
+          "device": {
+            "name": "CLT-Concourse B-IxNSight-Refresh-19 - B2/B4",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-000015",
+            "display": [
+              {
+                "playerId": "nc-000015-C02-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "906KCTBN8947"
+              },
+              {
+                "playerId": "nc-000015-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "906KCTBN8946"
+              }
+            ],
+            "modem": [],
+            "player": [
+              {
+                "id": "nc-000015-C01",
+                "hostname": "ad1-nc-000015",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:6C:5C",
+                "serial": "U719609",
+                "salesuniqueid": "ConcourseB-B2/B4-B2-CCD (ad1-nc-000015)"
+              },
+              {
+                "id": "nc-000015-C02",
+                "hostname": "ad2-nc-000015",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:6C:3E",
+                "serial": "U719610",
+                "salesuniqueid": "ConcourseB-B2/B4-B4-CCD (ad2-nc-000015)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-000015",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000015",
+              "type": "ooh",
+              "siteId": "nc-000015"
+            }
+          },
+          {
+            "id": "broadsign.version:14.5.1-2-ad2-nc-000015",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000015",
+              "type": "ooh",
+              "siteId": "nc-000015"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-000015",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000015",
+              "type": "ooh",
+              "siteId": "nc-000015"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad2-nc-000015",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000015",
+              "type": "ooh",
+              "siteId": "nc-000015"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-001016",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-001016",
+        "status": "installed",
+        "salesuniqueid": [],
+        "site": {
+          "id": "nc-001016",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Installed",
+            "code": "installed"
+          },
+          "parentsite": "CLT-Concourse C",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT - C1-1020",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {},
+          "device": {
+            "name": "CLT - C1-1020",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-001016",
+            "display": [],
+            "modem": [],
+            "player": []
+          },
+          "components": []
+        },
+        "tags": []
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-000027",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-000027",
+        "status": "live",
+        "salesuniqueid": [
+          "BaggageCarouselD-BCD (ad1-nc-000027)"
+        ],
+        "site": {
+          "id": "nc-000027",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2020-08-22",
+            "code": "live"
+          },
+          "parentsite": "CLT-Baggage Claim",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-Baggage Claim-Baggage Carousel D - Single",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2020-08-19",
+            "linkActual": "2020-08-22"
+          },
+          "device": {
+            "name": "CLT-Baggage Claim-Baggage Carousel D - Single",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-000027",
+            "display": [
+              {
+                "playerId": "nc-000027-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "906KCTBN8970"
+              }
+            ],
+            "modem": [],
+            "player": [
+              {
+                "id": "nc-000027-C01",
+                "hostname": "ad1-nc-000027",
+                "manufacturer": "Logic Supply",
+                "macAddress": "78:F2:9E:91:6E:6E",
+                "serial": "U700125",
+                "salesuniqueid": "BaggageCarouselD-BCD (ad1-nc-000027)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-000027",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000027",
+              "type": "ooh",
+              "siteId": "nc-000027"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-000027",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000027",
+              "type": "ooh",
+              "siteId": "nc-000027"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-000006",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-000006",
+        "status": "live",
+        "salesuniqueid": [
+          "ConcourseA-A1/A3-A1-CCD (ad1-nc-000006)",
+          "ConcourseA-A1/A3-A3-CCD (ad2-nc-000006)"
+        ],
+        "site": {
+          "id": "nc-000006",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2019-11-08",
+            "code": "live"
+          },
+          "parentsite": "CLT-Concourse A",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-Concourse A - A1/A3",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2019-11-08",
+            "linkActual": "2019-11-08"
+          },
+          "device": {
+            "name": "CLT-Concourse A - A1/A3",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-000006",
+            "display": [
+              {
+                "playerId": "nc-000006-C02-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "907KCLHQ1872"
+              },
+              {
+                "playerId": "nc-000006-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "908KCXMQC474"
+              }
+            ],
+            "modem": [],
+            "player": [
+              {
+                "id": "nc-000006-C01",
+                "hostname": "ad1-nc-000006",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:92:D0",
+                "serial": "U723163",
+                "salesuniqueid": "ConcourseA-A1/A3-A1-CCD (ad1-nc-000006)"
+              },
+              {
+                "id": "nc-000006-C02",
+                "hostname": "ad2-nc-000006",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:6B:C1",
+                "serial": "U723164",
+                "salesuniqueid": "ConcourseA-A1/A3-A3-CCD (ad2-nc-000006)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-000006",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000006",
+              "type": "ooh",
+              "siteId": "nc-000006"
+            }
+          },
+          {
+            "id": "broadsign.version:14.5.1-2-ad2-nc-000006",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000006",
+              "type": "ooh",
+              "siteId": "nc-000006"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-000006",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000006",
+              "type": "ooh",
+              "siteId": "nc-000006"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad2-nc-000006",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000006",
+              "type": "ooh",
+              "siteId": "nc-000006"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-000016",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-000016",
+        "status": "live",
+        "salesuniqueid": [
+          "ConcourseC-C3/C5-C3-CCD (ad1-nc-000016)",
+          "ConcourseC-C3/C5-C5-CCD (ad2-nc-000016)"
+        ],
+        "site": {
+          "id": "nc-000016",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2021-01-13",
+            "code": "live"
+          },
+          "parentsite": "CLT-Concourse C",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-Concourse C - C3/C5",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2021-01-09",
+            "linkActual": "2021-01-13"
+          },
+          "device": {
+            "name": "CLT-Concourse C - C3/C5",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-000016",
+            "display": [
+              {
+                "playerId": "nc-000016-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "911KCUKP3190"
+              },
+              {
+                "playerId": "nc-000016-C02-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "004KCEAKR428"
+              }
+            ],
+            "modem": [],
+            "player": [
+              {
+                "id": "nc-000016-C01",
+                "hostname": "ad1-nc-000016",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:6C:6B",
+                "serial": "U719242",
+                "salesuniqueid": "ConcourseC-C3/C5-C3-CCD (ad1-nc-000016)"
+              },
+              {
+                "id": "nc-000016-C02",
+                "hostname": "ad2-nc-000016",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:92:C6",
+                "serial": "U723171",
+                "salesuniqueid": "ConcourseC-C3/C5-C5-CCD (ad2-nc-000016)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-000016",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000016",
+              "type": "ooh",
+              "siteId": "nc-000016"
+            }
+          },
+          {
+            "id": "broadsign.version:14.5.1-2-ad2-nc-000016",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000016",
+              "type": "ooh",
+              "siteId": "nc-000016"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-000016",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000016",
+              "type": "ooh",
+              "siteId": "nc-000016"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad2-nc-000016",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000016",
+              "type": "ooh",
+              "siteId": "nc-000016"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-000012",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-000012",
+        "status": "live",
+        "salesuniqueid": [
+          "ConcourseB-B6/B8-B8-CCD (ad2-nc-000012)",
+          "ConcourseB-B6/B8-B6-CCD (ad1-nc-000012)"
+        ],
+        "site": {
+          "id": "nc-000012",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2019-09-19",
+            "code": "live"
+          },
+          "parentsite": "CLT-Concourse B",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-Concourse B-IxNSight-Refresh-19 - B6/B8",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2019-09-19",
+            "linkActual": "2019-09-19"
+          },
+          "device": {
+            "name": "CLT-Concourse B-IxNSight-Refresh-19 - B6/B8",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-000012",
+            "display": [
+              {
+                "playerId": "nc-000012-C02-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "004KCJZKR052"
+              },
+              {
+                "playerId": "nc-000012-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "906KCTBN8969"
+              }
+            ],
+            "modem": [],
+            "player": [
+              {
+                "id": "nc-000012-C02",
+                "hostname": "ad2-nc-000012",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:6C:3C",
+                "serial": "U719604",
+                "salesuniqueid": "ConcourseB-B6/B8-B8-CCD (ad2-nc-000012)"
+              },
+              {
+                "id": "nc-000012-C01",
+                "hostname": "ad1-nc-000012",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:6C:02",
+                "serial": "U719603",
+                "salesuniqueid": "ConcourseB-B6/B8-B6-CCD (ad1-nc-000012)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-000012",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000012",
+              "type": "ooh",
+              "siteId": "nc-000012"
+            }
+          },
+          {
+            "id": "broadsign.version:14.5.1-2-ad2-nc-000012",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000012",
+              "type": "ooh",
+              "siteId": "nc-000012"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-000012",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000012",
+              "type": "ooh",
+              "siteId": "nc-000012"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad2-nc-000012",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000012",
+              "type": "ooh",
+              "siteId": "nc-000012"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-000003",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-000003",
+        "status": "live",
+        "salesuniqueid": [
+          "BaggageClaim-EscalatorC-VW (ad1-nc-000003)"
+        ],
+        "site": {
+          "id": "nc-000003",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2014-01-01",
+            "code": "live"
+          },
+          "parentsite": "CLT-Baggage Claim",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-Baggage Claim-Escalator C - Video Wall",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2014-01-01",
+            "linkActual": "2014-01-01"
+          },
+          "device": {
+            "name": "CLT-Baggage Claim-Escalator C - Video Wall",
+            "productGroup": "Large Format",
+            "uniqueId": "nc-000003",
+            "display": [
+              {
+                "playerId": "nc-000003-C01-D06",
+                "manufacturer": "Barco",
+                "orientation": "Landscape",
+                "resolution": "1920x720",
+                "size": "46\"",
+                "serial": "IxN-002169-dis"
+              },
+              {
+                "playerId": "nc-000003-C01-D04",
+                "manufacturer": "Barco",
+                "orientation": "Landscape",
+                "resolution": "1920x720",
+                "size": "46\"",
+                "serial": "IxN-002167-dis"
+              },
+              {
+                "playerId": "nc-000003-C01-D01",
+                "manufacturer": "Barco",
+                "orientation": "Landscape",
+                "resolution": "1920x720",
+                "size": "46\"",
+                "serial": "IxN-002164-dis"
+              },
+              {
+                "playerId": "nc-000003-C01-D02",
+                "manufacturer": "Barco",
+                "orientation": "Landscape",
+                "resolution": "1920x720",
+                "size": "46\"",
+                "serial": "IxN-003629-dis"
+              },
+              {
+                "playerId": "nc-000003-C01-D03",
+                "manufacturer": "Barco",
+                "orientation": "Landscape",
+                "resolution": "1920x720",
+                "size": "46\"",
+                "serial": "IxN-002166-dis"
+              },
+              {
+                "playerId": "nc-000003-C01-D05",
+                "manufacturer": "Barco",
+                "orientation": "Landscape",
+                "resolution": "1920x720",
+                "size": "46\"",
+                "serial": "IxN-002168-dis"
+              }
+            ],
+            "modem": [],
+            "player": [
+              {
+                "id": "nc-000003-C01",
+                "hostname": "ad1-nc-000003",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:6C:5A",
+                "serial": "U719612",
+                "salesuniqueid": "BaggageClaim-EscalatorC-VW (ad1-nc-000003)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-000003",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000003",
+              "type": "ooh",
+              "siteId": "nc-000003"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-000003",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000003",
+              "type": "ooh",
+              "siteId": "nc-000003"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-001020",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-001020",
+        "status": "installed",
+        "salesuniqueid": [],
+        "site": {
+          "id": "nc-001020",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Installed",
+            "code": "installed"
+          },
+          "parentsite": "CLT-Concourse D",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT - D2-1505",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {},
+          "device": {
+            "name": "CLT - D2-1505",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-001020",
+            "display": [],
+            "modem": [],
+            "player": []
+          },
+          "components": []
+        },
+        "tags": []
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-001031",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-001031",
+        "status": "live",
+        "salesuniqueid": [
+          "BaggageCarouselC3-BCD (ad1-nc-001031)"
+        ],
+        "site": {
+          "id": "nc-001031",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2023-01-19",
+            "code": "live"
+          },
+          "parentsite": "CLT-Baggage Claim",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-Baggage Claim-Baggage Carousel C3 -B2B",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2023-01-19",
+            "linkActual": "2023-01-19"
+          },
+          "device": {
+            "name": "CLT-Baggage Claim-Baggage Carousel C3 -B2B",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-001031",
+            "display": [
+              {
+                "playerId": "nc-001031-C01-D02",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "911KCDGP3186"
+              },
+              {
+                "playerId": "nc-001031-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "911KCQXP3132"
+              }
+            ],
+            "modem": [],
+            "player": [
+              {
+                "id": "nc-001031-C01",
+                "hostname": "ad1-nc-001031",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:6B:C6",
+                "serial": "U719599",
+                "salesuniqueid": "BaggageCarouselC3-BCD (ad1-nc-001031)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-001031",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-001031",
+              "type": "ooh",
+              "siteId": "nc-001031"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-001031",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-001031",
+              "type": "ooh",
+              "siteId": "nc-001031"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-001015",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-001015",
+        "status": "installed",
+        "salesuniqueid": [],
+        "site": {
+          "id": "nc-001015",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Installed",
+            "code": "installed"
+          },
+          "parentsite": "CLT-Concourse B",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT - B1-6080",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {},
+          "device": {
+            "name": "CLT - B1-6080",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-001015",
+            "display": [],
+            "modem": [],
+            "player": []
+          },
+          "components": []
+        },
+        "tags": []
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-001017",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-001017",
+        "status": "installed",
+        "salesuniqueid": [],
+        "site": {
+          "id": "nc-001017",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Installed",
+            "code": "installed"
+          },
+          "parentsite": "CLT-Concourse C",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT - C1-3020",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {},
+          "device": {
+            "name": "CLT - C1-3020",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-001017",
+            "display": [],
+            "modem": [],
+            "player": []
+          },
+          "components": []
+        },
+        "tags": []
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-001022",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-001022",
+        "status": "installed",
+        "salesuniqueid": [],
+        "site": {
+          "id": "nc-001022",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Installed",
+            "code": "installed"
+          },
+          "parentsite": "CLT-Concourse D",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT - D2-5510",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {},
+          "device": {
+            "name": "CLT - D2-5510",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-001022",
+            "display": [],
+            "modem": [],
+            "player": []
+          },
+          "components": []
+        },
+        "tags": []
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-000014",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-000014",
+        "status": "live",
+        "salesuniqueid": [
+          "ConcourseB-B10/B12-B12-CCD (ad2-nc-000014)",
+          "ConcourseB-B10/B12-B10-CCD (ad1-nc-000014)"
+        ],
+        "site": {
+          "id": "nc-000014",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2019-09-20",
+            "code": "live"
+          },
+          "parentsite": "CLT-Concourse B",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-Concourse B-IxNSight-Refresh-19 - B10/B12",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2019-09-20",
+            "linkActual": "2019-09-20"
+          },
+          "device": {
+            "name": "CLT-Concourse B-IxNSight-Refresh-19 - B10/B12",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-000014",
+            "display": [
+              {
+                "playerId": "nc-000014-C02-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "906KCWCN8977"
+              },
+              {
+                "playerId": "nc-000014-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "906KCFTN8955"
+              }
+            ],
+            "modem": [],
+            "player": [
+              {
+                "id": "nc-000014-C02",
+                "hostname": "ad2-nc-000014",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:6B:D4",
+                "serial": "U719608",
+                "salesuniqueid": "ConcourseB-B10/B12-B12-CCD (ad2-nc-000014)"
+              },
+              {
+                "id": "nc-000014-C01",
+                "hostname": "ad1-nc-000014",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:6C:3B",
+                "serial": "U719607",
+                "salesuniqueid": "ConcourseB-B10/B12-B10-CCD (ad1-nc-000014)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-000014",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000014",
+              "type": "ooh",
+              "siteId": "nc-000014"
+            }
+          },
+          {
+            "id": "broadsign.version:14.5.1-2-ad2-nc-000014",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000014",
+              "type": "ooh",
+              "siteId": "nc-000014"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-000014",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000014",
+              "type": "ooh",
+              "siteId": "nc-000014"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad2-nc-000014",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000014",
+              "type": "ooh",
+              "siteId": "nc-000014"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-000019",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-000019",
+        "status": "live",
+        "salesuniqueid": [
+          "ConcourseC-C15/C17-C17-CCD (ad2-nc-000019)",
+          "ConcourseC-C15/C17-C15-CCD (ad1-nc-000019)"
+        ],
+        "site": {
+          "id": "nc-000019",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2021-01-13",
+            "code": "live"
+          },
+          "parentsite": "CLT-Concourse C",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-Concourse C - C15/C17",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2021-01-13",
+            "linkActual": "2021-01-13"
+          },
+          "device": {
+            "name": "CLT-Concourse C - C15/C17",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-000019",
+            "display": [
+              {
+                "playerId": "nc-000019-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "004KCYQKQ930"
+              },
+              {
+                "playerId": "nc-000019-C02-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "004KCBDKR029"
+              }
+            ],
+            "modem": [],
+            "player": [
+              {
+                "id": "nc-000019-C02",
+                "hostname": "ad2-nc-000019",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:92:BC",
+                "serial": "U723177",
+                "salesuniqueid": "ConcourseC-C15/C17-C17-CCD (ad2-nc-000019)"
+              },
+              {
+                "id": "nc-000019-C01",
+                "hostname": "ad1-nc-000019",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:6B:C3",
+                "serial": "U723176",
+                "salesuniqueid": "ConcourseC-C15/C17-C15-CCD (ad1-nc-000019)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-000019",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000019",
+              "type": "ooh",
+              "siteId": "nc-000019"
+            }
+          },
+          {
+            "id": "broadsign.version:14.5.1-2-ad2-nc-000019",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000019",
+              "type": "ooh",
+              "siteId": "nc-000019"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-000019",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000019",
+              "type": "ooh",
+              "siteId": "nc-000019"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad2-nc-000019",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000019",
+              "type": "ooh",
+              "siteId": "nc-000019"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-000011",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-000011",
+        "status": "live",
+        "salesuniqueid": [
+          "ConcourseB-B5/B7-B7-CCD (ad2-nc-000011)",
+          "ConcourseB-B5/B7-B5-CCD (ad1-nc-000011)"
+        ],
+        "site": {
+          "id": "nc-000011",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2019-09-19",
+            "code": "live"
+          },
+          "parentsite": "CLT-Concourse B",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-Concourse B-IxNSight-Refresh-19 - B5/B7",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2019-09-19",
+            "linkActual": "2019-09-19"
+          },
+          "device": {
+            "name": "CLT-Concourse B-IxNSight-Refresh-19 - B5/B7",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-000011",
+            "display": [
+              {
+                "playerId": "nc-000011-C02-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "906KCFTN8979"
+              },
+              {
+                "playerId": "nc-000011-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "906KCXMN8978"
+              }
+            ],
+            "modem": [],
+            "player": [
+              {
+                "id": "nc-000011-C02",
+                "hostname": "ad2-nc-000011",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:6C:0C",
+                "serial": "U719602",
+                "salesuniqueid": "ConcourseB-B5/B7-B7-CCD (ad2-nc-000011)"
+              },
+              {
+                "id": "nc-000011-C01",
+                "hostname": "ad1-nc-000011",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:6C:58",
+                "serial": "U719601",
+                "salesuniqueid": "ConcourseB-B5/B7-B5-CCD (ad1-nc-000011)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-000011",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000011",
+              "type": "ooh",
+              "siteId": "nc-000011"
+            }
+          },
+          {
+            "id": "broadsign.version:14.5.1-2-ad2-nc-000011",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000011",
+              "type": "ooh",
+              "siteId": "nc-000011"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-000011",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000011",
+              "type": "ooh",
+              "siteId": "nc-000011"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad2-nc-000011",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000011",
+              "type": "ooh",
+              "siteId": "nc-000011"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-001019",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-001019",
+        "status": "installed",
+        "salesuniqueid": [],
+        "site": {
+          "id": "nc-001019",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Installed",
+            "code": "installed"
+          },
+          "parentsite": "CLT-Baggage Claim",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT - M1-8430",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {},
+          "device": {
+            "name": "CLT - M1-8430",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-001019",
+            "display": [],
+            "modem": [],
+            "player": []
+          },
+          "components": []
+        },
+        "tags": []
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-001012",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-001012",
+        "status": "installed",
+        "salesuniqueid": [],
+        "site": {
+          "id": "nc-001012",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Installed",
+            "code": "installed"
+          },
+          "parentsite": "CLT-Concourse A",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT - A2-2250",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {},
+          "device": {
+            "name": "CLT - A2-2250",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-001012",
+            "display": [],
+            "modem": [],
+            "player": []
+          },
+          "components": []
+        },
+        "tags": []
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-000026",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-000026",
+        "status": "live",
+        "salesuniqueid": [
+          "BaggageCarouselC-BCD (ad1-nc-000026)"
+        ],
+        "site": {
+          "id": "nc-000026",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2020-03-21",
+            "code": "live"
+          },
+          "parentsite": "CLT-Baggage Claim",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-Baggage Claim-Baggage Carousel C -B2B",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2020-03-21",
+            "linkActual": "2020-03-21"
+          },
+          "device": {
+            "name": "CLT-Baggage Claim-Baggage Carousel C -B2B",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-000026",
+            "display": [
+              {
+                "playerId": "nc-000026-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "911KCJZP3196"
+              },
+              {
+                "playerId": "nc-000026-C01-D02",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "911KCTBP3185"
+              }
+            ],
+            "modem": [],
+            "player": [
+              {
+                "id": "nc-000026-C01",
+                "hostname": "ad1-nc-000026",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:6C:63",
+                "serial": "U719600",
+                "salesuniqueid": "BaggageCarouselC-BCD (ad1-nc-000026)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-000026",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000026",
+              "type": "ooh",
+              "siteId": "nc-000026"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-000026",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000026",
+              "type": "ooh",
+              "siteId": "nc-000026"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-000031",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-000031",
+        "status": "live",
+        "salesuniqueid": [
+          "BaggageC-ICPC-BCD (ad1-nc-000031)"
+        ],
+        "site": {
+          "id": "nc-000031",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2020-02-29",
+            "code": "live"
+          },
+          "parentsite": "CLT-Baggage Claim",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-Baggage Claim-Baggage C - ICPC",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2020-02-29",
+            "linkActual": "2020-02-29"
+          },
+          "device": {
+            "name": "CLT-Baggage Claim-Baggage C - ICPC",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-000031",
+            "display": [
+              {
+                "playerId": "nc-000031-C02-D01",
+                "manufacturer": "Planar",
+                "orientation": "Landscape",
+                "size": "22\"",
+                "serial": "IxN-002203-dis"
+              },
+              {
+                "playerId": "nc-000031-C03-D01",
+                "manufacturer": "Planar",
+                "orientation": "Landscape",
+                "size": "22\"",
+                "serial": "IxN-002204-dis"
+              },
+              {
+                "playerId": "nc-000031-C01-D01",
+                "manufacturer": "GDS",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "55\u201d",
+                "serial": "40931125D"
+              }
+            ],
+            "modem": [],
+            "player": [
+              {
+                "id": "nc-000031-C01",
+                "hostname": "ad1-nc-000031",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:41:44",
+                "serial": "U700240",
+                "salesuniqueid": "BaggageC-ICPC-BCD (ad1-nc-000031)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-000031",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000031",
+              "type": "ooh",
+              "siteId": "nc-000031"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-000031",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000031",
+              "type": "ooh",
+              "siteId": "nc-000031"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-001032",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-001032",
+        "status": "live",
+        "salesuniqueid": [
+          "BaggageE-IKD (ad1-nc-001032)"
+        ],
+        "site": {
+          "id": "nc-001032",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "1900-01-01",
+            "code": "live"
+          },
+          "parentsite": "CLT-Baggage Claim",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-Baggage Claim-Baggage E - ICPC",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2022-07-18",
+            "linkActual": "1900-01-01"
+          },
+          "device": {
+            "name": "CLT-Baggage Claim-Baggage E - ICPC",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-001032",
+            "display": [
+              {
+                "playerId": "nc-001032-C03-D01",
+                "manufacturer": "Planar",
+                "orientation": "Landscape",
+                "size": "22\"",
+                "serial": "IxN-002196-dis"
+              },
+              {
+                "playerId": "nc-001032-C02-D01",
+                "manufacturer": "Planar",
+                "orientation": "Landscape",
+                "size": "22\"",
+                "serial": "IxN-002195-dis"
+              },
+              {
+                "playerId": "nc-001032-C01-D01",
+                "manufacturer": "Planar",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "75\"",
+                "serial": "PMQSJCJA00001"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2935-9E65-1CA4",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nc-001032-C01",
+                "hostname": "ad1-nc-001032",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:41:42",
+                "serial": "U700239",
+                "salesuniqueid": "BaggageE-IKD (ad1-nc-001032)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-001032",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-001032",
+              "type": "ooh",
+              "siteId": "nc-001032"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-001032",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-001032",
+              "type": "ooh",
+              "siteId": "nc-001032"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-001027",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-001027",
+        "status": "installed",
+        "salesuniqueid": [],
+        "site": {
+          "id": "nc-001027",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Installed",
+            "code": "installed"
+          },
+          "parentsite": "CLT-Atrium",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT - M3-2490",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {},
+          "device": {
+            "name": "CLT - M3-2490",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-001027",
+            "display": [],
+            "modem": [],
+            "player": []
+          },
+          "components": []
+        },
+        "tags": []
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-000005",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-000005",
+        "status": "live",
+        "salesuniqueid": [
+          "Atrium-W-VW (ad1-nc-000005)"
+        ],
+        "site": {
+          "id": "nc-000005",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2022-08-19",
+            "code": "live"
+          },
+          "parentsite": "CLT-Atrium",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-Atrium - West Video Wall",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2022-08-16",
+            "linkActual": "2022-08-19"
+          },
+          "device": {
+            "name": "CLT-Atrium - West Video Wall",
+            "productGroup": "Large Format",
+            "uniqueId": "nc-000005",
+            "display": [
+              {
+                "playerId": "nc-000005-C01-D07",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "55",
+                "serial": "205MXCRAR955"
+              },
+              {
+                "playerId": "nc-000005-C01-D04",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "55",
+                "serial": "205MXBPAR949"
+              },
+              {
+                "playerId": "nc-000005-C01-D06",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "55",
+                "serial": "205MXCRA7883"
+              },
+              {
+                "playerId": "nc-000005-C01-D03",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "55",
+                "serial": "205MXQAA7860"
+              },
+              {
+                "playerId": "nc-000005-C01-D08",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "55",
+                "serial": "205MXPHA7880"
+              },
+              {
+                "playerId": "nc-000005-C01-D02",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "55",
+                "serial": "205MXNUA7871"
+              },
+              {
+                "playerId": "nc-000005-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "55",
+                "serial": "205MXZJA7861"
+              },
+              {
+                "playerId": "nc-000005-C01-D05",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "55",
+                "serial": "205MXKDA7869"
+              },
+              {
+                "playerId": "nc-000005-C01-D09",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "55",
+                "serial": "205MXQAAR956"
+              }
+            ],
+            "modem": [],
+            "player": [
+              {
+                "id": "nc-000005-C01",
+                "hostname": "ad1-nc-000005",
+                "manufacturer": "Logic Supply",
+                "macAddress": "78:F2:9E:91:6E:A7",
+                "serial": "U700133",
+                "salesuniqueid": "Atrium-W-VW (ad1-nc-000005)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-000005",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000005",
+              "type": "ooh",
+              "siteId": "nc-000005"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-000005",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000005",
+              "type": "ooh",
+              "siteId": "nc-000005"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-001025",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-001025",
+        "status": "installed",
+        "salesuniqueid": [],
+        "site": {
+          "id": "nc-001025",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Installed",
+            "code": "installed"
+          },
+          "parentsite": "CLT-Baggage Claim",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT - M1-6030",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {},
+          "device": {
+            "name": "CLT - M1-6030",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-001025",
+            "display": [],
+            "modem": [],
+            "player": []
+          },
+          "components": []
+        },
+        "tags": []
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-001011",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-001011",
+        "status": "installed",
+        "salesuniqueid": [],
+        "site": {
+          "id": "nc-001011",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Installed",
+            "code": "installed"
+          },
+          "parentsite": "CLT-Concourse A",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT - A2-0432",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {},
+          "device": {
+            "name": "CLT - A2-0432",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-001011",
+            "display": [],
+            "modem": [],
+            "player": []
+          },
+          "components": []
+        },
+        "tags": []
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-000004",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-000004",
+        "status": "live",
+        "salesuniqueid": [
+          "Atrium-E-VW (ad1-nc-000004)"
+        ],
+        "site": {
+          "id": "nc-000004",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2022-08-12",
+            "code": "live"
+          },
+          "parentsite": "CLT-Atrium",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-Atrium - East Video Wall",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2022-08-12",
+            "linkActual": "2022-08-12"
+          },
+          "device": {
+            "name": "CLT-Atrium - East Video Wall",
+            "productGroup": "Large Format",
+            "uniqueId": "nc-000004",
+            "display": [
+              {
+                "playerId": "nc-000004-C01-D08",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "55",
+                "serial": "205MXRFAR950"
+              },
+              {
+                "playerId": "nc-000004-C01-D07",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "55",
+                "serial": "205MXJXAR948"
+              },
+              {
+                "playerId": "nc-000004-C01-D02",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "55",
+                "serial": "205MXZJAR957"
+              },
+              {
+                "playerId": "nc-000004-C01-D03",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "55",
+                "serial": "205MXUNA7870"
+              },
+              {
+                "playerId": "nc-000004-C01-D05",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "55",
+                "serial": "205MXJXA7804"
+              },
+              {
+                "playerId": "nc-000004-C01-D09",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "55",
+                "serial": "205MXHBA7881"
+              },
+              {
+                "playerId": "nc-000004-C01-D04",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "55",
+                "serial": "205MXGLAR959"
+              },
+              {
+                "playerId": "nc-000004-C01-D06",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "55",
+                "serial": "205MXCRA7859"
+              },
+              {
+                "playerId": "nc-000004-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "55",
+                "serial": "205MXSKAR958"
+              }
+            ],
+            "modem": [],
+            "player": [
+              {
+                "id": "nc-000004-C01",
+                "hostname": "ad1-nc-000004",
+                "manufacturer": "Logic Supply",
+                "macAddress": "78:F2:9E:90:F8:EA",
+                "serial": "U680597",
+                "salesuniqueid": "Atrium-E-VW (ad1-nc-000004)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-000004",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000004",
+              "type": "ooh",
+              "siteId": "nc-000004"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-000004",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000004",
+              "type": "ooh",
+              "siteId": "nc-000004"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-000023",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-000023",
+        "status": "live",
+        "salesuniqueid": [
+          "ConcourseD-D6/D8-D8-CCD (ad2-nc-000023)",
+          "ConcourseD-D6/D8-D6-CCD (ad1-nc-000023)"
+        ],
+        "site": {
+          "id": "nc-000023",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2014-01-01",
+            "code": "live"
+          },
+          "parentsite": "CLT-Concourse D",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT-Concourse D - D6/D8",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2014-01-01",
+            "linkActual": "2014-01-01"
+          },
+          "device": {
+            "name": "CLT-Concourse D - D6/D8",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-000023",
+            "display": [
+              {
+                "playerId": "nc-000023-C02-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "72\"",
+                "serial": "IxN-003635-dis"
+              },
+              {
+                "playerId": "nc-000023-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "72\"",
+                "serial": "IxN-003634-dis"
+              }
+            ],
+            "modem": [],
+            "player": [
+              {
+                "id": "nc-000023-C02",
+                "hostname": "ad2-nc-000023",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:6C:6D",
+                "serial": "U719244",
+                "salesuniqueid": "ConcourseD-D6/D8-D8-CCD (ad2-nc-000023)"
+              },
+              {
+                "id": "nc-000023-C01",
+                "hostname": "ad1-nc-000023",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:6C:70",
+                "serial": "U719243",
+                "salesuniqueid": "ConcourseD-D6/D8-D6-CCD (ad1-nc-000023)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nc-000023",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000023",
+              "type": "ooh",
+              "siteId": "nc-000023"
+            }
+          },
+          {
+            "id": "broadsign.version:14.5.1-2-ad2-nc-000023",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000023",
+              "type": "ooh",
+              "siteId": "nc-000023"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nc-000023",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nc-000023",
+              "type": "ooh",
+              "siteId": "nc-000023"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad2-nc-000023",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nc-000023",
+              "type": "ooh",
+              "siteId": "nc-000023"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nc-001023",
+      "geometry": {
+        "coordinates": [
+          -80.9473,
+          35.2144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nc-001023",
+        "status": "installed",
+        "salesuniqueid": [],
+        "site": {
+          "id": "nc-001023",
+          "zone": "clt",
+          "environment": "prod",
+          "status": {
+            "message": "Installed",
+            "code": "installed"
+          },
+          "parentsite": "CLT-Baggage Claim",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "CLT - M1-0170",
+          "coordinates": {
+            "latitude": 35.2144,
+            "longitude": -80.9473
+          },
+          "address": {
+            "registryAddress": "5501 Josh Birmingham Pkwy",
+            "zipcode": "28208",
+            "state": "NC",
+            "city": "Charlotte"
+          },
+          "installations": {},
+          "device": {
+            "name": "CLT - M1-0170",
+            "productGroup": "IxNSight",
+            "uniqueId": "nc-001023",
+            "display": [],
+            "modem": [],
+            "player": []
+          },
+          "components": []
+        },
+        "tags": []
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

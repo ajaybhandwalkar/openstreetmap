@@ -1,0 +1,2814 @@
+
+    {
+      "id": "az-001003",
+      "geometry": {
+        "coordinates": [
+          -112.007851,
+          33.435009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "az-001003",
+        "status": "live",
+        "salesuniqueid": [
+          "PHX-Terminal3-E3-CLD (ad1-az-001003)"
+        ],
+        "site": {
+          "id": "az-001003",
+          "zone": "ual",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2022-08-31",
+            "code": "live"
+          },
+          "parentsite": "UA - PHX - Terminal 3",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "UA - PHX - Terminal 3 - Club Display - E3",
+          "coordinates": {
+            "latitude": 33.435009,
+            "longitude": -112.007851
+          },
+          "address": {
+            "registryAddress": "3400 E Sky Harbor Blvd",
+            "zipcode": "85034",
+            "state": "AZ",
+            "city": "Phoenix"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2022-08-31",
+            "linkActual": "2022-08-31"
+          },
+          "device": {
+            "name": "UA - PHX - Terminal 3 - Club Display - E3",
+            "productGroup": "IxNSight",
+            "uniqueId": "az-001003",
+            "display": [
+              {
+                "playerId": "az-001003-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "49\"",
+                "serial": "203MXSK9M022"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "293C-02ED-91B1",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "az-001003-C01",
+                "hostname": "ad1-az-001003",
+                "manufacturer": "Logic Supply",
+                "macAddress": "B8:AE:ED:78:E9:F4",
+                "serial": "U590667",
+                "salesuniqueid": "PHX-Terminal3-E3-CLD (ad1-az-001003)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-az-001003",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-az-001003",
+              "type": "ooh",
+              "siteId": "az-001003"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-az-001003",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-az-001003",
+              "type": "ooh",
+              "siteId": "az-001003"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "wa-000001",
+      "geometry": {
+        "coordinates": [
+          -122.302233,
+          47.443861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "wa-000001",
+        "status": "live",
+        "salesuniqueid": [
+          "SEA-NorthSatelite-CLD (ad1-wa-000001)"
+        ],
+        "site": {
+          "id": "wa-000001",
+          "zone": "ual",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2014-01-01",
+            "code": "live"
+          },
+          "parentsite": "UA-SEA-North Satelite",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "UA-SEA-North Satelite-Club Display",
+          "coordinates": {
+            "latitude": 47.443861,
+            "longitude": -122.302233
+          },
+          "address": {
+            "registryAddress": "17801 International Blvd",
+            "zipcode": "98158",
+            "state": "WA",
+            "city": "Seattle"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2014-01-01",
+            "linkActual": "2014-01-01"
+          },
+          "device": {
+            "name": "UA-SEA-North Satelite-Club Display",
+            "productGroup": "IxNSight",
+            "uniqueId": "wa-000001",
+            "display": [
+              {
+                "playerId": "wa-000001-C01-D01",
+                "manufacturer": "Legacy",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "42\"",
+                "serial": "IxN-003660-dis"
+              }
+            ],
+            "modem": [
+              {
+                "ipAddress": "166.249.52.211",
+                "serial": "2935-9D70-0EF3",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "wa-000001-C01",
+                "hostname": "ad1-wa-000001",
+                "manufacturer": "Logic Supply",
+                "macAddress": "78:F2:9E:91:6E:44",
+                "serial": "U700115",
+                "salesuniqueid": "SEA-NorthSatelite-CLD (ad1-wa-000001)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-wa-000001",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-wa-000001",
+              "type": "ooh",
+              "siteId": "wa-000001"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-wa-000001",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-wa-000001",
+              "type": "ooh",
+              "siteId": "wa-000001"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "il-001630",
+      "geometry": {
+        "coordinates": [
+          -87.9073,
+          41.9742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "il-001630",
+        "status": "live",
+        "salesuniqueid": [
+          "ORD-ConcourseC-C10-FIDArea-VW (ad1-il-001630)"
+        ],
+        "site": {
+          "id": "il-001630",
+          "zone": "ual",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2023-01-11",
+            "code": "live"
+          },
+          "parentsite": "UA-ORD-Terminal C",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "UA - ORD - Concourse C - C10 - FID Area",
+          "coordinates": {
+            "latitude": 41.9742,
+            "longitude": -87.9073
+          },
+          "address": {
+            "registryAddress": "10000 W O'Hare Ave",
+            "zipcode": "60666",
+            "state": "IL",
+            "city": "Chicago"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2023-01-11",
+            "linkActual": "2023-01-11"
+          },
+          "device": {
+            "name": "UA - ORD - Concourse C - C10 - FID Area",
+            "productGroup": "IxNSight",
+            "uniqueId": "il-001630",
+            "display": [
+              {
+                "playerId": "il-001630-C01-D01",
+                "manufacturer": "NEC",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "86\"",
+                "serial": "United Purchased"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "192F-95E6-0724",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "il-001630-C01",
+                "hostname": "ad1-il-001630",
+                "manufacturer": "Logic Supply",
+                "macAddress": "A8:A1:59:A0:CC:7E",
+                "serial": "U914140",
+                "salesuniqueid": "ORD-ConcourseC-C10-FIDArea-VW (ad1-il-001630)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-il-001630",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-il-001630",
+              "type": "ooh",
+              "siteId": "il-001630",
+              "zone": "cta"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-il-001630",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-il-001630",
+              "type": "ooh",
+              "siteId": "il-001630",
+              "zone": "cta"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "co-000001",
+      "geometry": {
+        "coordinates": [
+          -104.672488,
+          39.845147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "co-000001",
+        "status": "live",
+        "salesuniqueid": [
+          "DEN-TerminalB-W-B32-NS-CLD (ad1-co-000001)"
+        ],
+        "site": {
+          "id": "co-000001",
+          "zone": "ual",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2014-01-01",
+            "code": "live"
+          },
+          "parentsite": "UA-DEN-Terminal B",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "UA-DEN-Terminal B West - B32 - Club Display-NS",
+          "coordinates": {
+            "latitude": 39.845147,
+            "longitude": -104.672488
+          },
+          "address": {
+            "registryAddress": "8498 Pe\u00f1a Blvd",
+            "zipcode": "80249",
+            "state": "CO",
+            "city": "Denver"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2014-01-01",
+            "linkActual": "2014-01-01"
+          },
+          "device": {
+            "name": "UA-DEN-Terminal B West - B32 - Club Display-NS",
+            "productGroup": "IxNSight",
+            "uniqueId": "co-000001",
+            "display": [
+              {
+                "playerId": "co-000001-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "42\"",
+                "serial": "IxN-003653-dis"
+              }
+            ],
+            "modem": [
+              {
+                "ipAddress": "107.241.50.112",
+                "serial": "2935-9D7E-0E1D",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "co-000001-C01",
+                "hostname": "ad1-co-000001",
+                "manufacturer": "Logic Supply",
+                "macAddress": "78:F2:9E:90:F9:2C",
+                "serial": "U674860",
+                "salesuniqueid": "DEN-TerminalB-W-B32-NS-CLD (ad1-co-000001)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-co-000001",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-co-000001",
+              "type": "ooh",
+              "siteId": "co-000001"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-co-000001",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-co-000001",
+              "type": "ooh",
+              "siteId": "co-000001"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "co-000002",
+      "geometry": {
+        "coordinates": [
+          -104.672488,
+          39.845147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "co-000002",
+        "status": "live",
+        "salesuniqueid": [
+          "DEN-TerminalB-W-B32-SS-CLD (ad1-co-000002)"
+        ],
+        "site": {
+          "id": "co-000002",
+          "zone": "ual",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2014-01-01",
+            "code": "live"
+          },
+          "parentsite": "UA-DEN-Terminal B",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "UA-DEN-Terminal B West - B32 - Club Display-SS",
+          "coordinates": {
+            "latitude": 39.845147,
+            "longitude": -104.672488
+          },
+          "address": {
+            "registryAddress": "8498 Pe\u00f1a Blvd",
+            "zipcode": "80249",
+            "state": "CO",
+            "city": "Denver"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2014-01-01",
+            "linkActual": "2014-01-01"
+          },
+          "device": {
+            "name": "UA-DEN-Terminal B West - B32 - Club Display-SS",
+            "productGroup": "IxNSight",
+            "uniqueId": "co-000002",
+            "display": [
+              {
+                "playerId": "co-000002-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "55\u201d",
+                "serial": "003KCYQPC258"
+              }
+            ],
+            "modem": [
+              {
+                "ipAddress": "107.241.50.43",
+                "serial": "2935-9E03-7AC4",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "co-000002-C01",
+                "hostname": "ad1-co-000002",
+                "manufacturer": "Logic Supply",
+                "macAddress": "78:F2:9E:90:F9:37",
+                "serial": "U674857",
+                "salesuniqueid": "DEN-TerminalB-W-B32-SS-CLD (ad1-co-000002)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-co-000002",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-co-000002",
+              "type": "ooh",
+              "siteId": "co-000002"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-co-000002",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-co-000002",
+              "type": "ooh",
+              "siteId": "co-000002"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "tx-000011",
+      "geometry": {
+        "coordinates": [
+          -95.338572,
+          29.988395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "tx-000011",
+        "status": "live",
+        "salesuniqueid": [
+          "IAH-TerminalC-C33-CLD (ad1-tx-000011)"
+        ],
+        "site": {
+          "id": "tx-000011",
+          "zone": "ual",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2014-01-01",
+            "code": "live"
+          },
+          "parentsite": "UA-IAH-Terminal C",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "UA-IAH-Terminal C-Club Display-C33",
+          "coordinates": {
+            "latitude": 29.988395,
+            "longitude": -95.338572
+          },
+          "address": {
+            "registryAddress": "2800 N Terminal Rd",
+            "zipcode": "77032",
+            "state": "TX",
+            "city": "Houston"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2014-01-01",
+            "linkActual": "2014-01-01"
+          },
+          "device": {
+            "name": "UA-IAH-Terminal C-Club Display-C33",
+            "productGroup": "IxNSight",
+            "uniqueId": "tx-000011",
+            "display": [
+              {
+                "playerId": "tx-000011-C01-D01",
+                "manufacturer": "Legacy",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "42\"",
+                "serial": "IxN-003659-dis"
+              }
+            ],
+            "modem": [
+              {
+                "ipAddress": "166.143.9.33",
+                "serial": "2935-9D7D-0E2E",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "tx-000011-C01",
+                "hostname": "ad1-tx-000011",
+                "manufacturer": "Logic Supply",
+                "macAddress": "78:F2:9E:91:6E:E2",
+                "serial": "U700134",
+                "salesuniqueid": "IAH-TerminalC-C33-CLD (ad1-tx-000011)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-tx-000011",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-tx-000011",
+              "type": "ooh",
+              "siteId": "tx-000011"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-tx-000011",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-tx-000011",
+              "type": "ooh",
+              "siteId": "tx-000011"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "dc-000001",
+      "geometry": {
+        "coordinates": [
+          -77.447774,
+          38.952721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "dc-000001",
+        "status": "live",
+        "salesuniqueid": [
+          "IAD-TerminalC-C17-CLD (ad1-dc-000001)"
+        ],
+        "site": {
+          "id": "dc-000001",
+          "zone": "ual",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2014-01-01",
+            "code": "live"
+          },
+          "parentsite": "UA-IAD-Terminal C",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "UA-IAD-Terminal C-Club Display-C17",
+          "coordinates": {
+            "latitude": 38.952721,
+            "longitude": -77.447774
+          },
+          "address": {
+            "registryAddress": "1 Saarinen Cir",
+            "zipcode": "20166",
+            "state": "VA",
+            "city": "Dulles"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2014-01-01",
+            "linkActual": "2014-01-01"
+          },
+          "device": {
+            "name": "UA-IAD-Terminal C-Club Display-C17",
+            "productGroup": "IxNSight",
+            "uniqueId": "dc-000001",
+            "display": [
+              {
+                "playerId": "dc-000001-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "42\"",
+                "serial": "IxN-003654-dis"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2935-9E67-1C86",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "dc-000001-C01",
+                "hostname": "ad1-dc-000001",
+                "manufacturer": "Logic Supply",
+                "macAddress": "78:F2:9E:91:6E:69",
+                "serial": "U700124",
+                "salesuniqueid": "IAD-TerminalC-C17-CLD (ad1-dc-000001)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-dc-000001",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-dc-000001",
+              "type": "ooh",
+              "siteId": "dc-000001"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-dc-000001",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-dc-000001",
+              "type": "ooh",
+              "siteId": "dc-000001"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "ny-057577",
+      "geometry": {
+        "coordinates": [
+          -73.871836,
+          40.774302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "ny-057577",
+        "status": "live",
+        "salesuniqueid": [
+          "LGA-ConcourseB-VW (ad1-ny-057577)"
+        ],
+        "site": {
+          "id": "ny-057577",
+          "zone": "ual",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2020-01-23",
+            "code": "live"
+          },
+          "parentsite": "UA-LGA-Concourse B",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "UA - LGA - Concourse B-Club Wall",
+          "coordinates": {
+            "latitude": 40.774302,
+            "longitude": -73.871836
+          },
+          "address": {
+            "registryAddress": "Central Terminal Drive",
+            "zipcode": "11371",
+            "state": "NY",
+            "city": "Queens"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2020-01-22",
+            "linkActual": "2020-01-23"
+          },
+          "device": {
+            "name": "UA - LGA - Concourse B-Club Wall",
+            "productGroup": "Large Format",
+            "uniqueId": "ny-057577",
+            "display": [
+              {
+                "playerId": "ny-057577-C01-D03",
+                "manufacturer": "Samsung",
+                "orientation": "Portrait",
+                "resolution": "1920x1080",
+                "size": "46\"",
+                "serial": "065WHCSM900539F"
+              },
+              {
+                "playerId": "ny-057577-C01-D01",
+                "manufacturer": "Samsung",
+                "orientation": "Portrait",
+                "resolution": "1920x1080",
+                "size": "46\"",
+                "serial": "065WHCSM900538E"
+              },
+              {
+                "playerId": "ny-057577-C01-D02",
+                "manufacturer": "Samsung",
+                "orientation": "Portrait",
+                "resolution": "1920x1080",
+                "size": "46\"",
+                "serial": "065WHCSM900534P"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2936-EEBC-8207",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "ny-057577-C01",
+                "hostname": "ad1-ny-057577",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:A2:42",
+                "serial": "U735576",
+                "salesuniqueid": "LGA-ConcourseB-VW (ad1-ny-057577)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-ny-057577",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ny-057577",
+              "type": "ooh",
+              "siteId": "ny-057577"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-ny-057577",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ny-057577",
+              "type": "ooh",
+              "siteId": "ny-057577"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "tx-001009",
+      "geometry": {
+        "coordinates": [
+          -95.338572,
+          29.988395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "tx-001009",
+        "status": "live",
+        "salesuniqueid": [
+          "IAH-TerminalE-E11/E12-CLD (ad1-tx-001009)"
+        ],
+        "site": {
+          "id": "tx-001009",
+          "zone": "ual",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2021-08-12",
+            "code": "live"
+          },
+          "parentsite": "UA-IAH-Terminal E",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "UA-IAH - Terminal E - Club Display E11/E12",
+          "coordinates": {
+            "latitude": 29.988395,
+            "longitude": -95.338572
+          },
+          "address": {
+            "registryAddress": "2800 N Terminal Rd",
+            "zipcode": "77032",
+            "state": "TX",
+            "city": "Houston"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2021-08-12",
+            "linkActual": "2021-08-12"
+          },
+          "device": {
+            "name": "UA-IAH - Terminal E - Club Display E11/E12",
+            "productGroup": "IxNSight",
+            "uniqueId": "tx-001009",
+            "display": [
+              {
+                "playerId": "tx-001009-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "86\"",
+                "serial": "002KCUKPX992"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2939-8DFF-5AC5",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "tx-001009-C01",
+                "hostname": "ad1-tx-001009",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:71:22:29",
+                "serial": "U805241",
+                "salesuniqueid": "IAH-TerminalE-E11/E12-CLD (ad1-tx-001009)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-tx-001009",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-tx-001009",
+              "type": "ooh",
+              "siteId": "tx-001009"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-tx-001009",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-tx-001009",
+              "type": "ooh",
+              "siteId": "tx-001009"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "va-001005",
+      "geometry": {
+        "coordinates": [
+          -77.447774,
+          38.952721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "va-001005",
+        "status": "live",
+        "salesuniqueid": [
+          "IAD-TerminalC-C7-CLD (ad1-va-001005)"
+        ],
+        "site": {
+          "id": "va-001005",
+          "zone": "ual",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2021-06-24",
+            "code": "live"
+          },
+          "parentsite": "UA-IAD-Terminal C",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "UA-IAD - Terminal C - Club Display - C7 - 86\" Display",
+          "coordinates": {
+            "latitude": 38.952721,
+            "longitude": -77.447774
+          },
+          "address": {
+            "registryAddress": "1 Saarinen Cir",
+            "zipcode": "20166",
+            "state": "VA",
+            "city": "Dulles"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2021-06-24",
+            "linkActual": "2021-06-24"
+          },
+          "device": {
+            "name": "UA-IAD - Terminal C - Club Display - C7 - 86\" Display",
+            "productGroup": "IxNSight",
+            "uniqueId": "va-001005",
+            "display": [
+              {
+                "playerId": "va-001005-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "86\"",
+                "serial": "002KCWCPY001"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2939-8F15-B663",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "va-001005-C01",
+                "hostname": "ad1-va-001005",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:B4:C5",
+                "serial": "U795933",
+                "salesuniqueid": "IAD-TerminalC-C7-CLD (ad1-va-001005)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-va-001005",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-va-001005",
+              "type": "ooh",
+              "siteId": "va-001005"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-va-001005",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-va-001005",
+              "type": "ooh",
+              "siteId": "va-001005"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "ca-000006",
+      "geometry": {
+        "coordinates": [
+          -118.410752,
+          33.940668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "ca-000006",
+        "status": "live",
+        "salesuniqueid": [
+          "LAX-Terminal7-CLD (ad1-ca-000006)"
+        ],
+        "site": {
+          "id": "ca-000006",
+          "zone": "ual",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2014-01-01",
+            "code": "live"
+          },
+          "parentsite": "UA-LAX-Terminal 7",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "UA-LAX-Terminal 7-Club Display",
+          "coordinates": {
+            "latitude": 33.940668,
+            "longitude": -118.410752
+          },
+          "address": {
+            "registryAddress": "1 World Way",
+            "zipcode": "90045",
+            "state": "CA",
+            "city": "Los Angeles"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2014-01-01",
+            "linkActual": "2014-01-01"
+          },
+          "device": {
+            "name": "UA-LAX-Terminal 7-Club Display",
+            "productGroup": "IxNSight",
+            "uniqueId": "ca-000006",
+            "display": [
+              {
+                "playerId": "ca-000006-C01-D01",
+                "manufacturer": "NEC",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "Other",
+                "serial": "IxN-003681-dis"
+              }
+            ],
+            "modem": [
+              {
+                "ipAddress": "166.249.122.92",
+                "serial": "2935-9D6F-1F0D",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "ca-000006-C01",
+                "hostname": "ad1-ca-000006",
+                "manufacturer": "Logic Supply",
+                "macAddress": "78:F2:9E:91:6E:5E",
+                "serial": "U700238",
+                "salesuniqueid": "LAX-Terminal7-CLD (ad1-ca-000006)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-ca-000006",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ca-000006",
+              "type": "ooh",
+              "siteId": "ca-000006"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-ca-000006",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ca-000006",
+              "type": "ooh",
+              "siteId": "ca-000006"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "or-000001",
+      "geometry": {
+        "coordinates": [
+          -122.593333,
+          45.589357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "or-000001",
+        "status": "live",
+        "salesuniqueid": [
+          "PDX-TerminalE-CLD (ad1-or-000001)"
+        ],
+        "site": {
+          "id": "or-000001",
+          "zone": "ual",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2014-01-01",
+            "code": "live"
+          },
+          "parentsite": "UA-PDX-Terminal E",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "UA-PDX-Terminal E-Club Display",
+          "coordinates": {
+            "latitude": 45.589357,
+            "longitude": -122.593333
+          },
+          "address": {
+            "registryAddress": "7000 NE Airport Way",
+            "zipcode": "97218",
+            "state": "OR",
+            "city": "Portland"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2014-01-01",
+            "linkActual": "2014-01-01"
+          },
+          "device": {
+            "name": "UA-PDX-Terminal E-Club Display",
+            "productGroup": "IxNSight",
+            "uniqueId": "or-000001",
+            "display": [
+              {
+                "playerId": "or-000001-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "size": "45\"",
+                "serial": "201MXQA2P588"
+              }
+            ],
+            "modem": [
+              {
+                "ipAddress": "107.77.214.56",
+                "serial": "2935-9DC5-B5AD",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "or-000001-C01",
+                "hostname": "ad1-or-000001",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:A2:3F",
+                "serial": "U741330",
+                "salesuniqueid": "PDX-TerminalE-CLD (ad1-or-000001)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-or-000001",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-or-000001",
+              "type": "ooh",
+              "siteId": "or-000001"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-or-000001",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-or-000001",
+              "type": "ooh",
+              "siteId": "or-000001"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "ca-001111",
+      "geometry": {
+        "coordinates": [
+          -118.410752,
+          33.940668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "ca-001111",
+        "status": "live",
+        "salesuniqueid": [
+          "LAX-Terminal7-71A-FIDArea-VW (ad1-ca-001111)"
+        ],
+        "site": {
+          "id": "ca-001111",
+          "zone": "ual",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2021-06-18",
+            "code": "live"
+          },
+          "parentsite": "UA-LAX-Terminal 7",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "UA-LAX - Terminal 7 - 71A - FID Area",
+          "coordinates": {
+            "latitude": 33.940668,
+            "longitude": -118.410752
+          },
+          "address": {
+            "registryAddress": "1 World Way",
+            "zipcode": "90045",
+            "state": "CA",
+            "city": "Los Angeles"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2021-06-18",
+            "linkActual": "2021-06-18"
+          },
+          "device": {
+            "name": "UA-LAX - Terminal 7 - 71A - FID Area",
+            "productGroup": "IxNSight",
+            "uniqueId": "ca-001111",
+            "display": [
+              {
+                "playerId": "ca-001111-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "86\"",
+                "serial": "003KCGWKV047"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2939-8F47-E344",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "ca-001111-C01",
+                "hostname": "ad1-ca-001111",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:B4:BB",
+                "serial": "U795934",
+                "salesuniqueid": "LAX-Terminal7-71A-FIDArea-VW (ad1-ca-001111)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-ca-001111",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ca-001111",
+              "type": "ooh",
+              "siteId": "ca-001111"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-ca-001111",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ca-001111",
+              "type": "ooh",
+              "siteId": "ca-001111"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "ca-000003",
+      "geometry": {
+        "coordinates": [
+          -122.400194,
+          37.635855
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "ca-000003",
+        "status": "live",
+        "salesuniqueid": [
+          "SFO-Terminal3-F11-CLD (ad1-ca-000003)"
+        ],
+        "site": {
+          "id": "ca-000003",
+          "zone": "ual",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2021-06-01",
+            "code": "live"
+          },
+          "parentsite": "UA-SFO-Terminal 3",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "UA-SFO- Terminal 3 - Club Display - F11",
+          "coordinates": {
+            "latitude": 37.635855,
+            "longitude": -122.400194
+          },
+          "address": {
+            "registryAddress": "780 S Airport Blvd",
+            "zipcode": "94128",
+            "state": "CA",
+            "city": "San Francisco"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2021-06-01",
+            "linkActual": "2021-06-01"
+          },
+          "device": {
+            "name": "UA-SFO- Terminal 3 - Club Display - F11",
+            "productGroup": "IxNSight",
+            "uniqueId": "ca-000003",
+            "display": [
+              {
+                "playerId": "ca-000003-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "86\"",
+                "serial": "003KCEAPD876"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2939-8EEC-48F4",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "ca-000003-C01",
+                "hostname": "ad1-ca-000003",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:B4:C7",
+                "serial": "U795932",
+                "salesuniqueid": "SFO-Terminal3-F11-CLD (ad1-ca-000003)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-ca-000003",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ca-000003",
+              "type": "ooh",
+              "siteId": "ca-000003"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-ca-000003",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ca-000003",
+              "type": "ooh",
+              "siteId": "ca-000003"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-000087",
+      "geometry": {
+        "coordinates": [
+          -74.177381,
+          40.690382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-000087",
+        "status": "live",
+        "salesuniqueid": [
+          "EWR-TerminalC-C93-CLD (ad1-nj-000087)"
+        ],
+        "site": {
+          "id": "nj-000087",
+          "zone": "ual",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2019-02-22",
+            "code": "live"
+          },
+          "parentsite": "UA-EWR-Terminal C",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "UA-EWR-Terminal C-Club Display-C93",
+          "coordinates": {
+            "latitude": 40.690382,
+            "longitude": -74.177381
+          },
+          "address": {
+            "registryAddress": "3 Brewster Rd",
+            "zipcode": "07114",
+            "state": "NJ",
+            "city": "Newark"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2019-02-22",
+            "linkActual": "2019-02-22"
+          },
+          "device": {
+            "name": "UA-EWR-Terminal C-Club Display-C93",
+            "productGroup": "IxNSight",
+            "uniqueId": "nj-000087",
+            "display": [
+              {
+                "playerId": "nj-000087-C01-D01",
+                "manufacturer": "Samsung",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "55\u201d",
+                "serial": "IxN-003672-dis"
+              }
+            ],
+            "modem": [
+              {
+                "ipAddress": "107.241.50.22",
+                "serial": "2935-9D88-F174",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-000087-C01",
+                "hostname": "ad1-nj-000087",
+                "manufacturer": "Logic Supply",
+                "macAddress": "78:F2:9E:91:6E:C9",
+                "serial": "U700120",
+                "salesuniqueid": "EWR-TerminalC-C93-CLD (ad1-nj-000087)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-000087",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-000087",
+              "type": "ooh",
+              "siteId": "nj-000087"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-000087",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-000087",
+              "type": "ooh",
+              "siteId": "nj-000087"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "dc-000003",
+      "geometry": {
+        "coordinates": [
+          -77.447774,
+          38.952721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "dc-000003",
+        "status": "live",
+        "salesuniqueid": [
+          "IAD-TerminalD-CLD (ad1-dc-000003)"
+        ],
+        "site": {
+          "id": "dc-000003",
+          "zone": "ual",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2014-01-01",
+            "code": "live"
+          },
+          "parentsite": "UA-IAD-Terminal D",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "UA-IAD-Terminal D8 - Club Display",
+          "coordinates": {
+            "latitude": 38.952721,
+            "longitude": -77.447774
+          },
+          "address": {
+            "registryAddress": "1 Saarinen Cir",
+            "zipcode": "20166",
+            "state": "VA",
+            "city": "Dulles"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2014-01-01",
+            "linkActual": "2014-01-01"
+          },
+          "device": {
+            "name": "UA-IAD-Terminal D8 - Club Display",
+            "productGroup": "IxNSight",
+            "uniqueId": "dc-000003",
+            "display": [
+              {
+                "playerId": "dc-000003-C01-D01",
+                "manufacturer": "Legacy",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "42\"",
+                "serial": "IxN-003658-dis"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2935-9E61-1CE0",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "dc-000003-C01",
+                "hostname": "ad1-dc-000003",
+                "manufacturer": "Logic Supply",
+                "macAddress": "78:F2:9E:91:6E:C1",
+                "serial": "U700123",
+                "salesuniqueid": "IAD-TerminalD-CLD (ad1-dc-000003)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-dc-000003",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-dc-000003",
+              "type": "ooh",
+              "siteId": "dc-000003"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-dc-000003",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-dc-000003",
+              "type": "ooh",
+              "siteId": "dc-000003"
+            }
+          }
+        ],
+        "zendesk": {
+          "openTickets": 1
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "tx-001010",
+      "geometry": {
+        "coordinates": [
+          -95.338572,
+          29.988395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "tx-001010",
+        "status": "live",
+        "salesuniqueid": [
+          "IAH-TerminalC-C1-FIDArea-VW (ad1-tx-001010)"
+        ],
+        "site": {
+          "id": "tx-001010",
+          "zone": "ual",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2021-09-01",
+            "code": "live"
+          },
+          "parentsite": "UA-IAH-Terminal C",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "UA-IAH - Terminal C - C1 - FID Area",
+          "coordinates": {
+            "latitude": 29.988395,
+            "longitude": -95.338572
+          },
+          "address": {
+            "registryAddress": "2800 N Terminal Rd",
+            "zipcode": "77032",
+            "state": "TX",
+            "city": "Houston"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2021-09-01",
+            "linkActual": "2021-09-01"
+          },
+          "device": {
+            "name": "UA-IAH - Terminal C - C1 - FID Area",
+            "productGroup": "IxNSight",
+            "uniqueId": "tx-001010",
+            "display": [
+              {
+                "playerId": "tx-001010-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "86\"",
+                "serial": "002KCUKPX998"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2939-8ED6-7B5D",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "tx-001010-C01",
+                "hostname": "ad1-tx-001010",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:71:22:3A",
+                "serial": "U805242",
+                "salesuniqueid": "IAH-TerminalC-C1-FIDArea-VW (ad1-tx-001010)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-tx-001010",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-tx-001010",
+              "type": "ooh",
+              "siteId": "tx-001010"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-tx-001010",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-tx-001010",
+              "type": "ooh",
+              "siteId": "tx-001010"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "dc-000002",
+      "geometry": {
+        "coordinates": [
+          -77.447774,
+          38.952721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "dc-000002",
+        "status": "live",
+        "salesuniqueid": [
+          "IAD-TerminalC-C7-CLD (ad1-dc-000002)"
+        ],
+        "site": {
+          "id": "dc-000002",
+          "zone": "ual",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2014-01-01",
+            "code": "live"
+          },
+          "parentsite": "UA-IAD-Terminal C",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "UA-IAD - Terminal C - Club Display - C7",
+          "coordinates": {
+            "latitude": 38.952721,
+            "longitude": -77.447774
+          },
+          "address": {
+            "registryAddress": "1 Saarinen Cir",
+            "zipcode": "20166",
+            "state": "VA",
+            "city": "Dulles"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2014-01-01",
+            "linkActual": "2014-01-01"
+          },
+          "device": {
+            "name": "UA-IAD - Terminal C - Club Display - C7",
+            "productGroup": "IxNSight",
+            "uniqueId": "dc-000002",
+            "display": [
+              {
+                "playerId": "dc-000002-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "55\u201d",
+                "serial": "206MXJX22876"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2935-9E9A-E354",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "dc-000002-C01",
+                "hostname": "ad1-dc-000002",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:71:22:57",
+                "serial": "U866924",
+                "salesuniqueid": "IAD-TerminalC-C7-CLD (ad1-dc-000002)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-dc-000002",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-dc-000002",
+              "type": "ooh",
+              "siteId": "dc-000002"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-dc-000002",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-dc-000002",
+              "type": "ooh",
+              "siteId": "dc-000002"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "ca-000001",
+      "geometry": {
+        "coordinates": [
+          -122.400194,
+          37.635855
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "ca-000001",
+        "status": "live",
+        "salesuniqueid": [
+          "SFO-Terminal3-E4-CLD (ad1-ca-000001)"
+        ],
+        "site": {
+          "id": "ca-000001",
+          "zone": "ual",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2021-06-01",
+            "code": "live"
+          },
+          "parentsite": "UA-SFO-Terminal 3",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "UA-SFO - Terminal 3 - Club Display - E4",
+          "coordinates": {
+            "latitude": 37.635855,
+            "longitude": -122.400194
+          },
+          "address": {
+            "registryAddress": "780 S Airport Blvd",
+            "zipcode": "94128",
+            "state": "CA",
+            "city": "San Francisco"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2021-05-28",
+            "linkActual": "2021-06-01"
+          },
+          "device": {
+            "name": "UA-SFO - Terminal 3 - Club Display - E4",
+            "productGroup": "IxNSight",
+            "uniqueId": "ca-000001",
+            "display": [
+              {
+                "playerId": "ca-000001-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "86\"",
+                "serial": "003KCNLPD831"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2939-8F13-B605",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "ca-000001-C01",
+                "hostname": "ad1-ca-000001",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:B4:BF",
+                "serial": "U795931",
+                "salesuniqueid": "SFO-Terminal3-E4-CLD (ad1-ca-000001)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-ca-000001",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ca-000001",
+              "type": "ooh",
+              "siteId": "ca-000001"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-ca-000001",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ca-000001",
+              "type": "ooh",
+              "siteId": "ca-000001"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001314",
+      "geometry": {
+        "coordinates": [
+          -74.177381,
+          40.690382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001314",
+        "status": "live",
+        "salesuniqueid": [
+          "EWR-TerminalC-C3-CLD (ad1-nj-001314)"
+        ],
+        "site": {
+          "id": "nj-001314",
+          "zone": "ual",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2022-03-28",
+            "code": "live"
+          },
+          "parentsite": "UA-EWR-Terminal C",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "UA-EWR - Terminal C - 86\" Club Display C3",
+          "coordinates": {
+            "latitude": 40.690382,
+            "longitude": -74.177381
+          },
+          "address": {
+            "registryAddress": "3 Brewster Rd",
+            "zipcode": "07114",
+            "state": "NJ",
+            "city": "Newark"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2022-03-28",
+            "linkActual": "2022-03-28"
+          },
+          "device": {
+            "name": "UA-EWR - Terminal C - 86\" Club Display C3",
+            "productGroup": "IxNSight",
+            "uniqueId": "nj-001314",
+            "display": [
+              {
+                "playerId": "nj-001314-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "86\"",
+                "serial": "201MXEZ1Z148"
+              }
+            ],
+            "modem": [
+              {
+                "macAddress": "A8:C0:EA:92:27:40",
+                "serial": "293B-4B72-363A",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001314-C01",
+                "hostname": "ad1-nj-001314",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:71:22:B9",
+                "serial": "U860189",
+                "salesuniqueid": "EWR-TerminalC-C3-CLD (ad1-nj-001314)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001314",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001314",
+              "type": "ooh",
+              "siteId": "nj-001314"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001314",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001314",
+              "type": "ooh",
+              "siteId": "nj-001314"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "il-000370",
+      "geometry": {
+        "coordinates": [
+          -87.9073,
+          41.9742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "il-000370",
+        "status": "live",
+        "salesuniqueid": [
+          "ORD-TerminalB-B6-VW (ad1-il-000370)"
+        ],
+        "site": {
+          "id": "il-000370",
+          "zone": "ual",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2018-10-29",
+            "code": "live"
+          },
+          "parentsite": "UA-ORD-Terminal B",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "UA-ORD-Terminal B-Video Wall-B6",
+          "coordinates": {
+            "latitude": 41.9742,
+            "longitude": -87.9073
+          },
+          "address": {
+            "registryAddress": "10000 W O'Hare Ave",
+            "zipcode": "60666",
+            "state": "IL",
+            "city": "Chicago"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2018-10-29",
+            "linkActual": "2018-10-29"
+          },
+          "device": {
+            "name": "UA-ORD-Terminal B-Video Wall-B6",
+            "productGroup": "Large Format",
+            "uniqueId": "il-000370",
+            "display": [
+              {
+                "playerId": "il-000370-C01-D01",
+                "manufacturer": "Samsung",
+                "orientation": "Portrait",
+                "resolution": "1920x1080",
+                "size": "46\"",
+                "serial": "065WHCSK600394P"
+              },
+              {
+                "playerId": "il-000370-C01-D03",
+                "manufacturer": "Samsung",
+                "orientation": "Portrait",
+                "resolution": "1920x1080",
+                "size": "46\"",
+                "serial": "065WHCSK700021V"
+              },
+              {
+                "playerId": "il-000370-C01-D02",
+                "manufacturer": "Samsung",
+                "orientation": "Portrait",
+                "resolution": "1920x1080",
+                "size": "46\"",
+                "serial": "065WHCSK700020R"
+              }
+            ],
+            "modem": [
+              {
+                "ipAddress": "107.84.29.121",
+                "serial": "2934-C717-239D",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "il-000370-C01",
+                "hostname": "ad1-il-000370",
+                "manufacturer": "Zotac",
+                "macAddress": "00:01:2E:83:9D:F7",
+                "serial": "G181700005773",
+                "salesuniqueid": "ORD-TerminalB-B6-VW (ad1-il-000370)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-il-000370",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-il-000370",
+              "type": "ooh",
+              "siteId": "il-000370",
+              "zone": "cta"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-il-000370",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-il-000370",
+              "type": "ooh",
+              "siteId": "il-000370",
+              "zone": "cta"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "ca-000005",
+      "geometry": {
+        "coordinates": [
+          -117.874202,
+          33.674812
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "ca-000005",
+        "status": "live",
+        "salesuniqueid": [
+          "SNA-TerminalB-CLD (ad1-ca-000005)"
+        ],
+        "site": {
+          "id": "ca-000005",
+          "zone": "ual",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2014-01-01",
+            "code": "live"
+          },
+          "parentsite": "UA-SNA-Terminal B",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "UA-SNA-Terminal B-Club Display",
+          "coordinates": {
+            "latitude": 33.674812,
+            "longitude": -117.874202
+          },
+          "address": {
+            "registryAddress": "18601 Airport Way",
+            "zipcode": "92797",
+            "state": "CA",
+            "city": "Santa Ana"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2014-01-01",
+            "linkActual": "2014-01-01"
+          },
+          "device": {
+            "name": "UA-SNA-Terminal B-Club Display",
+            "productGroup": "IxNSight",
+            "uniqueId": "ca-000005",
+            "display": [
+              {
+                "playerId": "ca-000005-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "42\"",
+                "serial": "IxN-003667-dis"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2935-9D8A-F156",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "ca-000005-C01",
+                "hostname": "ad1-ca-000005",
+                "manufacturer": "Logic Supply",
+                "macAddress": "78:F2:9E:91:6E:AC",
+                "serial": "U700116",
+                "salesuniqueid": "SNA-TerminalB-CLD (ad1-ca-000005)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-ca-000005",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ca-000005",
+              "type": "ooh",
+              "siteId": "ca-000005"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-ca-000005",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ca-000005",
+              "type": "ooh",
+              "siteId": "ca-000005"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "il-000423",
+      "geometry": {
+        "coordinates": [
+          -87.9073,
+          41.9742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "il-000423",
+        "status": "live",
+        "salesuniqueid": [
+          "ORD-TerminalB-B6-CLD (ad1-il-000423)"
+        ],
+        "site": {
+          "id": "il-000423",
+          "zone": "ual",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2014-01-01",
+            "code": "live"
+          },
+          "parentsite": "UA-ORD-Terminal B",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "UA-ORD-Terminal B-Club Display-B18",
+          "coordinates": {
+            "latitude": 41.9742,
+            "longitude": -87.9073
+          },
+          "address": {
+            "registryAddress": "10000 W O'Hare Ave",
+            "zipcode": "60666",
+            "state": "IL",
+            "city": "Chicago"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2014-01-01",
+            "linkActual": "2014-01-01"
+          },
+          "device": {
+            "name": "UA-ORD-Terminal B-Club Display-B18",
+            "productGroup": "IxNSight",
+            "uniqueId": "il-000423",
+            "display": [
+              {
+                "playerId": "il-000423-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "42\"",
+                "serial": "IxN-003663-dis"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2935-9D7B-0E48",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "il-000423-C01",
+                "hostname": "ad1-il-000423",
+                "manufacturer": "Logic Supply",
+                "macAddress": "78:F2:9E:91:6E:5D",
+                "serial": "U700122",
+                "salesuniqueid": "ORD-TerminalB-B6-CLD (ad1-il-000423)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-il-000423",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-il-000423",
+              "type": "ooh",
+              "siteId": "il-000423",
+              "zone": "cta"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-il-000423",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-il-000423",
+              "type": "ooh",
+              "siteId": "il-000423",
+              "zone": "cta"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "fl-000001",
+      "geometry": {
+        "coordinates": [
+          -81.308082,
+          28.431157
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "fl-000001",
+        "status": "live",
+        "salesuniqueid": [
+          "MCO-TerminalB-CLD (ad1-fl-000001)"
+        ],
+        "site": {
+          "id": "fl-000001",
+          "zone": "ual",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2014-01-01",
+            "code": "live"
+          },
+          "parentsite": "UA-MCO-Terminal B",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "UA-MCO-Terminal B-Club Display",
+          "coordinates": {
+            "latitude": 28.431157,
+            "longitude": -81.308082
+          },
+          "address": {
+            "registryAddress": "1 Jeff Fuqua Blvd",
+            "zipcode": "32827",
+            "state": "FL",
+            "city": "Orlando"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2014-01-01",
+            "linkActual": "2014-01-01"
+          },
+          "device": {
+            "name": "UA-MCO-Terminal B-Club Display",
+            "productGroup": "IxNSight",
+            "uniqueId": "fl-000001",
+            "display": [
+              {
+                "playerId": "fl-000001-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "42\"",
+                "serial": "IxN-003661-dis"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2935-9DD4-A4BD",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "fl-000001-C01",
+                "hostname": "ad1-fl-000001",
+                "manufacturer": "Logic Supply",
+                "macAddress": "78:F2:9E:91:6E:AB",
+                "serial": "U700127",
+                "salesuniqueid": "MCO-TerminalB-CLD (ad1-fl-000001)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-fl-000001",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-fl-000001",
+              "type": "ooh",
+              "siteId": "fl-000001"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-fl-000001",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-fl-000001",
+              "type": "ooh",
+              "siteId": "fl-000001"
+            }
+          }
+        ],
+        "zendesk": {
+          "openTickets": 1
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "tx-000010",
+      "geometry": {
+        "coordinates": [
+          -97.666305,
+          30.197429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "tx-000010",
+        "status": "live",
+        "salesuniqueid": [
+          "AUS-MainTerminal-CLD (ad1-tx-000010)"
+        ],
+        "site": {
+          "id": "tx-000010",
+          "zone": "ual",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2014-01-01",
+            "code": "live"
+          },
+          "parentsite": "UA-AUS-Main Terminal",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "UA-AUS-Main Terminal-Club Display",
+          "coordinates": {
+            "latitude": 30.197429,
+            "longitude": -97.666305
+          },
+          "address": {
+            "registryAddress": "3600 Presidential Blvd",
+            "zipcode": "78719",
+            "state": "TX",
+            "city": "Austin"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2014-01-01",
+            "linkActual": "2014-01-01"
+          },
+          "device": {
+            "name": "UA-AUS-Main Terminal-Club Display",
+            "productGroup": "IxNSight",
+            "uniqueId": "tx-000010",
+            "display": [
+              {
+                "playerId": "tx-000010-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "3840x2160",
+                "size": "49\"",
+                "serial": "203MXYGC0874"
+              }
+            ],
+            "modem": [
+              {
+                "ipAddress": "107.241.50.61",
+                "serial": "2935-9E7D-0D2D",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "tx-000010-C01",
+                "hostname": "ad1-tx-000010",
+                "manufacturer": "Logic Supply",
+                "macAddress": "78:F2:9E:90:F8:D3",
+                "serial": "U674863",
+                "salesuniqueid": "AUS-MainTerminal-CLD (ad1-tx-000010)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-tx-000010",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-tx-000010",
+              "type": "ooh",
+              "siteId": "tx-000010"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-tx-000010",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-tx-000010",
+              "type": "ooh",
+              "siteId": "tx-000010"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "ga-000001",
+      "geometry": {
+        "coordinates": [
+          -84.429305,
+          33.640737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "ga-000001",
+        "status": "live",
+        "salesuniqueid": [
+          "ATL-TerminalT-CLD (ad1-ga-000001)"
+        ],
+        "site": {
+          "id": "ga-000001",
+          "zone": "ual",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2014-01-01",
+            "code": "live"
+          },
+          "parentsite": "UA-ATL-Terminal T",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "UA - ATL - Terminal T - Club Display",
+          "coordinates": {
+            "latitude": 33.640737,
+            "longitude": -84.429305
+          },
+          "address": {
+            "registryAddress": "6000 N Terminal Pkwy",
+            "zipcode": "30320",
+            "state": "GA",
+            "city": "Atlanta"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2014-01-01",
+            "linkActual": "2014-01-01"
+          },
+          "device": {
+            "name": "UA - ATL - Terminal T - Club Display",
+            "productGroup": "IxNSight",
+            "uniqueId": "ga-000001",
+            "display": [
+              {
+                "playerId": "ga-000001-C01-D01",
+                "manufacturer": "Legacy",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "50\"",
+                "serial": "IxN-003648-dis"
+              }
+            ],
+            "modem": [
+              {
+                "ipAddress": "107.77.235.23",
+                "serial": "2935-9D85-F1A9",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "ga-000001-C01",
+                "hostname": "ad1-ga-000001",
+                "manufacturer": "Logic Supply",
+                "macAddress": "78:F2:9E:90:F9:32",
+                "serial": "U674861",
+                "salesuniqueid": "ATL-TerminalT-CLD (ad1-ga-000001)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-ga-000001",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ga-000001",
+              "type": "ooh",
+              "siteId": "ga-000001"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-ga-000001",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ga-000001",
+              "type": "ooh",
+              "siteId": "ga-000001"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

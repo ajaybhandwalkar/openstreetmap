@@ -1,0 +1,5715 @@
+{
+  "features": [
+    {
+      "id": "nj-001008",
+      "geometry": {
+        "coordinates": [
+          -74.075821,
+          40.761188
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001008",
+        "status": "live",
+        "salesuniqueid": [
+          "Secaucus-UpperConcourse-VW (ad1-nj-001008)"
+        ],
+        "site": {
+          "id": "nj-001008",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2019-07-25",
+            "code": "live"
+          },
+          "parentsite": "Frank R Lautenberg Secaucus",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT - CONC - Secaucus Junction - VW - New_19 - 01",
+          "coordinates": {
+            "latitude": 40.761188,
+            "longitude": -74.075821
+          },
+          "address": {
+            "registryAddress": "1 North Road",
+            "zipcode": "07094",
+            "state": "NJ",
+            "city": "Secaucus"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2019-07-25",
+            "linkActual": "2019-07-25"
+          },
+          "device": {
+            "name": "NJT - CONC - Secaucus Junction - VW - New_19 - 01",
+            "productGroup": "Large Format",
+            "uniqueId": "nj-001008",
+            "display": [
+              {
+                "playerId": "nj-001008-C01-D07",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "55\u201d",
+                "serial": "905KCFTNW187"
+              },
+              {
+                "playerId": "nj-001008-C01-D06",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "55\u201d",
+                "serial": "905KCYQNW098"
+              },
+              {
+                "playerId": "nj-001008-C01-D02",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "55\u201d",
+                "serial": "905KCJZNW188"
+              },
+              {
+                "playerId": "nj-001008-C01-D05",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "55\u201d",
+                "serial": "905KCVUNW191"
+              },
+              {
+                "playerId": "nj-001008-C01-D04",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "55\u201d",
+                "serial": "905KCQXNW052"
+              },
+              {
+                "playerId": "nj-001008-C01-D03",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "55\u201d",
+                "serial": "905KCPYNW192"
+              },
+              {
+                "playerId": "nj-001008-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "55\u201d",
+                "serial": "905KCLHNW056"
+              },
+              {
+                "playerId": "nj-001008-C01-D09",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "55\u201d",
+                "serial": "905KCCVNW099"
+              },
+              {
+                "playerId": "nj-001008-C01-D08",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "55\u201d",
+                "serial": "905KCQXNW100"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2936-453D-A11F",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001008-C01",
+                "hostname": "ad1-nj-001008",
+                "manufacturer": "Logic Supply",
+                "macAddress": "70:85:C2:16:2F:71",
+                "serial": "U714974",
+                "salesuniqueid": "Secaucus-UpperConcourse-VW (ad1-nj-001008)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001008",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001008",
+              "type": "ooh",
+              "siteId": "nj-001008"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001008",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001008",
+              "type": "ooh",
+              "siteId": "nj-001008"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001009",
+      "geometry": {
+        "coordinates": [
+          -74.075821,
+          40.761188
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001009",
+        "status": "live",
+        "salesuniqueid": [
+          "Secaucus-Mezzanine-S-ITK (ad1-nj-001009)"
+        ],
+        "site": {
+          "id": "nj-001009",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2019-07-17",
+            "code": "live"
+          },
+          "parentsite": "Frank R Lautenberg Secaucus",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-MEZ-Secaucus Junction-IxNTouch-New-19-01",
+          "coordinates": {
+            "latitude": 40.761188,
+            "longitude": -74.075821
+          },
+          "address": {
+            "registryAddress": "1 North Road",
+            "zipcode": "07094",
+            "state": "NJ",
+            "city": "Secaucus"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2019-07-17",
+            "linkActual": "2019-07-17"
+          },
+          "device": {
+            "name": "NJT-MEZ-Secaucus Junction-IxNTouch-New-19-01",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-001009",
+            "display": [
+              {
+                "playerId": "nj-001009-C01-D01",
+                "manufacturer": "GDS",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "40908709D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2935-E7C2-CFD7",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001009-C02",
+                "hostname": "maint1-nj-001009",
+                "manufacturer": "Silicom",
+                "macAddress": "00:08:A2:0B:C0:0E",
+                "serial": "IxN-013610-sbc"
+              },
+              {
+                "id": "nj-001009-C01",
+                "hostname": "ad1-nj-001009",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:70:DD:E2",
+                "serial": "121911201008",
+                "salesuniqueid": "Secaucus-Mezzanine-S-ITK (ad1-nj-001009)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001009",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001009",
+              "type": "ooh",
+              "siteId": "nj-001009"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-maint1-nj-001009",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "maint1-nj-001009",
+              "type": "ooh",
+              "siteId": "nj-001009"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001009",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001009",
+              "type": "ooh",
+              "siteId": "nj-001009"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001023",
+      "geometry": {
+        "coordinates": [
+          -74.012921,
+          40.775919
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001023",
+        "status": "live",
+        "salesuniqueid": [
+          "PortImperial-HBLR-MidPlat-N-ITK (ad2-nj-001023)",
+          "PortImperial-HBLR-MidPlat-S-ITK (ad1-nj-001023)"
+        ],
+        "site": {
+          "id": "nj-001023",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2019-11-26",
+            "code": "live"
+          },
+          "parentsite": "Port Imperial-HBLR",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-HBLR-Port Imperial-IxNTouch-New-19-01",
+          "coordinates": {
+            "latitude": 40.775919,
+            "longitude": -74.012921
+          },
+          "address": {
+            "registryAddress": "Post Imperial Station",
+            "zipcode": "07086",
+            "state": "NJ",
+            "city": "Weehawken"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2019-11-26",
+            "linkActual": "2019-11-26"
+          },
+          "device": {
+            "name": "NJT-HBLR-Port Imperial-IxNTouch-New-19-01",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-001023",
+            "display": [
+              {
+                "playerId": "nj-001023-C02-D01",
+                "manufacturer": "GDS",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "40933449D"
+              },
+              {
+                "playerId": "nj-001023-C01-D01",
+                "manufacturer": "GDS",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "40933458D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2935-E8CF-C005",
+                "manufacturer": "Pepwave"
+              },
+              {
+                "serial": "2935-E902-0DD5",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001023-C02",
+                "hostname": "ad2-nj-001023",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:73:DB:34",
+                "serial": "91000221980001",
+                "salesuniqueid": "PortImperial-HBLR-MidPlat-N-ITK (ad2-nj-001023)"
+              },
+              {
+                "id": "nj-001023-C04",
+                "hostname": "maint2-nj-001023",
+                "manufacturer": "Silicom",
+                "macAddress": "00:08:A2:0F:8B:D9",
+                "serial": "40933067"
+              },
+              {
+                "id": "nj-001023-C03",
+                "hostname": "maint1-nj-001023",
+                "manufacturer": "Silicom",
+                "macAddress": "00:08:A2:0F:8B:C7",
+                "serial": "40933082"
+              },
+              {
+                "id": "nj-001023-C01",
+                "hostname": "ad1-nj-001023",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:73:DB:9E",
+                "serial": "91000221980071",
+                "salesuniqueid": "PortImperial-HBLR-MidPlat-S-ITK (ad1-nj-001023)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001023",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001023",
+              "type": "ooh",
+              "siteId": "nj-001023"
+            }
+          },
+          {
+            "id": "broadsign.version:14.5.1-2-ad2-nj-001023",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nj-001023",
+              "type": "ooh",
+              "siteId": "nj-001023"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001023",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001023",
+              "type": "ooh",
+              "siteId": "nj-001023"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad2-nj-001023",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nj-001023",
+              "type": "ooh",
+              "siteId": "nj-001023"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-maint2-nj-001023",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "maint2-nj-001023",
+              "type": "ooh",
+              "siteId": "nj-001023"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-000001",
+      "geometry": {
+        "coordinates": [
+          -74.0286,
+          40.7349
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-000001",
+        "status": "live",
+        "salesuniqueid": [
+          "Hoboken-02-CCD (ad1-nj-000002)",
+          "Hoboken-01-CCD (ad1-nj-000001)"
+        ],
+        "site": {
+          "id": "nj-000001",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2009-01-01",
+            "code": "live"
+          },
+          "parentsite": "Hoboken Transit Center-NJT",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-Hoboken-CON",
+          "coordinates": {
+            "latitude": 40.7349,
+            "longitude": -74.0286
+          },
+          "address": {
+            "registryAddress": "1 Hudson Pl",
+            "zipcode": "07030",
+            "state": "NJ",
+            "city": "Hoboken"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2009-01-01",
+            "linkActual": "2009-01-01"
+          },
+          "device": {
+            "name": "NJT-Hoboken-CON",
+            "productGroup": "IxNSight",
+            "uniqueId": "nj-000001",
+            "display": [
+              {
+                "playerId": "nj-000001-C02-D01",
+                "manufacturer": "Vertigo",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "72\u201d",
+                "serial": "IxN-000053-dis"
+              },
+              {
+                "playerId": "nj-000001-C01-D01",
+                "manufacturer": "Vertigo",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "72\u201d",
+                "serial": "IxN-003626-dis"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "192F-4F2B-11F2",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-000001-C02",
+                "hostname": "ad2-nj-000001",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:93:12",
+                "serial": "U728380",
+                "salesuniqueid": "Hoboken-02-CCD (ad1-nj-000002)"
+              },
+              {
+                "id": "nj-000001-C01",
+                "hostname": "ad1-nj-000001",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:92:D3",
+                "serial": "U723736",
+                "salesuniqueid": "Hoboken-01-CCD (ad1-nj-000001)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [],
+        "zendesk": {
+          "openTickets": 3
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001027",
+      "geometry": {
+        "coordinates": [
+          -74.360671,
+          40.540736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001027",
+        "status": "live",
+        "salesuniqueid": [
+          "Metuchen-NYBound-EastOfStationRoom-ITK (ad1-nj-001027)"
+        ],
+        "site": {
+          "id": "nj-001027",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2020-03-06",
+            "code": "live"
+          },
+          "parentsite": "Metuchen-NEC",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-NEC-Metuchen-IxNTouch-New_19_03",
+          "coordinates": {
+            "latitude": 40.540736,
+            "longitude": -74.360671
+          },
+          "address": {
+            "registryAddress": "Woodbridge Avenue & Main Street",
+            "zipcode": "08837",
+            "state": "NJ",
+            "city": "Metuchen"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2020-02-25",
+            "linkActual": "2020-03-06"
+          },
+          "device": {
+            "name": "NJT-NEC-Metuchen-IxNTouch-New_19_03",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-001027",
+            "display": [
+              {
+                "playerId": "nj-001027-C01-D01",
+                "manufacturer": "GDS",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "40933454D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2935-E92D-2F28",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001027-C02",
+                "hostname": "maint1-nj-001027",
+                "manufacturer": "Silicom",
+                "macAddress": "00:08:A2:0F:8B:C5",
+                "serial": "40933072"
+              },
+              {
+                "id": "nj-001027-C01",
+                "hostname": "ad1-nj-001027",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:73:DB:96",
+                "serial": "IxN-013371-sbc",
+                "salesuniqueid": "Metuchen-NYBound-EastOfStationRoom-ITK (ad1-nj-001027)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001027",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001027",
+              "type": "ooh",
+              "siteId": "nj-001027"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001027",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001027",
+              "type": "ooh",
+              "siteId": "nj-001027"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001014",
+      "geometry": {
+        "coordinates": [
+          -74.329394,
+          40.56864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001014",
+        "status": "live",
+        "salesuniqueid": [
+          "MetroPark-WaitRoom-Ticketing-ITK (ad1-nj-001014)"
+        ],
+        "site": {
+          "id": "nj-001014",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2019-12-13",
+            "code": "live"
+          },
+          "parentsite": "Metropark-NEC",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-NEC-Metropark-IxNTouch-New-19_03",
+          "coordinates": {
+            "latitude": 40.56864,
+            "longitude": -74.329394
+          },
+          "address": {
+            "registryAddress": "100 Middlesex Turnpike",
+            "zipcode": "08830",
+            "state": "NJ",
+            "city": "Iselin"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2019-12-13",
+            "linkActual": "2019-12-13"
+          },
+          "device": {
+            "name": "NJT-NEC-Metropark-IxNTouch-New-19_03",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-001014",
+            "display": [
+              {
+                "playerId": "nj-001014-C01-D01",
+                "manufacturer": "GDS",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "40933446D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2935-EA84-86B8",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001014-C01",
+                "hostname": "ad1-nj-001014",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:73:DB:9C",
+                "serial": "91000221980072",
+                "salesuniqueid": "MetroPark-WaitRoom-Ticketing-ITK (ad1-nj-001014)"
+              },
+              {
+                "id": "nj-001014-C02",
+                "hostname": "maint1-nj-001014",
+                "manufacturer": "Silicom",
+                "macAddress": "00:08:A2:0F:8C:29",
+                "serial": "40933078"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001014",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001014",
+              "type": "ooh",
+              "siteId": "nj-001014"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001014",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001014",
+              "type": "ooh",
+              "siteId": "nj-001014"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001090",
+      "geometry": {
+        "coordinates": [
+          -74.474086,
+          40.797113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001090",
+        "status": "live",
+        "salesuniqueid": [
+          "Morristown-NorthEndPlat-ITK (ad1-nj-001090)"
+        ],
+        "site": {
+          "id": "nj-001090",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2021-05-27",
+            "code": "live"
+          },
+          "parentsite": "Morristown-MTL",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT - MTL - Morristown - IxNTouch - New_19 - 01",
+          "coordinates": {
+            "latitude": 40.797113,
+            "longitude": -74.474086
+          },
+          "address": {
+            "registryAddress": "136 Morris Street",
+            "zipcode": "07960",
+            "state": "NJ",
+            "city": "Morristown"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2021-05-25",
+            "linkActual": "2021-05-27"
+          },
+          "device": {
+            "name": "NJT - MTL - Morristown - IxNTouch - New_19 - 01",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-001090",
+            "display": [
+              {
+                "playerId": "nj-001090-C01-D01",
+                "manufacturer": "GDS",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "40950893D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2937-890F-4F2E",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001090-C02",
+                "hostname": "maint1-nj-001090",
+                "manufacturer": "Silicom",
+                "macAddress": "00:08:A2:0F:FF:B5",
+                "serial": "40950897"
+              },
+              {
+                "id": "nj-001090-C01",
+                "hostname": "ad1-nj-001090",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:76:5F:6A",
+                "serial": "40951426",
+                "salesuniqueid": "Morristown-NorthEndPlat-ITK (ad1-nj-001090)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001090",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001090",
+              "type": "ooh",
+              "siteId": "nj-001090"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001090",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001090",
+              "type": "ooh",
+              "siteId": "nj-001090"
+            }
+          }
+        ],
+        "zendesk": {
+          "openTickets": 1
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001115",
+      "geometry": {
+        "coordinates": [
+          -74.329394,
+          40.56864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001115",
+        "status": "live",
+        "salesuniqueid": [
+          "MetroPark-TaxiDrop-Right-ITK (ad1-nj-001115)"
+        ],
+        "site": {
+          "id": "nj-001115",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2019-12-18",
+            "code": "live"
+          },
+          "parentsite": "Metropark-NEC",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-NEC-Metropark-IxNTouch-New-19_06",
+          "coordinates": {
+            "latitude": 40.56864,
+            "longitude": -74.329394
+          },
+          "address": {
+            "registryAddress": "100 Middlesex Turnpike",
+            "zipcode": "08830",
+            "state": "NJ",
+            "city": "Iselin"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2019-12-18",
+            "linkActual": "2019-12-18"
+          },
+          "device": {
+            "name": "NJT-NEC-Metropark-IxNTouch-New-19_06",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-001115",
+            "display": [
+              {
+                "playerId": "nj-001115-C01-D01",
+                "manufacturer": "GDS",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "40933452D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2935-9F8A-F354",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001115-C01",
+                "hostname": "ad1-nj-001115",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:73:DB:92",
+                "serial": "91000221980077",
+                "salesuniqueid": "MetroPark-TaxiDrop-Right-ITK (ad1-nj-001115)"
+              },
+              {
+                "id": "nj-001115-C02",
+                "hostname": "maint1-nj-001115",
+                "manufacturer": "Silicom",
+                "macAddress": "00:08:A2:0F:8B:E5",
+                "serial": "40933071"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001115",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001115",
+              "type": "ooh",
+              "siteId": "nj-001115"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-maint1-nj-001115",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "maint1-nj-001115",
+              "type": "ooh",
+              "siteId": "nj-001115"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001115",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001115",
+              "type": "ooh",
+              "siteId": "nj-001115"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001088",
+      "geometry": {
+        "coordinates": [
+          -74.410972,
+          40.519148
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001088",
+        "status": "live",
+        "salesuniqueid": [
+          "Edison-MidPlat-SW-PLT (ad1-nj-001088)"
+        ],
+        "site": {
+          "id": "nj-001088",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2022-02-15",
+            "code": "live"
+          },
+          "parentsite": "Edison-NEC",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT - NEC - Edison - IxNSight - New_20 - 01",
+          "coordinates": {
+            "latitude": 40.519148,
+            "longitude": -74.410972
+          },
+          "address": {
+            "registryAddress": "Reed Street & Central Avenue",
+            "zipcode": "08817",
+            "state": "NJ",
+            "city": "Edison"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2022-02-15",
+            "linkActual": "2022-02-15"
+          },
+          "device": {
+            "name": "NJT - NEC - Edison - IxNSight - New_20 - 01",
+            "productGroup": "IxNSight",
+            "uniqueId": "nj-001088",
+            "display": [
+              {
+                "playerId": "nj-001088-C01-D01",
+                "manufacturer": "GDS",
+                "size": "55\u201d",
+                "serial": "IxN-003780-dis"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2936-EEF7-C6B8",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001088-C01",
+                "hostname": "ad1-nj-001088",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:75:D8:55",
+                "serial": "91000235760024",
+                "salesuniqueid": "Edison-MidPlat-SW-PLT (ad1-nj-001088)"
+              },
+              {
+                "id": "nj-001088-C01",
+                "hostname": "maint1-nj-001088",
+                "manufacturer": "Silicom",
+                "macAddress": "00:08:A2:0B:C1:82",
+                "serial": "40941631"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001088",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001088",
+              "type": "ooh",
+              "siteId": "nj-001088"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001088",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001088",
+              "type": "ooh",
+              "siteId": "nj-001088"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001030",
+      "geometry": {
+        "coordinates": [
+          -74.074034,
+          40.76159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001030",
+        "status": "live",
+        "salesuniqueid": [
+          "Secaucus-BusPlaza-Escalator-S-ITK (ad1-nj-001030)"
+        ],
+        "site": {
+          "id": "nj-001030",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2019-11-21",
+            "code": "live"
+          },
+          "parentsite": "Frank R Lautenberg Secaucus-Bus Plaza",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-BUS-Secaucus Junction-IxNTouch-New_19-01",
+          "coordinates": {
+            "latitude": 40.76159,
+            "longitude": -74.074034
+          },
+          "address": {
+            "registryAddress": "1 North Road",
+            "zipcode": "07094",
+            "state": "NJ",
+            "city": "Secaucus"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2019-11-21",
+            "linkActual": "2019-11-21"
+          },
+          "device": {
+            "name": "NJT-BUS-Secaucus Junction-IxNTouch-New_19-01",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-001030",
+            "display": [
+              {
+                "playerId": "nj-001030-C01-D01",
+                "manufacturer": "GDS",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "40933447D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2935-EA7B-7948",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001030-C01",
+                "hostname": "ad1-nj-001030",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:73:DB:38",
+                "serial": "91000221980004",
+                "salesuniqueid": "Secaucus-BusPlaza-Escalator-S-ITK (ad1-nj-001030)"
+              },
+              {
+                "id": "nj-001030-C02",
+                "hostname": "maint1-nj-001030",
+                "manufacturer": "Silicom",
+                "macAddress": "00:08:A2:0F:8B:C9",
+                "serial": "40933069"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001030",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001030",
+              "type": "ooh",
+              "siteId": "nj-001030"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001030",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001030",
+              "type": "ooh",
+              "siteId": "nj-001030"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001082",
+      "geometry": {
+        "coordinates": [
+          -74.329394,
+          40.56864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001082",
+        "status": "live",
+        "salesuniqueid": [
+          "MetroPark-TrentonBound-ITK (ad1-nj-001082)"
+        ],
+        "site": {
+          "id": "nj-001082",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2020-03-05",
+            "code": "live"
+          },
+          "parentsite": "Metropark-NEC",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-NEC-Metropark-IxNTouch-New-19_05",
+          "coordinates": {
+            "latitude": 40.56864,
+            "longitude": -74.329394
+          },
+          "address": {
+            "registryAddress": "100 Middlesex Turnpike",
+            "zipcode": "08830",
+            "state": "NJ",
+            "city": "Iselin"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2020-03-05",
+            "linkActual": "2020-03-05"
+          },
+          "device": {
+            "name": "NJT-NEC-Metropark-IxNTouch-New-19_05",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-001082",
+            "display": [
+              {
+                "playerId": "nj-001082-C01-D01",
+                "manufacturer": "GDS",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "40933455D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2935-9EF7-858F",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001082-C02",
+                "hostname": "maint1-nj-001082",
+                "manufacturer": "Silicom",
+                "macAddress": "00:08:A2:0F:8C:41",
+                "serial": "40933084"
+              },
+              {
+                "id": "nj-001082-C01",
+                "hostname": "ad1-nj-001082",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:73:DB:2E",
+                "serial": "91000221980008",
+                "salesuniqueid": "MetroPark-TrentonBound-ITK (ad1-nj-001082)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001082",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001082",
+              "type": "ooh",
+              "siteId": "nj-001082"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001082",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001082",
+              "type": "ooh",
+              "siteId": "nj-001082"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-000003",
+      "geometry": {
+        "coordinates": [
+          -74.70405,
+          40.255357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-000003",
+        "status": "live",
+        "salesuniqueid": [
+          "Hamilton-N-CCD (ad1-nj-000003)"
+        ],
+        "site": {
+          "id": "nj-000003",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2009-01-01",
+            "code": "live"
+          },
+          "parentsite": "Hamilton-NEC",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-Hamilton-CON-01",
+          "coordinates": {
+            "latitude": 40.255357,
+            "longitude": -74.70405
+          },
+          "address": {
+            "registryAddress": "46 American Metro Blvd",
+            "zipcode": "08619",
+            "state": "NJ",
+            "city": "Trenton"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2009-01-01",
+            "linkActual": "2009-01-01"
+          },
+          "device": {
+            "name": "NJT-Hamilton-CON-01",
+            "productGroup": "IxNSight",
+            "uniqueId": "nj-000003",
+            "display": [
+              {
+                "playerId": "nj-000003-C01-D01",
+                "manufacturer": "LG-MRI",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "72\u201d",
+                "serial": "GEGK243002QG"
+              }
+            ],
+            "modem": [
+              {
+                "ipAddress": "107.84.29.50",
+                "serial": "A154640323001010",
+                "manufacturer": "Sierra Wireless"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-000003-C01",
+                "hostname": "ad1-nj-000003",
+                "manufacturer": "Legacy",
+                "macAddress": "EC:A8:6B:F1:C0:33",
+                "serial": "IxN-012622-sbc",
+                "salesuniqueid": "Hamilton-N-CCD (ad1-nj-000003)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-000003",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-000003",
+              "type": "ooh",
+              "siteId": "nj-000003"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-000003",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-000003",
+              "type": "ooh",
+              "siteId": "nj-000003"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001094",
+      "geometry": {
+        "coordinates": [
+          -74.027301,
+          40.18059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001094",
+        "status": "live",
+        "salesuniqueid": [
+          "Belmar-MidPlat-ITK (ad1-nj-001094)"
+        ],
+        "site": {
+          "id": "nj-001094",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2021-10-07",
+            "code": "live"
+          },
+          "parentsite": "Belmar-NJCL",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT - NJCL - Belmar - IxNTouch - New_20 - 01",
+          "coordinates": {
+            "latitude": 40.18059,
+            "longitude": -74.027301
+          },
+          "address": {
+            "registryAddress": "10th Avenue & West Railroad Avenue",
+            "zipcode": "07719",
+            "state": "NJ",
+            "city": "Belmar"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2021-10-06",
+            "linkActual": "2021-10-07"
+          },
+          "device": {
+            "name": "NJT - NJCL - Belmar - IxNTouch - New_20 - 01",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-001094",
+            "display": [
+              {
+                "playerId": "nj-001094-C01-D01",
+                "manufacturer": "GDS",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "40950896D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2937-889E-D737",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001094-C01",
+                "hostname": "ad1-nj-001094",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:76:5F:26",
+                "serial": "40951429",
+                "salesuniqueid": "Belmar-MidPlat-ITK (ad1-nj-001094)"
+              },
+              {
+                "id": "nj-001094-C02",
+                "hostname": "maint1-nj-001094",
+                "manufacturer": "Silicom",
+                "macAddress": "00:08:A2:0F:FF:7D",
+                "serial": "40950915"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001094",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001094",
+              "type": "ooh",
+              "siteId": "nj-001094"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001094",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001094",
+              "type": "ooh",
+              "siteId": "nj-001094"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001032",
+      "geometry": {
+        "coordinates": [
+          -74.276692,
+          40.606338
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001032",
+        "status": "live",
+        "salesuniqueid": [
+          "Rahway-StationRoom-ITK (ad1-nj-001032)"
+        ],
+        "site": {
+          "id": "nj-001032",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2020-11-04",
+            "code": "live"
+          },
+          "parentsite": "Rahway",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-NEC-Rahway-IxNTouch-New_20-01",
+          "coordinates": {
+            "latitude": 40.606338,
+            "longitude": -74.276692
+          },
+          "address": {
+            "registryAddress": "1371 Irving Street",
+            "zipcode": "07065",
+            "state": "NJ",
+            "city": "Rahway"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2020-11-04",
+            "linkActual": "2020-11-04"
+          },
+          "device": {
+            "name": "NJT-NEC-Rahway-IxNTouch-New_20-01",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-001032",
+            "display": [
+              {
+                "playerId": "nj-001032-C01-D01",
+                "manufacturer": "GDS",
+                "orientation": "Portrait",
+                "resolution": "1920x1080",
+                "size": "55\u201d",
+                "serial": "040950885-d"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2937-8940-0BD5",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001032-C02",
+                "hostname": "maint2-nj-001032",
+                "manufacturer": "Silicom",
+                "macAddress": "00:08:A2:0F:FF:D5",
+                "serial": "40950900-M"
+              },
+              {
+                "id": "nj-001032-C01",
+                "hostname": "ad1-nj-001032",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:76:A4:2A",
+                "serial": "0017BZ00023",
+                "salesuniqueid": "Rahway-StationRoom-ITK (ad1-nj-001032)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001032",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001032",
+              "type": "ooh",
+              "siteId": "nj-001032"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001032",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001032",
+              "type": "ooh",
+              "siteId": "nj-001032"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001139",
+      "geometry": {
+        "coordinates": [
+          -74.384812,
+          40.740137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001139",
+        "status": "live",
+        "salesuniqueid": [
+          "Chatham-MidPlat-PLT (ad1-nj-001139)"
+        ],
+        "site": {
+          "id": "nj-001139",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2021-12-22",
+            "code": "live"
+          },
+          "parentsite": "Chatham-MTL",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "Chatham - MTL - New - 01",
+          "coordinates": {
+            "latitude": 40.740137,
+            "longitude": -74.384812
+          },
+          "address": {
+            "registryAddress": "30 Fairmount Avenue",
+            "zipcode": "07928",
+            "state": "NJ",
+            "city": "Chatham"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2021-12-21",
+            "linkActual": "2021-12-22"
+          },
+          "device": {
+            "name": "Chatham - MTL - New - 01",
+            "productGroup": "IxNSight",
+            "uniqueId": "nj-001139",
+            "display": [
+              {
+                "playerId": "nj-001139-C01-D01",
+                "manufacturer": "GDS",
+                "orientation": "Landscape",
+                "size": "55\u201d",
+                "serial": "40966178D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2937-A31B-7463",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001139-C01",
+                "hostname": "ad1-nj-001139",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:76:D8:AA",
+                "serial": "40966199",
+                "salesuniqueid": "Chatham-MidPlat-PLT (ad1-nj-001139)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001139",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001139",
+              "type": "ooh",
+              "siteId": "nj-001139"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001139",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001139",
+              "type": "ooh",
+              "siteId": "nj-001139"
+            }
+          }
+        ],
+        "zendesk": {
+          "openTickets": 1
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001144",
+      "geometry": {
+        "coordinates": [
+          -74.190393,
+          40.415385
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001144",
+        "status": "live",
+        "salesuniqueid": [
+          "Hazlet-EastEndPlat-PLT (ad1-nj-001144)"
+        ],
+        "site": {
+          "id": "nj-001144",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2022-02-11",
+            "code": "live"
+          },
+          "parentsite": "Hazlet-NJCL",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT - NJCL - Hazlet - IxNSight - New_20-02",
+          "coordinates": {
+            "latitude": 40.415385,
+            "longitude": -74.190393
+          },
+          "address": {
+            "registryAddress": "110 Hazlet Avenue",
+            "zipcode": "07747",
+            "state": "NJ",
+            "city": "Matawan"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2022-02-09",
+            "linkActual": "2022-02-11"
+          },
+          "device": {
+            "name": "NJT - NJCL - Hazlet - IxNSight - New_20-02",
+            "productGroup": "IxNSight",
+            "uniqueId": "nj-001144",
+            "display": [
+              {
+                "playerId": "nj-001144-C01-D01",
+                "manufacturer": "GDS",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "40966182D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2937-A2FE-9B39",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001144-C01",
+                "hostname": "ad1-nj-001144",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:76:D8:AC",
+                "serial": "40966202",
+                "salesuniqueid": "Hazlet-EastEndPlat-PLT (ad1-nj-001144)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001144",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001144",
+              "type": "ooh",
+              "siteId": "nj-001144"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001144",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001144",
+              "type": "ooh",
+              "siteId": "nj-001144"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001093",
+      "geometry": {
+        "coordinates": [
+          -74.474086,
+          40.797113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001093",
+        "status": "live",
+        "salesuniqueid": [
+          "Morristown-SouthEndPlat-ITK (ad1-nj-001093)"
+        ],
+        "site": {
+          "id": "nj-001093",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2021-05-27",
+            "code": "live"
+          },
+          "parentsite": "Morristown-MTL",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT - MTL - Morristown - IxNTouch - New_19 - 02",
+          "coordinates": {
+            "latitude": 40.797113,
+            "longitude": -74.474086
+          },
+          "address": {
+            "registryAddress": "136 Morris Street",
+            "zipcode": "07960",
+            "state": "NJ",
+            "city": "Morristown"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2021-05-25",
+            "linkActual": "2021-05-27"
+          },
+          "device": {
+            "name": "NJT - MTL - Morristown - IxNTouch - New_19 - 02",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-001093",
+            "display": [
+              {
+                "playerId": "nj-001093-C01-D01",
+                "manufacturer": "GDS",
+                "size": "55\u201d",
+                "serial": "40950894D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2937-890B-4F6A",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001093-C02",
+                "hostname": "maint1-nj-001093",
+                "manufacturer": "Silicom",
+                "macAddress": "00:08:A2:0F:FF:2F",
+                "serial": "40950906"
+              },
+              {
+                "id": "nj-001093-C01",
+                "hostname": "ad1-nj-001093",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:76:5F:64",
+                "serial": "0810BZ02281",
+                "salesuniqueid": "Morristown-SouthEndPlat-ITK (ad1-nj-001093)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001093",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001093",
+              "type": "ooh",
+              "siteId": "nj-001093"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001093",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001093",
+              "type": "ooh",
+              "siteId": "nj-001093"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001025",
+      "geometry": {
+        "coordinates": [
+          -74.360671,
+          40.540736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001025",
+        "status": "live",
+        "salesuniqueid": [
+          "Metuchen-TrentonBound-ITK (ad1-nj-001025)"
+        ],
+        "site": {
+          "id": "nj-001025",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2020-02-26",
+            "code": "live"
+          },
+          "parentsite": "Metuchen-NEC",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-NEC-Metuchen-IxNTouch-New_19_01",
+          "coordinates": {
+            "latitude": 40.540736,
+            "longitude": -74.360671
+          },
+          "address": {
+            "registryAddress": "Woodbridge Avenue & Main Street",
+            "zipcode": "08837",
+            "state": "NJ",
+            "city": "Metuchen"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2020-02-26",
+            "linkActual": "2020-02-26"
+          },
+          "device": {
+            "name": "NJT-NEC-Metuchen-IxNTouch-New_19_01",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-001025",
+            "display": [
+              {
+                "playerId": "nj-001025-C01-D01",
+                "manufacturer": "GDS",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "40933442D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2935-E878-7B79",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001025-C02",
+                "hostname": "maint1-nj-001025",
+                "manufacturer": "Silicom",
+                "macAddress": "00:08:A2:0F:8B:DD",
+                "serial": "40933083"
+              },
+              {
+                "id": "nj-001025-C01",
+                "hostname": "ad1-nj-001025",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:73:DB:98",
+                "serial": "91000221980074",
+                "salesuniqueid": "Metuchen-TrentonBound-ITK (ad1-nj-001025)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001025",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001025",
+              "type": "ooh",
+              "siteId": "nj-001025"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001025",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001025",
+              "type": "ooh",
+              "siteId": "nj-001025"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001129",
+      "geometry": {
+        "coordinates": [
+          -74.277751,
+          40.55661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001129",
+        "status": "live",
+        "salesuniqueid": [
+          "Woodbridge-SBTrack-MidPlat-S-PLT (ad1-nj-001129)"
+        ],
+        "site": {
+          "id": "nj-001129",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2022-02-08",
+            "code": "live"
+          },
+          "parentsite": "Woodbridge-NJCL",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT - NJCL - Woodbridge - IxNSight - New_20-03",
+          "coordinates": {
+            "latitude": 40.55661,
+            "longitude": -74.277751
+          },
+          "address": {
+            "registryAddress": "400 Pearl Street",
+            "zipcode": "07095",
+            "state": "NJ",
+            "city": "Woodbridge"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2022-02-08",
+            "linkActual": "2022-02-08"
+          },
+          "device": {
+            "name": "NJT - NJCL - Woodbridge - IxNSight - New_20-03",
+            "productGroup": "IxNSight",
+            "uniqueId": "nj-001129",
+            "display": [
+              {
+                "playerId": "nj-001129-C01-D01",
+                "manufacturer": "GDS",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "40966183D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2937-A2FD-9B0A",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001129-C01",
+                "hostname": "ad1-nj-001129",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:76:D8:EE",
+                "serial": "40966204",
+                "salesuniqueid": "Woodbridge-SBTrack-MidPlat-S-PLT (ad1-nj-001129)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001129",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001129",
+              "type": "ooh",
+              "siteId": "nj-001129"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001129",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001129",
+              "type": "ooh",
+              "siteId": "nj-001129"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-000016",
+      "geometry": {
+        "coordinates": [
+          -74.0286,
+          40.7349
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-000016",
+        "status": "live",
+        "salesuniqueid": [
+          "Hoboken-Plat-FacingWaitingRoom-ITK (ad1-nj-000016)"
+        ],
+        "site": {
+          "id": "nj-000016",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2018-05-14",
+            "code": "live"
+          },
+          "parentsite": "Hoboken Transit Center-NJT",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-HOB-IXNT-02",
+          "coordinates": {
+            "latitude": 40.7349,
+            "longitude": -74.0286
+          },
+          "address": {
+            "registryAddress": "1 Hudson Pl",
+            "zipcode": "07030",
+            "state": "NJ",
+            "city": "Hoboken"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2018-05-14",
+            "linkActual": "2018-05-14"
+          },
+          "device": {
+            "name": "NJT-HOB-IXNT-02",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-000016",
+            "display": [
+              {
+                "playerId": "nj-000016-C01-D01",
+                "manufacturer": "Civiq",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "48\u201d",
+                "serial": "IxN-000061-dis"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2934-4E3C-8825",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-000016-C01",
+                "hostname": "ad1-nj-000016",
+                "manufacturer": "Logic Supply",
+                "macAddress": "78:F2:9E:90:66:61",
+                "serial": "U655251",
+                "salesuniqueid": "Hoboken-Plat-FacingWaitingRoom-ITK (ad1-nj-000016)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-000016",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-000016",
+              "type": "ooh",
+              "siteId": "nj-000016"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-000016",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-000016",
+              "type": "ooh",
+              "siteId": "nj-000016"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-000010",
+      "geometry": {
+        "coordinates": [
+          -74.1642,
+          40.7344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-000010",
+        "status": "live",
+        "salesuniqueid": [
+          "Newark-Track1Plat-ITK (ad1-nj-000010)"
+        ],
+        "site": {
+          "id": "nj-000010",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2017-12-04",
+            "code": "live"
+          },
+          "parentsite": "Newark-Penn Transit Center-NJT",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-NWK-IXNT-02",
+          "coordinates": {
+            "latitude": 40.7344,
+            "longitude": -74.1642
+          },
+          "address": {
+            "registryAddress": "1 Raymond Plaza West & Market Street",
+            "zipcode": "07102",
+            "state": "NJ",
+            "city": "Newark"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2017-12-04",
+            "linkActual": "2017-12-04"
+          },
+          "device": {
+            "name": "NJT-NWK-IXNT-02",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-000010",
+            "display": [
+              {
+                "playerId": "nj-000010-C01-D01",
+                "manufacturer": "Civiq",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "48\u201d",
+                "serial": "IxN-000058-dis"
+              }
+            ],
+            "modem": [
+              {
+                "ipAddress": "166.184.53.212",
+                "serial": "2934-50E4-4BAF",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-000010-C01",
+                "hostname": "ad1-nj-000010",
+                "manufacturer": "Logic Supply",
+                "macAddress": "78:F2:9E:90:64:50",
+                "serial": "U653611",
+                "salesuniqueid": "Newark-Track1Plat-ITK (ad1-nj-000010)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-000010",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-000010",
+              "type": "ooh",
+              "siteId": "nj-000010"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-000010",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-000010",
+              "type": "ooh",
+              "siteId": "nj-000010"
+            }
+          }
+        ],
+        "zendesk": {
+          "openTickets": 1
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001022",
+      "geometry": {
+        "coordinates": [
+          -74.034092,
+          40.716009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001022",
+        "status": "live",
+        "salesuniqueid": [
+          "ExchangePlace-HBLR-NorthEndPlat-W-ITK (ad1-nj-001022)"
+        ],
+        "site": {
+          "id": "nj-001022",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2019-07-29",
+            "code": "live"
+          },
+          "parentsite": "Exchange Place-HBLR",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-HBLR-Exchange Place-IxNTouch-New-19_01 B",
+          "coordinates": {
+            "latitude": 40.716009,
+            "longitude": -74.034092
+          },
+          "address": {
+            "registryAddress": "10 Exchange Place",
+            "zipcode": "07302",
+            "state": "NJ",
+            "city": "Jersey City"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2019-07-29",
+            "linkActual": "2019-07-29"
+          },
+          "device": {
+            "name": "NJT-HBLR-Exchange Place-IxNTouch-New-19_01 B",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-001022",
+            "display": [
+              {
+                "playerId": "nj-001022-C01-D01",
+                "manufacturer": "GDS",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "40908707D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2935-E7E2-EDD5",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001022-C01",
+                "hostname": "ad1-nj-001022",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:70:DD:CC",
+                "serial": "121911201006",
+                "salesuniqueid": "ExchangePlace-HBLR-NorthEndPlat-W-ITK (ad1-nj-001022)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001022",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001022",
+              "type": "ooh",
+              "siteId": "nj-001022"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001022",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001022",
+              "type": "ooh",
+              "siteId": "nj-001022"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001127",
+      "geometry": {
+        "coordinates": [
+          -74.277751,
+          40.55661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001127",
+        "status": "live",
+        "salesuniqueid": [
+          "Woodbridge-NBTrack-MidPlat-S-PLT (ad1-nj-001127)"
+        ],
+        "site": {
+          "id": "nj-001127",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2022-02-08",
+            "code": "live"
+          },
+          "parentsite": "Woodbridge-NJCL",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT - NJCL - Woodbridge - IxNSight - New_20-01",
+          "coordinates": {
+            "latitude": 40.55661,
+            "longitude": -74.277751
+          },
+          "address": {
+            "registryAddress": "400 Pearl Street",
+            "zipcode": "07095",
+            "state": "NJ",
+            "city": "Woodbridge"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2022-02-08",
+            "linkActual": "2022-02-08"
+          },
+          "device": {
+            "name": "NJT - NJCL - Woodbridge - IxNSight - New_20-01",
+            "productGroup": "IxNSight",
+            "uniqueId": "nj-001127",
+            "display": [
+              {
+                "playerId": "nj-001127-C01-D01",
+                "manufacturer": "GDS",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "40966177D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2937-A303-65EA",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001127-C01",
+                "hostname": "ad1-nj-001127",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:76:D8:C6",
+                "serial": "40966201",
+                "salesuniqueid": "Woodbridge-NBTrack-MidPlat-S-PLT (ad1-nj-001127)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001127",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001127",
+              "type": "ooh",
+              "siteId": "nj-001127"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001127",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001127",
+              "type": "ooh",
+              "siteId": "nj-001127"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001019",
+      "geometry": {
+        "coordinates": [
+          -74.034092,
+          40.716009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001019",
+        "status": "live",
+        "salesuniqueid": [
+          "ExchangePlace-HBLR-NorthEndPlat-E-ITK (ad1-nj-001019)"
+        ],
+        "site": {
+          "id": "nj-001019",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2019-07-29",
+            "code": "live"
+          },
+          "parentsite": "Exchange Place-HBLR",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-HBLR-Exchange Place-IxNTouch-New-19_01 A",
+          "coordinates": {
+            "latitude": 40.716009,
+            "longitude": -74.034092
+          },
+          "address": {
+            "registryAddress": "10 Exchange Place",
+            "zipcode": "07302",
+            "state": "NJ",
+            "city": "Jersey City"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2019-07-29",
+            "linkActual": "2019-07-29"
+          },
+          "device": {
+            "name": "NJT-HBLR-Exchange Place-IxNTouch-New-19_01 A",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-001019",
+            "display": [
+              {
+                "playerId": "nj-001019-C01-D01",
+                "manufacturer": "GDS",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "40908708D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2935-E7C9-CF6C",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001019-C02",
+                "hostname": "maint1-nj-001019",
+                "manufacturer": "Silicom",
+                "macAddress": "00:08:A2:0B:C0:34",
+                "serial": "IxN-013611-sbc"
+              },
+              {
+                "id": "nj-001019-C01",
+                "hostname": "ad1-nj-001019",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:70:DD:D6",
+                "serial": "121911201007",
+                "salesuniqueid": "ExchangePlace-HBLR-NorthEndPlat-E-ITK (ad1-nj-001019)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001019",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001019",
+              "type": "ooh",
+              "siteId": "nj-001019"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-maint1-nj-001019",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "maint1-nj-001019",
+              "type": "ooh",
+              "siteId": "nj-001019"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001019",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001019",
+              "type": "ooh",
+              "siteId": "nj-001019"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001021",
+      "geometry": {
+        "coordinates": [
+          -74.445751,
+          40.497278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001021",
+        "status": "live",
+        "salesuniqueid": [
+          "NewBrunswick-MidPlat-ITK (ad1-nj-001021)"
+        ],
+        "site": {
+          "id": "nj-001021",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2021-07-20",
+            "code": "live"
+          },
+          "parentsite": "New Brunswick-NEC",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-NEC-NewBrunswick-IxNTouch-New-19-02",
+          "coordinates": {
+            "latitude": 40.497278,
+            "longitude": -74.445751
+          },
+          "address": {
+            "registryAddress": "French Street & Albany Street",
+            "zipcode": "08901",
+            "state": "NJ",
+            "city": "New Brunswick"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2021-07-15",
+            "linkActual": "2021-07-20"
+          },
+          "device": {
+            "name": "NJT-NEC-NewBrunswick-IxNTouch-New-19-02",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-001021",
+            "display": [
+              {
+                "playerId": "nj-001021-C01-D01",
+                "manufacturer": "GDS",
+                "size": "55\u201d",
+                "serial": "40950891D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2937-8909-4F48",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001021-C02",
+                "hostname": "maint1-nj-001021",
+                "manufacturer": "Silicom",
+                "macAddress": "00:08:A2:0F:FE:E1",
+                "serial": "40950901"
+              },
+              {
+                "id": "nj-001021-C01",
+                "hostname": "ad1-nj-001021",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:76:A4:28",
+                "serial": "0017BZ00024",
+                "salesuniqueid": "NewBrunswick-MidPlat-ITK (ad1-nj-001021)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001021",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001021",
+              "type": "ooh",
+              "siteId": "nj-001021"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001021",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001021",
+              "type": "ooh",
+              "siteId": "nj-001021"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-000090",
+      "geometry": {
+        "coordinates": [
+          -74.074044,
+          40.347846
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-000090",
+        "status": "live",
+        "salesuniqueid": [
+          "Redbank-SouthEndPlat-ITK (ad1-nj-000090)"
+        ],
+        "site": {
+          "id": "nj-000090",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2021-06-23",
+            "code": "live"
+          },
+          "parentsite": "Red Bank-CL",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-CL-Red Bank-IxNTouch-New-20-01",
+          "coordinates": {
+            "latitude": 40.347846,
+            "longitude": -74.074044
+          },
+          "address": {
+            "registryAddress": "Red Bank Station",
+            "zipcode": "07701",
+            "state": "NJ",
+            "city": "Red Bank"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2021-06-22",
+            "linkActual": "2021-06-23"
+          },
+          "device": {
+            "name": "NJT-CL-Red Bank-IxNTouch-New-20-01",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-000090",
+            "display": [
+              {
+                "playerId": "nj-000090-C01-D01",
+                "manufacturer": "GDS",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "40950888D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2937-8898-D751",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-000090-C01",
+                "hostname": "ad1-nj-000090",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:75:D8:73",
+                "serial": "40951420",
+                "salesuniqueid": "Redbank-SouthEndPlat-ITK (ad1-nj-000090)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-000090",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-000090",
+              "type": "ooh",
+              "siteId": "nj-000090"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-000090",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-000090",
+              "type": "ooh",
+              "siteId": "nj-000090"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001128",
+      "geometry": {
+        "coordinates": [
+          -74.277751,
+          40.55661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001128",
+        "status": "live",
+        "salesuniqueid": [
+          "Woodbridge-NBTrack-MidPlat-N-PLT (ad1-nj-001128)"
+        ],
+        "site": {
+          "id": "nj-001128",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2022-02-08",
+            "code": "live"
+          },
+          "parentsite": "Woodbridge-NJCL",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT - NJCL - Woodbridge - IxNSight - New_20-02",
+          "coordinates": {
+            "latitude": 40.55661,
+            "longitude": -74.277751
+          },
+          "address": {
+            "registryAddress": "400 Pearl Street",
+            "zipcode": "07095",
+            "state": "NJ",
+            "city": "Woodbridge"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2022-02-08",
+            "linkActual": "2022-02-08"
+          },
+          "device": {
+            "name": "NJT - NJCL - Woodbridge - IxNSight - New_20-02",
+            "productGroup": "IxNSight",
+            "uniqueId": "nj-001128",
+            "display": [
+              {
+                "playerId": "nj-001128-C01-D01",
+                "manufacturer": "GDS",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "40966179D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2937-A337-56AD",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001128-C01",
+                "hostname": "ad1-nj-001128",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:76:D8:A6",
+                "serial": "40966198",
+                "salesuniqueid": "Woodbridge-NBTrack-MidPlat-N-PLT (ad1-nj-001128)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001128",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001128",
+              "type": "ooh",
+              "siteId": "nj-001128"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001128",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001128",
+              "type": "ooh",
+              "siteId": "nj-001128"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001020",
+      "geometry": {
+        "coordinates": [
+          -74.445751,
+          40.497278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001020",
+        "status": "live",
+        "salesuniqueid": [
+          "NewBrunswick-NorthEndPlat-ITK (ad1-nj-001020)"
+        ],
+        "site": {
+          "id": "nj-001020",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2022-04-29",
+            "code": "live"
+          },
+          "parentsite": "New Brunswick-NEC",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-NEC-NewBrunswick-IxNTouch-New-19-01",
+          "coordinates": {
+            "latitude": 40.497278,
+            "longitude": -74.445751
+          },
+          "address": {
+            "registryAddress": "French Street & Albany Street",
+            "zipcode": "08901",
+            "state": "NJ",
+            "city": "New Brunswick"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2022-04-27",
+            "linkActual": "2022-04-29"
+          },
+          "device": {
+            "name": "NJT-NEC-NewBrunswick-IxNTouch-New-19-01",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-001020",
+            "display": [
+              {
+                "playerId": "nj-001020-C01-D01",
+                "manufacturer": "GDS",
+                "size": "55\u201d",
+                "serial": "40950890D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2937-8803-4EE3",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001020-C01",
+                "hostname": "ad1-nj-001020",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:76:5F:5C",
+                "serial": "0810BZ02285",
+                "salesuniqueid": "NewBrunswick-NorthEndPlat-ITK (ad1-nj-001020)"
+              },
+              {
+                "id": "nj-001020-C01",
+                "hostname": "maint1-nj-001020",
+                "manufacturer": "Silicom",
+                "macAddress": "00:08:A2:0F:FE:F1",
+                "serial": "40950914"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001020",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001020",
+              "type": "ooh",
+              "siteId": "nj-001020"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001020",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001020",
+              "type": "ooh",
+              "siteId": "nj-001020"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001013",
+      "geometry": {
+        "coordinates": [
+          -74.32948,
+          40.56832
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001013",
+        "status": "live",
+        "salesuniqueid": [
+          "MetroPark-WaitRoom-Newsstand-ITK (ad1-nj-001013)"
+        ],
+        "site": {
+          "id": "nj-001013",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2019-12-13",
+            "code": "live"
+          },
+          "parentsite": "Metropark-NEC",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-NEC-MetroPark-IxNTouch-New_19_02",
+          "coordinates": {
+            "latitude": 40.56832,
+            "longitude": -74.32948
+          },
+          "address": {
+            "registryAddress": "100 Middlesex Turnpike",
+            "zipcode": "08830",
+            "state": "NJ",
+            "city": "Iselin"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2019-12-13",
+            "linkActual": "2019-12-13"
+          },
+          "device": {
+            "name": "NJT-NEC-MetroPark-IxNTouch-New_19_02",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-001013",
+            "display": [
+              {
+                "playerId": "nj-001013-C01-D01",
+                "manufacturer": "GDS",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "40933444D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2935-EA7F-790C",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001013-C01",
+                "hostname": "ad1-nj-001013",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:73:DB:2A",
+                "serial": "91000221980015",
+                "salesuniqueid": "MetroPark-WaitRoom-Newsstand-ITK (ad1-nj-001013)"
+              },
+              {
+                "id": "nj-001013-C02",
+                "hostname": "maint1-nj-001013",
+                "manufacturer": "Silicom",
+                "macAddress": "00:08:A2:0F:8B:EB",
+                "serial": "40933079"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001013",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001013",
+              "type": "ooh",
+              "siteId": "nj-001013"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-maint1-nj-001013",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "maint1-nj-001013",
+              "type": "ooh",
+              "siteId": "nj-001013"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001013",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001013",
+              "type": "ooh",
+              "siteId": "nj-001013"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-000008",
+      "geometry": {
+        "coordinates": [
+          -74.624102,
+          40.316027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-000008",
+        "status": "live",
+        "salesuniqueid": [
+          "PrincetonJunction-04-CCD (ad1-nj-000008)"
+        ],
+        "site": {
+          "id": "nj-000008",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2019-07-03",
+            "code": "live"
+          },
+          "parentsite": "Princeton Junction-NEC",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-PrincetonJunction-UP-04",
+          "coordinates": {
+            "latitude": 40.316027,
+            "longitude": -74.624102
+          },
+          "address": {
+            "registryAddress": "31 Wallace Rd",
+            "zipcode": "08550",
+            "state": "NJ",
+            "city": "Princeton Junction"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2019-07-03",
+            "linkActual": "2019-07-03"
+          },
+          "device": {
+            "name": "NJT-PrincetonJunction-UP-04",
+            "productGroup": "IxNSight",
+            "uniqueId": "nj-000008",
+            "display": [
+              {
+                "playerId": "nj-000008-C01-D01",
+                "manufacturer": "LG-MRI",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "72\u201d",
+                "serial": "BTDN908001VV AA J57626-510"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2935-E9C9-C162",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-000008-C01",
+                "hostname": "ad1-nj-000008",
+                "manufacturer": "LG-MRI",
+                "macAddress": "54:B2:03:80:5A:75",
+                "serial": "IxN-000066-sbc",
+                "salesuniqueid": "PrincetonJunction-04-CCD (ad1-nj-000008)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-000008",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-000008",
+              "type": "ooh",
+              "siteId": "nj-000008"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-000008",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-000008",
+              "type": "ooh",
+              "siteId": "nj-000008"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-000007",
+      "geometry": {
+        "coordinates": [
+          -74.624102,
+          40.316027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-000007",
+        "status": "live",
+        "salesuniqueid": [
+          "PrincetonJunction-03-CCD (ad1-nj-000007)"
+        ],
+        "site": {
+          "id": "nj-000007",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2019-07-03",
+            "code": "live"
+          },
+          "parentsite": "Princeton Junction-NEC",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-PrincetonJunction-UP-03",
+          "coordinates": {
+            "latitude": 40.316027,
+            "longitude": -74.624102
+          },
+          "address": {
+            "registryAddress": "31 Wallace Rd",
+            "zipcode": "08550",
+            "state": "NJ",
+            "city": "Princeton Junction"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2019-07-03",
+            "linkActual": "2019-07-03"
+          },
+          "device": {
+            "name": "NJT-PrincetonJunction-UP-03",
+            "productGroup": "IxNSight",
+            "uniqueId": "nj-000007",
+            "display": [
+              {
+                "playerId": "nj-000007-C01-D01",
+                "manufacturer": "LG-MRI",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "72\u201d",
+                "serial": "BTDN9080019N AA J57626-510"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2935-E9DA-D050",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-000007-C01",
+                "hostname": "ad1-nj-000007",
+                "manufacturer": "LG-MRI",
+                "macAddress": "54:B2:03:80:5A:62",
+                "serial": "IxN-000065-sbc",
+                "salesuniqueid": "PrincetonJunction-03-CCD (ad1-nj-000007)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-000007",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-000007",
+              "type": "ooh",
+              "siteId": "nj-000007"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-000007",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-000007",
+              "type": "ooh",
+              "siteId": "nj-000007"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001028",
+      "geometry": {
+        "coordinates": [
+          -74.027623,
+          40.73521
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001028",
+        "status": "live",
+        "salesuniqueid": [
+          "Hoboken-HBLR-8th/22ndBoundTrack-W-ITK (ad2-nj-001028)",
+          "Hoboken-HBLR-8th/22ndBoundTrack-E-ITK (ad1-nj-001028)"
+        ],
+        "site": {
+          "id": "nj-001028",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2019-11-26",
+            "code": "live"
+          },
+          "parentsite": "Hoboken-HBLR",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-HBLR-Hoboken-IxNTouch-New-19_01",
+          "coordinates": {
+            "latitude": 40.73521,
+            "longitude": -74.027623
+          },
+          "address": {
+            "registryAddress": "1 Hudson Pl",
+            "zipcode": "07030",
+            "state": "NJ",
+            "city": "Hoboken"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2019-11-25",
+            "linkActual": "2019-11-26"
+          },
+          "device": {
+            "name": "NJT-HBLR-Hoboken-IxNTouch-New-19_01",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-001028",
+            "display": [
+              {
+                "playerId": "nj-001028-C02-D01",
+                "manufacturer": "GDS",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "40933456D"
+              },
+              {
+                "playerId": "nj-001028-C01-D01",
+                "manufacturer": "GDS",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "40933450D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2935-E934-3EB0",
+                "manufacturer": "Pepwave"
+              },
+              {
+                "serial": "2935-E8CB-C041",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001028-C04",
+                "hostname": "maint2-nj-001028",
+                "manufacturer": "Silicom",
+                "macAddress": "00:08:A2:0F:8B:B5",
+                "serial": "40933068"
+              },
+              {
+                "id": "nj-001028-C02",
+                "hostname": "ad2-nj-001028",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:73:DB:46",
+                "serial": "91000221980041",
+                "salesuniqueid": "Hoboken-HBLR-8th/22ndBoundTrack-W-ITK (ad2-nj-001028)"
+              },
+              {
+                "id": "nj-001028-C03",
+                "hostname": "maint1-nj-001028",
+                "manufacturer": "Silicom",
+                "macAddress": "00:08:A2:0F:8B:F7",
+                "serial": "40933073"
+              },
+              {
+                "id": "nj-001028-C01",
+                "hostname": "ad1-nj-001028",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:73:DB:5C",
+                "serial": "91000221980034",
+                "salesuniqueid": "Hoboken-HBLR-8th/22ndBoundTrack-E-ITK (ad1-nj-001028)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001028",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001028",
+              "type": "ooh",
+              "siteId": "nj-001028"
+            }
+          },
+          {
+            "id": "broadsign.version:14.5.1-2-ad2-nj-001028",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nj-001028",
+              "type": "ooh",
+              "siteId": "nj-001028"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001028",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001028",
+              "type": "ooh",
+              "siteId": "nj-001028"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-maint1-nj-001028",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "maint1-nj-001028",
+              "type": "ooh",
+              "siteId": "nj-001028"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad2-nj-001028",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nj-001028",
+              "type": "ooh",
+              "siteId": "nj-001028"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-maint2-nj-001028",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "maint2-nj-001028",
+              "type": "ooh",
+              "siteId": "nj-001028"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-000006",
+      "geometry": {
+        "coordinates": [
+          -74.624102,
+          40.316027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-000006",
+        "status": "live",
+        "salesuniqueid": [
+          "PrincetonJunction-02-CCD (ad1-nj-000006)"
+        ],
+        "site": {
+          "id": "nj-000006",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2019-07-03",
+            "code": "live"
+          },
+          "parentsite": "Princeton Junction-NEC",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-PrincetonJunction-UP-02",
+          "coordinates": {
+            "latitude": 40.316027,
+            "longitude": -74.624102
+          },
+          "address": {
+            "registryAddress": "31 Wallace Rd",
+            "zipcode": "08550",
+            "state": "NJ",
+            "city": "Princeton Junction"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2019-07-03",
+            "linkActual": "2019-07-03"
+          },
+          "device": {
+            "name": "NJT-PrincetonJunction-UP-02",
+            "productGroup": "IxNSight",
+            "uniqueId": "nj-000006",
+            "display": [
+              {
+                "playerId": "nj-000006-C01-D01",
+                "manufacturer": "LG-MRI",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "72\u201d",
+                "serial": "BTDN908001YG AA J57626-510"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2935-E9D9-D063",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-000006-C01",
+                "hostname": "ad1-nj-000006",
+                "manufacturer": "LG-MRI",
+                "macAddress": "54:B2:03:80:5A:9C",
+                "serial": "IxN-000064-sbc",
+                "salesuniqueid": "PrincetonJunction-02-CCD (ad1-nj-000006)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-000006",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-000006",
+              "type": "ooh",
+              "siteId": "nj-000006"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-000006",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-000006",
+              "type": "ooh",
+              "siteId": "nj-000006"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001130",
+      "geometry": {
+        "coordinates": [
+          -74.277751,
+          40.55661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001130",
+        "status": "live",
+        "salesuniqueid": [
+          "Woodbridge-SBTrack-MidPlat-N-PLT (ad1-nj-001130)"
+        ],
+        "site": {
+          "id": "nj-001130",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2022-02-08",
+            "code": "live"
+          },
+          "parentsite": "Woodbridge-NJCL",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT - NJCL - Woodbridge - IxNSight - New_20-04",
+          "coordinates": {
+            "latitude": 40.55661,
+            "longitude": -74.277751
+          },
+          "address": {
+            "registryAddress": "400 Pearl Street",
+            "zipcode": "07095",
+            "state": "NJ",
+            "city": "Woodbridge"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2022-02-08",
+            "linkActual": "2022-02-08"
+          },
+          "device": {
+            "name": "NJT - NJCL - Woodbridge - IxNSight - New_20-04",
+            "productGroup": "IxNSight",
+            "uniqueId": "nj-001130",
+            "display": [
+              {
+                "playerId": "nj-001130-C01-D01",
+                "manufacturer": "GDS",
+                "orientation": "Landscape",
+                "size": "55\u201d",
+                "serial": "IxN-003785-dis"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2936-F0C3-EBF0",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001130-C01",
+                "hostname": "ad1-nj-001130",
+                "manufacturer": "GDS",
+                "macAddress": "00:00:00:75:D7:FD",
+                "serial": "91000235760071",
+                "salesuniqueid": "Woodbridge-SBTrack-MidPlat-N-PLT (ad1-nj-001130)"
+              },
+              {
+                "id": "nj-001130-C01",
+                "hostname": "maint1-nj-001130",
+                "manufacturer": "Silicom",
+                "macAddress": "00:08:A2:0B:CE:FC",
+                "serial": "40941635"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001130",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001130",
+              "type": "ooh",
+              "siteId": "nj-001130"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001130",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001130",
+              "type": "ooh",
+              "siteId": "nj-001130"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-000004",
+      "geometry": {
+        "coordinates": [
+          -74.70405,
+          40.255357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-000004",
+        "status": "live",
+        "salesuniqueid": [
+          "Hamilton-S-CCD (ad1-nj-000004)"
+        ],
+        "site": {
+          "id": "nj-000004",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2020-10-15",
+            "code": "live"
+          },
+          "parentsite": "Hamilton-NEC",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-Hamilton-CON-02",
+          "coordinates": {
+            "latitude": 40.255357,
+            "longitude": -74.70405
+          },
+          "address": {
+            "registryAddress": "46 American Metro Blvd",
+            "zipcode": "08619",
+            "state": "NJ",
+            "city": "Trenton"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2020-10-15",
+            "linkActual": "2020-10-15"
+          },
+          "device": {
+            "name": "NJT-Hamilton-CON-02",
+            "productGroup": "IxNSight",
+            "uniqueId": "nj-000004",
+            "display": [
+              {
+                "playerId": "nj-000004-C01-D01",
+                "manufacturer": "LG-MRI",
+                "orientation": "Landscape",
+                "size": "75\"",
+                "serial": "UB00245"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2936-256A-946B",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-000004-C01",
+                "hostname": "ad1-nj-000004",
+                "manufacturer": "LG-MRI",
+                "macAddress": "54:B2:03:8D:BD:55",
+                "serial": "BTDN9390011Y AA J57626-513",
+                "salesuniqueid": "Hamilton-S-CCD (ad1-nj-000004)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-000004",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-000004",
+              "type": "ooh",
+              "siteId": "nj-000004"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-000004",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-000004",
+              "type": "ooh",
+              "siteId": "nj-000004"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-000013",
+      "geometry": {
+        "coordinates": [
+          -74.036126,
+          40.726699
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-000013",
+        "status": "live",
+        "salesuniqueid": [
+          "PavoniaNewport-HBLR-Platform-W-ITK (ad2-nj-000013)",
+          "PavoniaNewport-HBLR-Platform-E-ITK (ad1-nj-000013)"
+        ],
+        "site": {
+          "id": "nj-000013",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2018-02-02",
+            "code": "live"
+          },
+          "parentsite": "Newport/Pavonia Transit Center-NJT",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-NWP-IXNT-01",
+          "coordinates": {
+            "latitude": 40.726699,
+            "longitude": -74.036126
+          },
+          "address": {
+            "registryAddress": "5 Mall Drive East",
+            "zipcode": "07310",
+            "state": "NJ",
+            "city": "Jersey City"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2018-02-02",
+            "linkActual": "2018-02-02"
+          },
+          "device": {
+            "name": "NJT-NWP-IXNT-01",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-000013",
+            "display": [
+              {
+                "playerId": "nj-000013-C02-D01",
+                "manufacturer": "Civiq",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "CC17AFISS367YA007"
+              },
+              {
+                "playerId": "nj-000013-C01-D01",
+                "manufacturer": "Civiq",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "CC17BU1SS367YA269"
+              }
+            ],
+            "modem": [
+              {
+                "ipAddress": "166.184.53.210",
+                "serial": "2934-50E3-4BD8",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-000013-C02",
+                "hostname": "ad2-nj-000013",
+                "manufacturer": "Logic Supply",
+                "macAddress": "78:F2:9E:90:64:54",
+                "serial": "U653613",
+                "salesuniqueid": "PavoniaNewport-HBLR-Platform-W-ITK (ad2-nj-000013)"
+              },
+              {
+                "id": "nj-000013-C01",
+                "hostname": "ad1-nj-000013",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:70:6C:17",
+                "serial": "U707279",
+                "salesuniqueid": "PavoniaNewport-HBLR-Platform-E-ITK (ad1-nj-000013)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-000013",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-000013",
+              "type": "ooh",
+              "siteId": "nj-000013"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-000013",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-000013",
+              "type": "ooh",
+              "siteId": "nj-000013"
+            }
+          }
+        ],
+        "zendesk": {
+          "openTickets": 2
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001327",
+      "geometry": {
+        "coordinates": [
+          -74.034,
+          40.7195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001327",
+        "status": "live",
+        "salesuniqueid": [],
+        "site": {
+          "id": "nj-001327",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2023-01-12",
+            "code": "live"
+          },
+          "parentsite": "NJT - IxNTouch - 2022 - Harborside - Refresh",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "Harborside - HBLR - Refresh - 1B",
+          "coordinates": {
+            "latitude": 40.7195,
+            "longitude": -74.034
+          },
+          "address": {
+            "registryAddress": "210 Hudson Street",
+            "zipcode": "07311",
+            "state": "NJ",
+            "city": "Jersey City"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2023-01-12",
+            "linkActual": "2023-01-12"
+          },
+          "device": {
+            "name": "Harborside - HBLR - Refresh - 1B",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-001327",
+            "display": [
+              {
+                "playerId": "nj-001327-C01-D01",
+                "manufacturer": "GDS",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "40950880D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2937-87BF-FA2B",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001327-C01",
+                "hostname": "ad1-nj-001327",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:F5:76:5F:70",
+                "serial": "IxN-013546-sbc"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001327",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001327",
+              "type": "ooh",
+              "siteId": "nj-001327"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001327",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001327",
+              "type": "ooh",
+              "siteId": "nj-001327"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-000005",
+      "geometry": {
+        "coordinates": [
+          -74.624102,
+          40.316027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-000005",
+        "status": "live",
+        "salesuniqueid": [
+          "PrincetonJunction-01-CCD (ad1-nj-000005)"
+        ],
+        "site": {
+          "id": "nj-000005",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2019-07-03",
+            "code": "live"
+          },
+          "parentsite": "Princeton Junction-NEC",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-PrincetonJunction-UP-01",
+          "coordinates": {
+            "latitude": 40.316027,
+            "longitude": -74.624102
+          },
+          "address": {
+            "registryAddress": "31 Wallace Rd",
+            "zipcode": "08550",
+            "state": "NJ",
+            "city": "Princeton Junction"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2019-07-03",
+            "linkActual": "2019-07-03"
+          },
+          "device": {
+            "name": "NJT-PrincetonJunction-UP-01",
+            "productGroup": "IxNSight",
+            "uniqueId": "nj-000005",
+            "display": [
+              {
+                "playerId": "nj-000005-C01-D01",
+                "manufacturer": "LG-MRI",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "72\u201d",
+                "serial": "BTDN908001N3 AA J57626-510"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2936-CEE4-F788",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-000005-C01",
+                "hostname": "ad1-nj-000005",
+                "manufacturer": "LG-MRI",
+                "macAddress": "54:B2:03:80:5A:D5",
+                "serial": "IxN-000063-sbc",
+                "salesuniqueid": "PrincetonJunction-01-CCD (ad1-nj-000005)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-000005",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-000005",
+              "type": "ooh",
+              "siteId": "nj-000005"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-000005",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-000005",
+              "type": "ooh",
+              "siteId": "nj-000005"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001121",
+      "geometry": {
+        "coordinates": [
+          -74.190393,
+          40.415385
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001121",
+        "status": "live",
+        "salesuniqueid": [
+          "Hazlet-WestEndPlat-PLT (ad1-nj-001121)"
+        ],
+        "site": {
+          "id": "nj-001121",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2022-02-11",
+            "code": "live"
+          },
+          "parentsite": "Hazlet-NJCL",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT - NJCL - Hazlet - IxNSight - New_20-01",
+          "coordinates": {
+            "latitude": 40.415385,
+            "longitude": -74.190393
+          },
+          "address": {
+            "registryAddress": "110 Hazlet Avenue",
+            "zipcode": "07747",
+            "state": "NJ",
+            "city": "Matawan"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2022-02-09",
+            "linkActual": "2022-02-11"
+          },
+          "device": {
+            "name": "NJT - NJCL - Hazlet - IxNSight - New_20-01",
+            "productGroup": "IxNSight",
+            "uniqueId": "nj-001121",
+            "display": [
+              {
+                "playerId": "nj-001121-C01-D01",
+                "manufacturer": "GDS",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "40966180D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2937-A334-569E",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001121-C01",
+                "hostname": "ad1-nj-001121",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:76:D8:74",
+                "serial": "40966203",
+                "salesuniqueid": "Hazlet-WestEndPlat-PLT (ad1-nj-001121)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001121",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001121",
+              "type": "ooh",
+              "siteId": "nj-001121"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001121",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001121",
+              "type": "ooh",
+              "siteId": "nj-001121"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-000015",
+      "geometry": {
+        "coordinates": [
+          -74.0286,
+          40.7349
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-000015",
+        "status": "live",
+        "salesuniqueid": [
+          "Hoboken-Plat-FacingTrack-ITK (ad1-nj-000015)"
+        ],
+        "site": {
+          "id": "nj-000015",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2018-05-14",
+            "code": "live"
+          },
+          "parentsite": "Hoboken Transit Center-NJT",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-HOB-IXNT-01",
+          "coordinates": {
+            "latitude": 40.7349,
+            "longitude": -74.0286
+          },
+          "address": {
+            "registryAddress": "1 Hudson Pl",
+            "zipcode": "07030",
+            "state": "NJ",
+            "city": "Hoboken"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2018-05-14",
+            "linkActual": "2018-05-14"
+          },
+          "device": {
+            "name": "NJT-HOB-IXNT-01",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-000015",
+            "display": [
+              {
+                "playerId": "nj-000015-C01-D01",
+                "manufacturer": "Civiq",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "48\u201d",
+                "serial": "IxN-000062-dis"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2934-4E33-88DA",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-000015-C01",
+                "hostname": "ad1-nj-000015",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:71:22:A3",
+                "serial": "U653616",
+                "salesuniqueid": "Hoboken-Plat-FacingTrack-ITK (ad1-nj-000015)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-000015",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-000015",
+              "type": "ooh",
+              "siteId": "nj-000015"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-000015",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-000015",
+              "type": "ooh",
+              "siteId": "nj-000015"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-000009",
+      "geometry": {
+        "coordinates": [
+          -74.1642,
+          40.7344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-000009",
+        "status": "live",
+        "salesuniqueid": [
+          "Newark-Track3Plat-ITK (ad1-nj-000009)"
+        ],
+        "site": {
+          "id": "nj-000009",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2017-12-04",
+            "code": "live"
+          },
+          "parentsite": "Newark-Penn Transit Center-NJT",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-NWK-IXNT-01",
+          "coordinates": {
+            "latitude": 40.7344,
+            "longitude": -74.1642
+          },
+          "address": {
+            "registryAddress": "1 Raymond Plaza West & Market Street",
+            "zipcode": "07102",
+            "state": "NJ",
+            "city": "Newark"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2017-12-04",
+            "linkActual": "2017-12-04"
+          },
+          "device": {
+            "name": "NJT-NWK-IXNT-01",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-000009",
+            "display": [
+              {
+                "playerId": "nj-000009-C01-D01",
+                "manufacturer": "Civiq",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "48\u201d",
+                "serial": "IxN-000057-dis"
+              }
+            ],
+            "modem": [
+              {
+                "ipAddress": "166.184.53.218",
+                "serial": "2934-5187-2C9B",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-000009-C01",
+                "hostname": "ad1-nj-000009",
+                "manufacturer": "Logic Supply",
+                "macAddress": "78:F2:9E:90:64:58",
+                "serial": "U653610",
+                "salesuniqueid": "Newark-Track3Plat-ITK (ad1-nj-000009)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-000009",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-000009",
+              "type": "ooh",
+              "siteId": "nj-000009"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-000009",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-000009",
+              "type": "ooh",
+              "siteId": "nj-000009"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001012",
+      "geometry": {
+        "coordinates": [
+          -74.32948,
+          40.56832
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001012",
+        "status": "live",
+        "salesuniqueid": [
+          "MetroPark-TaxiDrop-Left-ITK (ad1-nj-001012)"
+        ],
+        "site": {
+          "id": "nj-001012",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2019-12-18",
+            "code": "live"
+          },
+          "parentsite": "Metropark-NEC",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-NEC-Metropark-IxNTouch-New-19_01",
+          "coordinates": {
+            "latitude": 40.56832,
+            "longitude": -74.32948
+          },
+          "address": {
+            "registryAddress": "100 Middlesex Turnpike",
+            "zipcode": "08830",
+            "state": "NJ",
+            "city": "Iselin"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2019-12-18",
+            "linkActual": "2019-12-18"
+          },
+          "device": {
+            "name": "NJT-NEC-Metropark-IxNTouch-New-19_01",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-001012",
+            "display": [
+              {
+                "playerId": "nj-001012-C01-D01",
+                "manufacturer": "GDS",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "40933443D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2935-E860-6AF0",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001012-C02",
+                "hostname": "maint1-nj-001012",
+                "manufacturer": "Silicom",
+                "macAddress": "00:08:A2:0F:8B:BB",
+                "serial": "40933075"
+              },
+              {
+                "id": "nj-001012-C01",
+                "hostname": "ad1-nj-001012",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:73:DB:64",
+                "serial": "91000221980022",
+                "salesuniqueid": "MetroPark-TaxiDrop-Left-ITK (ad1-nj-001012)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001012",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001012",
+              "type": "ooh",
+              "siteId": "nj-001012"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001012",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001012",
+              "type": "ooh",
+              "siteId": "nj-001012"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001326",
+      "geometry": {
+        "coordinates": [
+          -74.034,
+          40.7195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001326",
+        "status": "live",
+        "salesuniqueid": [],
+        "site": {
+          "id": "nj-001326",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2023-01-12",
+            "code": "live"
+          },
+          "parentsite": "NJT - IxNTouch - 2022 - Harborside - Refresh",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "Harborside - HBLR - Refresh - 1A",
+          "coordinates": {
+            "latitude": 40.7195,
+            "longitude": -74.034
+          },
+          "address": {
+            "registryAddress": "210 Hudson Street",
+            "zipcode": "07311",
+            "state": "NJ",
+            "city": "Jersey City"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2023-01-12",
+            "linkActual": "2023-01-12"
+          },
+          "device": {
+            "name": "Harborside - HBLR - Refresh - 1A",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-001326",
+            "display": [
+              {
+                "playerId": "nj-001326-C01-D01",
+                "manufacturer": "GDS",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "40950878D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2937-87CA-8D79",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001326-C01",
+                "hostname": "ad1-nj-001326",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:F5:76:5F:69",
+                "serial": "40951410"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001326",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001326",
+              "type": "ooh",
+              "siteId": "nj-001326"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001326",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001326",
+              "type": "ooh",
+              "siteId": "nj-001326"
+            }
+          }
+        ],
+        "zendesk": {
+          "openTickets": 3
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001026",
+      "geometry": {
+        "coordinates": [
+          -74.360671,
+          40.540736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001026",
+        "status": "live",
+        "salesuniqueid": [
+          "Metuchen-NYBound-WestOfStationRoom-ITK (ad1-nj-001026)"
+        ],
+        "site": {
+          "id": "nj-001026",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2020-02-28",
+            "code": "live"
+          },
+          "parentsite": "Metuchen-NEC",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-NEC-Metuchen-IxNTouch-New_19_02",
+          "coordinates": {
+            "latitude": 40.540736,
+            "longitude": -74.360671
+          },
+          "address": {
+            "registryAddress": "Woodbridge Avenue & Main Street",
+            "zipcode": "08837",
+            "state": "NJ",
+            "city": "Metuchen"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2020-02-25",
+            "linkActual": "2020-02-28"
+          },
+          "device": {
+            "name": "NJT-NEC-Metuchen-IxNTouch-New_19_02",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-001026",
+            "display": [
+              {
+                "playerId": "nj-001026-C01-D01",
+                "manufacturer": "GDS",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "40933448D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2935-E879-7B68",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001026-C02",
+                "hostname": "maint1-nj-001026",
+                "manufacturer": "Silicom",
+                "macAddress": "00:08:A2:0F:8C:39",
+                "serial": "40933000"
+              },
+              {
+                "id": "nj-001026-C01",
+                "hostname": "ad1-nj-001026",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:73:DB:48",
+                "serial": "91000221980049",
+                "salesuniqueid": "Metuchen-NYBound-WestOfStationRoom-ITK (ad1-nj-001026)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001026",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001026",
+              "type": "ooh",
+              "siteId": "nj-001026"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001026",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001026",
+              "type": "ooh",
+              "siteId": "nj-001026"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-maint1-nj-001026",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "maint1-nj-001026",
+              "type": "ooh",
+              "siteId": "nj-001026"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001092",
+      "geometry": {
+        "coordinates": [
+          -74.467363,
+          40.476912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001092",
+        "status": "live",
+        "salesuniqueid": [
+          "JerseyAve-MidPlat-ITK (ad1-nj-001092)"
+        ],
+        "site": {
+          "id": "nj-001092",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2022-03-22",
+            "code": "live"
+          },
+          "parentsite": "Jersey Ave.-NEC",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT - NEC - JerseyAve - IxNTouch - New_20 - 01",
+          "coordinates": {
+            "latitude": 40.476912,
+            "longitude": -74.467363
+          },
+          "address": {
+            "registryAddress": "Jersey Avenue Park & Ride",
+            "zipcode": "08903",
+            "state": "NJ",
+            "city": "New Brunswick"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2022-03-22",
+            "linkActual": "2022-03-22"
+          },
+          "device": {
+            "name": "NJT - NEC - JerseyAve - IxNTouch - New_20 - 01",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-001092",
+            "display": [
+              {
+                "playerId": "nj-001092-C01-D01",
+                "manufacturer": "GDS",
+                "size": "55\u201d",
+                "serial": "40950895D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2937-8902-4FF3",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001092-C01",
+                "hostname": "ad1-nj-001092",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:76:5F:2E",
+                "serial": "0810BZ02283",
+                "salesuniqueid": "JerseyAve-MidPlat-ITK (ad1-nj-001092)"
+              },
+              {
+                "id": "nj-001092-C02",
+                "hostname": "maint1-nj-001092",
+                "manufacturer": "Silicom",
+                "macAddress": "00:08:A2:0F:FE:BD",
+                "serial": "40950907"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001092",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001092",
+              "type": "ooh",
+              "siteId": "nj-001092"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001092",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001092",
+              "type": "ooh",
+              "siteId": "nj-001092"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001089",
+      "geometry": {
+        "coordinates": [
+          -74.410972,
+          40.519148
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001089",
+        "status": "live",
+        "salesuniqueid": [
+          "Edison-MidPlat-NE-PLT (ad1-nj-001089)"
+        ],
+        "site": {
+          "id": "nj-001089",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2022-02-15",
+            "code": "live"
+          },
+          "parentsite": "Edison-NEC",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT - NEC - Edison - IxNSight - New_20 - 02",
+          "coordinates": {
+            "latitude": 40.519148,
+            "longitude": -74.410972
+          },
+          "address": {
+            "registryAddress": "Reed Street & Central Avenue",
+            "zipcode": "08817",
+            "state": "NJ",
+            "city": "Edison"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2022-02-15",
+            "linkActual": "2022-02-15"
+          },
+          "device": {
+            "name": "NJT - NEC - Edison - IxNSight - New_20 - 02",
+            "productGroup": "IxNSight",
+            "uniqueId": "nj-001089",
+            "display": [
+              {
+                "playerId": "nj-001089-C01-D01",
+                "manufacturer": "GDS",
+                "orientation": "Landscape",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "IxN-003942-dis"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2936-EF10-29C0",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001089-C01",
+                "hostname": "ad1-nj-001089",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:75:D8:77",
+                "serial": "40944096",
+                "salesuniqueid": "Edison-MidPlat-NE-PLT (ad1-nj-001089)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001089",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001089",
+              "type": "ooh",
+              "siteId": "nj-001089"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001089",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001089",
+              "type": "ooh",
+              "siteId": "nj-001089"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "ny-000001",
+      "geometry": {
+        "coordinates": [
+          -73.9935,
+          40.7506
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "ny-000001",
+        "status": "live",
+        "salesuniqueid": [
+          "NewYorkPenn-SDA-01-VW (ad1-ny-000001)"
+        ],
+        "site": {
+          "id": "ny-000001",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2016-03-05",
+            "code": "live"
+          },
+          "parentsite": "NYC-Penn Transit Center-NJT",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-NewYorkPenn-SDA-01",
+          "coordinates": {
+            "latitude": 40.7506,
+            "longitude": -73.9935
+          },
+          "address": {
+            "registryAddress": "1 Penn Plazza",
+            "zipcode": "10119",
+            "state": "NY",
+            "city": "New York"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2016-03-05",
+            "linkActual": "2016-03-05"
+          },
+          "device": {
+            "name": "NJT-NewYorkPenn-SDA-01",
+            "productGroup": "Large Format",
+            "uniqueId": "ny-000001",
+            "display": [
+              {
+                "playerId": "ny-000001-C01-D01",
+                "manufacturer": "Nanolumens",
+                "orientation": "Landscape",
+                "resolution": "640x384",
+                "size": "140\u201d",
+                "serial": "GEGK30100PPF"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "192F-9417-F93B",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "ny-000001-C01",
+                "hostname": "ad1-ny-000001",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:71:22:50",
+                "serial": "U879469",
+                "salesuniqueid": "NewYorkPenn-SDA-01-VW (ad1-ny-000001)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-ny-000001",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ny-000001",
+              "type": "ooh",
+              "siteId": "ny-000001"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-ny-000001",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ny-000001",
+              "type": "ooh",
+              "siteId": "ny-000001"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001031",
+      "geometry": {
+        "coordinates": [
+          -74.074034,
+          40.76159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001031",
+        "status": "live",
+        "salesuniqueid": [
+          "Secaucus-BusPlaza-Escalator-N-ITK (ad1-nj-001031)"
+        ],
+        "site": {
+          "id": "nj-001031",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2019-11-22",
+            "code": "live"
+          },
+          "parentsite": "Frank R Lautenberg Secaucus-Bus Plaza",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-BUS-Secaucus Junction-IxNTouch-New_19-02",
+          "coordinates": {
+            "latitude": 40.76159,
+            "longitude": -74.074034
+          },
+          "address": {
+            "registryAddress": "1 North Road",
+            "zipcode": "07094",
+            "state": "NJ",
+            "city": "Secaucus"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2019-11-22",
+            "linkActual": "2019-11-22"
+          },
+          "device": {
+            "name": "NJT-BUS-Secaucus Junction-IxNTouch-New_19-02",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-001031",
+            "display": [
+              {
+                "playerId": "nj-001031-C01-D01",
+                "manufacturer": "GDS",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "40933451D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2935-9F83-F3CD",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001031-C02",
+                "hostname": "maint1-nj-001031",
+                "manufacturer": "Silicom",
+                "macAddress": "00:08:A2:0F:8B:DB",
+                "serial": "40933080"
+              },
+              {
+                "id": "nj-001031-C01",
+                "hostname": "ad1-nj-001031",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:73:DB:2C",
+                "serial": "91000221980013",
+                "salesuniqueid": "Secaucus-BusPlaza-Escalator-N-ITK (ad1-nj-001031)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001031",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001031",
+              "type": "ooh",
+              "siteId": "nj-001031"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001031",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001031",
+              "type": "ooh",
+              "siteId": "nj-001031"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "nj-001015",
+      "geometry": {
+        "coordinates": [
+          -74.329394,
+          40.56864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "nj-001015",
+        "status": "live",
+        "salesuniqueid": [
+          "MetroPark-NYBound-EastofElev-E-ITK (ad1-nj-001015)",
+          "MetroPark-NYBound-EastofElev-W-ITK (ad2-nj-001015)"
+        ],
+        "site": {
+          "id": "nj-001015",
+          "zone": "njt",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2020-03-06",
+            "code": "live"
+          },
+          "parentsite": "Metropark-NEC",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "NJT-NEC-Metropark-IxNTouch-New-19_04",
+          "coordinates": {
+            "latitude": 40.56864,
+            "longitude": -74.329394
+          },
+          "address": {
+            "registryAddress": "100 Middlesex Turnpike",
+            "zipcode": "08830",
+            "state": "NJ",
+            "city": "Iselin"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2020-03-05",
+            "linkActual": "2020-03-06"
+          },
+          "device": {
+            "name": "NJT-NEC-Metropark-IxNTouch-New-19_04",
+            "productGroup": "IxNTouch",
+            "uniqueId": "nj-001015",
+            "display": [
+              {
+                "playerId": "nj-001015-C01-D01",
+                "manufacturer": "GDS",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "40933440D"
+              },
+              {
+                "playerId": "nj-001015-C02-D01",
+                "manufacturer": "GDS",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "55\u201d",
+                "serial": "40933441D"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2935-E810-1DF7",
+                "manufacturer": "Pepwave"
+              },
+              {
+                "serial": "2935-9ED3-A7C9",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "nj-001015-C01",
+                "hostname": "ad1-nj-001015",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:73:DB:86",
+                "serial": "91000221980006",
+                "salesuniqueid": "MetroPark-NYBound-EastofElev-E-ITK (ad1-nj-001015)"
+              },
+              {
+                "id": "nj-001015-C02",
+                "hostname": "ad2-nj-001015",
+                "manufacturer": "GDS",
+                "macAddress": "00:04:5F:73:DB:5A",
+                "serial": "91000221980047",
+                "salesuniqueid": "MetroPark-NYBound-EastofElev-W-ITK (ad2-nj-001015)"
+              },
+              {
+                "id": "nj-001015-C04",
+                "hostname": "maint2-nj-001015",
+                "manufacturer": "Silicom",
+                "macAddress": "00:08:A2:0F:8C:3D",
+                "serial": "40933074"
+              },
+              {
+                "id": "nj-001015-C03",
+                "hostname": "maint1-nj-001015",
+                "manufacturer": "Silicom",
+                "macAddress": "00:08:A2:0F:8C:13",
+                "serial": "40933077"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:13.1.9-5-ad2-nj-001015",
+            "description": "broadsign.version:13.1.9-5",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nj-001015",
+              "type": "ooh",
+              "siteId": "nj-001015"
+            }
+          },
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-nj-001015",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001015",
+              "type": "ooh",
+              "siteId": "nj-001015"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-maint1-nj-001015",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "maint1-nj-001015",
+              "type": "ooh",
+              "siteId": "nj-001015"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-nj-001015",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-nj-001015",
+              "type": "ooh",
+              "siteId": "nj-001015"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad2-nj-001015",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-nj-001015",
+              "type": "ooh",
+              "siteId": "nj-001015"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

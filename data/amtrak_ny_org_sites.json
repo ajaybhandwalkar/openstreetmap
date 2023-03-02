@@ -1,0 +1,1960 @@
+{
+  "features": [
+    {
+      "id": "ny-000013",
+      "geometry": {
+        "coordinates": [
+          -73.993516,
+          40.75061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "ny-000013",
+        "status": "live",
+        "salesuniqueid": [
+          "AMTRK-PS-PRL-12-PLT (ad1-ny-000013)"
+        ],
+        "site": {
+          "id": "ny-000013",
+          "zone": "amtrak",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2017-09-01",
+            "code": "live"
+          },
+          "parentsite": "AMTK-NYC-PENN",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "AMTK-NYC-PENN-12",
+          "coordinates": {
+            "latitude": 40.75061,
+            "longitude": -73.993516
+          },
+          "address": {
+            "registryAddress": "Penn Station",
+            "zipcode": "10119",
+            "state": "NY",
+            "city": "New York"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2017-09-01",
+            "linkActual": "2017-09-01"
+          },
+          "device": {
+            "name": "AMTK-NYC-PENN-12",
+            "productGroup": "IxNSight",
+            "uniqueId": "ny-000013",
+            "display": [
+              {
+                "playerId": "ny-000013-C01-D01",
+                "manufacturer": "Samsung",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "65\u201d",
+                "serial": "IxN-001488-dis"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "192F-94F2-1760",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "ny-000013-C01",
+                "hostname": "ad1-ny-000013",
+                "manufacturer": "Logic Supply",
+                "macAddress": "A8:A1:59:A0:CC:A4",
+                "serial": "U914143",
+                "salesuniqueid": "AMTRK-PS-PRL-12-PLT (ad1-ny-000013)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-ny-000013",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ny-000013",
+              "type": "ooh",
+              "siteId": "ny-000013"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-ny-000013",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ny-000013",
+              "type": "ooh",
+              "siteId": "ny-000013"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "ny-000006",
+      "geometry": {
+        "coordinates": [
+          -73.993516,
+          40.75061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "ny-000006",
+        "status": "live",
+        "salesuniqueid": [
+          "AMTRK-PS-PRL-05-PLT (ad1-ny-000006)"
+        ],
+        "site": {
+          "id": "ny-000006",
+          "zone": "amtrak",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2017-09-01",
+            "code": "live"
+          },
+          "parentsite": "AMTK-NYC-PENN",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "AMTK-NYC-PENN-05",
+          "coordinates": {
+            "latitude": 40.75061,
+            "longitude": -73.993516
+          },
+          "address": {
+            "registryAddress": "Penn Station",
+            "zipcode": "10119",
+            "state": "NY",
+            "city": "New York"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2017-09-01",
+            "linkActual": "2017-09-01"
+          },
+          "device": {
+            "name": "AMTK-NYC-PENN-05",
+            "productGroup": "IxNSight",
+            "uniqueId": "ny-000006",
+            "display": [
+              {
+                "playerId": "ny-000006-C01-D01",
+                "manufacturer": "Samsung",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "65\u201d",
+                "serial": "IxN-001481-dis"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "192F-96B0-5144",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "ny-000006-C01",
+                "hostname": "ad1-ny-000006",
+                "manufacturer": "Logic Supply",
+                "macAddress": "EC:A8:6B:FA:01:87",
+                "serial": "U562444",
+                "salesuniqueid": "AMTRK-PS-PRL-05-PLT (ad1-ny-000006)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-ny-000006",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ny-000006",
+              "type": "ooh",
+              "siteId": "ny-000006"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-ny-000006",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ny-000006",
+              "type": "ooh",
+              "siteId": "ny-000006"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "ny-000004",
+      "geometry": {
+        "coordinates": [
+          -73.993516,
+          40.75061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "ny-000004",
+        "status": "live",
+        "salesuniqueid": [
+          "AMTRK-PS-PRL-03-PLT (ad1-ny-000004)"
+        ],
+        "site": {
+          "id": "ny-000004",
+          "zone": "amtrak",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2017-09-01",
+            "code": "live"
+          },
+          "parentsite": "AMTK-NYC-PENN",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "AMTK-NYC-PENN-03",
+          "coordinates": {
+            "latitude": 40.75061,
+            "longitude": -73.993516
+          },
+          "address": {
+            "registryAddress": "Penn Station",
+            "zipcode": "10119",
+            "state": "NY",
+            "city": "New York"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2017-09-01",
+            "linkActual": "2017-09-01"
+          },
+          "device": {
+            "name": "AMTK-NYC-PENN-03",
+            "productGroup": "IxNSight",
+            "uniqueId": "ny-000004",
+            "display": [
+              {
+                "playerId": "ny-000004-C01-D01",
+                "manufacturer": "Samsung",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "65\u201d",
+                "serial": "IxN-001479-dis"
+              }
+            ],
+            "modem": [
+              {
+                "ipAddress": "166.150.61.156",
+                "serial": "2935-9FE3-95CB",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "ny-000004-C01",
+                "hostname": "ad1-ny-000004",
+                "manufacturer": "Logic Supply",
+                "macAddress": "B8:AE:ED:78:E6:3A",
+                "serial": "U590662",
+                "salesuniqueid": "AMTRK-PS-PRL-03-PLT (ad1-ny-000004)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-ny-000004",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ny-000004",
+              "type": "ooh",
+              "siteId": "ny-000004"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-ny-000004",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ny-000004",
+              "type": "ooh",
+              "siteId": "ny-000004"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "ny-000003",
+      "geometry": {
+        "coordinates": [
+          -73.993516,
+          40.75061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "ny-000003",
+        "status": "live",
+        "salesuniqueid": [
+          "AMTRK-PS-PRL-02-PLT (ad1-ny-000003)"
+        ],
+        "site": {
+          "id": "ny-000003",
+          "zone": "amtrak",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2017-09-01",
+            "code": "live"
+          },
+          "parentsite": "AMTK-NYC-PENN",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "AMTK-NYC-PENN-02",
+          "coordinates": {
+            "latitude": 40.75061,
+            "longitude": -73.993516
+          },
+          "address": {
+            "registryAddress": "Penn Station",
+            "zipcode": "10119",
+            "state": "NY",
+            "city": "New York"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2017-09-01",
+            "linkActual": "2017-09-01"
+          },
+          "device": {
+            "name": "AMTK-NYC-PENN-02",
+            "productGroup": "IxNSight",
+            "uniqueId": "ny-000003",
+            "display": [
+              {
+                "playerId": "ny-000003-C01-D01",
+                "manufacturer": "Samsung",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "65\u201d",
+                "serial": "IxN-001478-dis"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2936-D591-9BD0",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "ny-000003-C01",
+                "hostname": "ad1-ny-000003",
+                "manufacturer": "Logic Supply",
+                "macAddress": "EC:A8:6B:FA:05:6C",
+                "serial": "U562454",
+                "salesuniqueid": "AMTRK-PS-PRL-02-PLT (ad1-ny-000003)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-ny-000003",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ny-000003",
+              "type": "ooh",
+              "siteId": "ny-000003"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-ny-000003",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ny-000003",
+              "type": "ooh",
+              "siteId": "ny-000003"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "pa-000008",
+      "geometry": {
+        "coordinates": [
+          -75.182,
+          39.9558
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "pa-000008",
+        "status": "live",
+        "salesuniqueid": [
+          "AMTK-PHIL-30th-06-PLT (ad3-pa-000008)",
+          "AMTK-PHIL-30th-05-PLT (ad2-pa-000008)",
+          "AMTK-PHIL-30th-04-PLT (ad1-pa-000008)"
+        ],
+        "site": {
+          "id": "pa-000008",
+          "zone": "amtrak",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2015-09-01",
+            "code": "live"
+          },
+          "parentsite": "AMTK-PHIL-30th",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "AMTK-PHIL-30th-02",
+          "coordinates": {
+            "latitude": 39.9558,
+            "longitude": -75.182
+          },
+          "address": {
+            "zipcode": "19104",
+            "state": "PA",
+            "city": "Philadelphia"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2015-09-01",
+            "linkActual": "2015-09-01"
+          },
+          "device": {
+            "name": "AMTK-PHIL-30th-02",
+            "productGroup": "IxNSight",
+            "uniqueId": "pa-000008",
+            "display": [
+              {
+                "playerId": "pa-000008-C03-D01",
+                "manufacturer": "Vertigo",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "70\"",
+                "serial": "IxN-001498-dis"
+              },
+              {
+                "playerId": "pa-000008-C01-D01",
+                "manufacturer": "Vertigo",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "70\"",
+                "serial": "IxN-001496-dis"
+              },
+              {
+                "playerId": "pa-000008-C02-D01",
+                "manufacturer": "Vertigo",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "70\"",
+                "serial": "IxN-001497-dis"
+              }
+            ],
+            "modem": [
+              {
+                "ipAddress": "166.184.53.251",
+                "serial": "2934-4D87-3096",
+                "manufacturer": "Pepwave"
+              },
+              {
+                "ipAddress": "166.184.53.231",
+                "serial": "2934-C5AE-9A0D",
+                "manufacturer": "Pepwave"
+              },
+              {
+                "serial": "2935-9FCE-B714",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "pa-000008-C03",
+                "hostname": "ad3-pa-000008",
+                "manufacturer": "Zotac",
+                "macAddress": "00:01:2E:4E:9F:65",
+                "serial": "G140700000113",
+                "salesuniqueid": "AMTK-PHIL-30th-06-PLT (ad3-pa-000008)"
+              },
+              {
+                "id": "pa-000008-C02",
+                "hostname": "ad2-pa-000008",
+                "manufacturer": "Zotac",
+                "macAddress": "F4:4D:30:69:FB:83",
+                "serial": "IxN-012896-sbc",
+                "salesuniqueid": "AMTK-PHIL-30th-05-PLT (ad2-pa-000008)"
+              },
+              {
+                "id": "pa-000008-C01",
+                "hostname": "ad1-pa-000008",
+                "manufacturer": "Zotac",
+                "macAddress": "00:01:2E:4D:D6:DB",
+                "serial": "G141000000819",
+                "salesuniqueid": "AMTK-PHIL-30th-04-PLT (ad1-pa-000008)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad3-pa-000008",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad3-pa-000008",
+              "type": "ooh",
+              "siteId": "pa-000008"
+            }
+          },
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-pa-000008",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-pa-000008",
+              "type": "ooh",
+              "siteId": "pa-000008"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad3-pa-000008",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad3-pa-000008",
+              "type": "ooh",
+              "siteId": "pa-000008"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-pa-000008",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-pa-000008",
+              "type": "ooh",
+              "siteId": "pa-000008"
+            }
+          }
+        ],
+        "zendesk": {
+          "openTickets": 1
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "ny-000007",
+      "geometry": {
+        "coordinates": [
+          -73.993516,
+          40.75061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "ny-000007",
+        "status": "live",
+        "salesuniqueid": [
+          "AMTRK-PS-PRL-06-PLT (ad1-ny-000007)"
+        ],
+        "site": {
+          "id": "ny-000007",
+          "zone": "amtrak",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2017-09-01",
+            "code": "live"
+          },
+          "parentsite": "AMTK-NYC-PENN",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "AMTK-NYC-PENN-06",
+          "coordinates": {
+            "latitude": 40.75061,
+            "longitude": -73.993516
+          },
+          "address": {
+            "registryAddress": "Penn Station",
+            "zipcode": "10119",
+            "state": "NY",
+            "city": "New York"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2017-09-01",
+            "linkActual": "2017-09-01"
+          },
+          "device": {
+            "name": "AMTK-NYC-PENN-06",
+            "productGroup": "IxNSight",
+            "uniqueId": "ny-000007",
+            "display": [
+              {
+                "playerId": "ny-000007-C01-D01",
+                "manufacturer": "Samsung",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "65\u201d",
+                "serial": "IxN-001482-dis"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "192F-94CB-24FA",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "ny-000007-C01",
+                "hostname": "ad1-ny-000007",
+                "manufacturer": "Logic Supply",
+                "macAddress": "C0:3F:D5:60:51:18",
+                "serial": "U568010",
+                "salesuniqueid": "AMTRK-PS-PRL-06-PLT (ad1-ny-000007)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-ny-000007",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ny-000007",
+              "type": "ooh",
+              "siteId": "ny-000007"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-ny-000007",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ny-000007",
+              "type": "ooh",
+              "siteId": "ny-000007"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "de-001001",
+      "geometry": {
+        "coordinates": [
+          -75.5509,
+          39.737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "de-001001",
+        "status": "live",
+        "salesuniqueid": [],
+        "site": {
+          "id": "de-001001",
+          "zone": "amtrak",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2012-01-01",
+            "code": "live"
+          },
+          "parentsite": "AMTK-DE-WILM",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "AMTK-DE-WILM - 02",
+          "coordinates": {
+            "latitude": 39.737,
+            "longitude": -75.5509
+          },
+          "address": {
+            "registryAddress": "100 South French St",
+            "zipcode": "19801",
+            "state": "DE",
+            "city": "Wilmington"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2012-01-01",
+            "linkActual": "2012-01-01"
+          },
+          "device": {
+            "name": "AMTK-DE-WILM - 02",
+            "productGroup": "IxNSight",
+            "uniqueId": "de-001001",
+            "display": [
+              {
+                "playerId": "de-000001-C01-D02",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "42\"",
+                "serial": "IxN-001491-dis"
+              }
+            ],
+            "modem": [],
+            "player": []
+          },
+          "components": []
+        },
+        "tags": []
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "pa-000005",
+      "geometry": {
+        "coordinates": [
+          -75.182,
+          39.9558
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "pa-000005",
+        "status": "live",
+        "salesuniqueid": [
+          "AMTK-PHIL-30th-03-PLT (ad3-pa-000005)",
+          "AMTK-PHIL-30th-01-PLT (ad1-pa-000005)",
+          "AMTK-PHIL-30th-02-PLT (ad2-pa-000005)"
+        ],
+        "site": {
+          "id": "pa-000005",
+          "zone": "amtrak",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2015-09-01",
+            "code": "live"
+          },
+          "parentsite": "AMTK-PHIL-30th",
+          "Site_Dark__c": true,
+          "sitetype": "Location",
+          "sitename": "AMTK-PHIL-30th-01",
+          "coordinates": {
+            "latitude": 39.9558,
+            "longitude": -75.182
+          },
+          "address": {
+            "registryAddress": "2955 Market St.",
+            "zipcode": "19104",
+            "state": "PA",
+            "city": "Philadelphia"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2015-09-01",
+            "linkActual": "2015-09-01"
+          },
+          "device": {
+            "name": "AMTK-PHIL-30th-01",
+            "productGroup": "IxNSight",
+            "uniqueId": "pa-000005",
+            "display": [
+              {
+                "playerId": "pa-000005-C03-D01",
+                "manufacturer": "Vertigo",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "70\"",
+                "serial": "GESY70100N0Z"
+              },
+              {
+                "playerId": "pa-000005-C01-D01",
+                "manufacturer": "Vertigo",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "70\"",
+                "serial": "IxN-001493-dis"
+              },
+              {
+                "playerId": "pa-000005-C02-D01",
+                "manufacturer": "NEC",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "70\"",
+                "serial": "IxN-001494-dis"
+              }
+            ],
+            "modem": [
+              {
+                "ipAddress": "166.184.53.253",
+                "serial": "2934-4E3B-8852",
+                "manufacturer": "Pepwave"
+              },
+              {
+                "ipAddress": "166.184.53.254",
+                "serial": "2934-4E39-8870",
+                "manufacturer": "Pepwave"
+              },
+              {
+                "ipAddress": "166.184.53.252",
+                "serial": "2934-4D7A-CF44",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "pa-000005-C03",
+                "hostname": "ad3-pa-000005",
+                "manufacturer": "Logic Supply",
+                "macAddress": "78:F2:9E:90:64:36",
+                "serial": "U655255",
+                "salesuniqueid": "AMTK-PHIL-30th-03-PLT (ad3-pa-000005)"
+              },
+              {
+                "id": "pa-000005-C01",
+                "hostname": "ad1-pa-000005",
+                "manufacturer": "Logic Supply",
+                "macAddress": "78:F2:9E:90:66:22",
+                "serial": "U636962",
+                "salesuniqueid": "AMTK-PHIL-30th-01-PLT (ad1-pa-000005)"
+              },
+              {
+                "id": "pa-000005-C02",
+                "hostname": "ad2-pa-000005",
+                "manufacturer": "Zotac",
+                "macAddress": "00:01:2E:4E:A1:B2",
+                "serial": "IxN-006140-sbc",
+                "salesuniqueid": "AMTK-PHIL-30th-02-PLT (ad2-pa-000005)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad3-pa-000005",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad3-pa-000005",
+              "type": "ooh",
+              "siteId": "pa-000005"
+            }
+          },
+          {
+            "id": "broadsign.version:14.5.1-2-ad2-pa-000005",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-pa-000005",
+              "type": "ooh",
+              "siteId": "pa-000005"
+            }
+          },
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-pa-000005",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-pa-000005",
+              "type": "ooh",
+              "siteId": "pa-000005"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad3-pa-000005",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad3-pa-000005",
+              "type": "ooh",
+              "siteId": "pa-000005"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad2-pa-000005",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad2-pa-000005",
+              "type": "ooh",
+              "siteId": "pa-000005"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-pa-000005",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-pa-000005",
+              "type": "ooh",
+              "siteId": "pa-000005"
+            }
+          }
+        ],
+        "zendesk": {
+          "openTickets": 1
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "ny-000008",
+      "geometry": {
+        "coordinates": [
+          -73.993516,
+          40.75061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "ny-000008",
+        "status": "live",
+        "salesuniqueid": [
+          "AMTRK-PS-PRL-07-PLT (ad1-ny-000008)"
+        ],
+        "site": {
+          "id": "ny-000008",
+          "zone": "amtrak",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2017-09-01",
+            "code": "live"
+          },
+          "parentsite": "AMTK-NYC-PENN",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "AMTK-NYC-PENN-07",
+          "coordinates": {
+            "latitude": 40.75061,
+            "longitude": -73.993516
+          },
+          "address": {
+            "registryAddress": "Penn Station",
+            "zipcode": "10119",
+            "state": "NY",
+            "city": "New York"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2017-09-01",
+            "linkActual": "2017-09-01"
+          },
+          "device": {
+            "name": "AMTK-NYC-PENN-07",
+            "productGroup": "IxNSight",
+            "uniqueId": "ny-000008",
+            "display": [
+              {
+                "playerId": "ny-000008-C01-D01",
+                "manufacturer": "Samsung",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "65\u201d",
+                "serial": "IxN-001483-dis"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "192F-98C7-283A",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "ny-000008-C01",
+                "hostname": "ad1-ny-000008",
+                "manufacturer": "Logic Supply",
+                "macAddress": "EC:A8:6B:FA:02:CD",
+                "serial": "U562453",
+                "salesuniqueid": "AMTRK-PS-PRL-07-PLT (ad1-ny-000008)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-ny-000008",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ny-000008",
+              "type": "ooh",
+              "siteId": "ny-000008"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-ny-000008",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ny-000008",
+              "type": "ooh",
+              "siteId": "ny-000008"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "ny-000009",
+      "geometry": {
+        "coordinates": [
+          -73.993516,
+          40.75061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "ny-000009",
+        "status": "live",
+        "salesuniqueid": [
+          "AMTRK-PS-PRL-08-PLT (ad1-ny-000009)"
+        ],
+        "site": {
+          "id": "ny-000009",
+          "zone": "amtrak",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2017-09-01",
+            "code": "live"
+          },
+          "parentsite": "AMTK-NYC-PENN",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "AMTK-NYC-PENN-08",
+          "coordinates": {
+            "latitude": 40.75061,
+            "longitude": -73.993516
+          },
+          "address": {
+            "registryAddress": "Penn Station",
+            "zipcode": "10119",
+            "state": "NY",
+            "city": "New York"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2017-09-01",
+            "linkActual": "2017-09-01"
+          },
+          "device": {
+            "name": "AMTK-NYC-PENN-08",
+            "productGroup": "IxNSight",
+            "uniqueId": "ny-000009",
+            "display": [
+              {
+                "playerId": "ny-000009-C01-D01",
+                "manufacturer": "Samsung",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "65\u201d",
+                "serial": "IxN-001484-dis"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "192F-9414-F908",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "ny-000009-C01",
+                "hostname": "ad1-ny-000009",
+                "manufacturer": "Logic Supply",
+                "macAddress": "B8:AE:ED:78:E6:39",
+                "serial": "U592606",
+                "salesuniqueid": "AMTRK-PS-PRL-08-PLT (ad1-ny-000009)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-ny-000009",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ny-000009",
+              "type": "ooh",
+              "siteId": "ny-000009"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-ny-000009",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ny-000009",
+              "type": "ooh",
+              "siteId": "ny-000009"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "ny-000010",
+      "geometry": {
+        "coordinates": [
+          -73.993516,
+          40.75061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "ny-000010",
+        "status": "live",
+        "salesuniqueid": [
+          "AMTRK-PS-PRL-09-PLT (ad1-ny-000010)"
+        ],
+        "site": {
+          "id": "ny-000010",
+          "zone": "amtrak",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2017-09-01",
+            "code": "live"
+          },
+          "parentsite": "AMTK-NYC-PENN",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "AMTK-NYC-PENN-09",
+          "coordinates": {
+            "latitude": 40.75061,
+            "longitude": -73.993516
+          },
+          "address": {
+            "registryAddress": "Penn Station",
+            "zipcode": "10119",
+            "state": "NY",
+            "city": "New York"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2017-09-01",
+            "linkActual": "2017-09-01"
+          },
+          "device": {
+            "name": "AMTK-NYC-PENN-09",
+            "productGroup": "IxNSight",
+            "uniqueId": "ny-000010",
+            "display": [
+              {
+                "playerId": "ny-000010-C01-D01",
+                "manufacturer": "Samsung",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "65\u201d",
+                "serial": "IxN-001485-dis"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "192F-949A-71EE",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "ny-000010-C01",
+                "hostname": "ad1-ny-000010",
+                "manufacturer": "Logic Supply",
+                "macAddress": "B8:AE:ED:78:E5:EA",
+                "serial": "U590675",
+                "salesuniqueid": "AMTRK-PS-PRL-09-PLT (ad1-ny-000010)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-ny-000010",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ny-000010",
+              "type": "ooh",
+              "siteId": "ny-000010"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-ny-000010",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ny-000010",
+              "type": "ooh",
+              "siteId": "ny-000010"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "ny-000005",
+      "geometry": {
+        "coordinates": [
+          -73.993516,
+          40.75061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "ny-000005",
+        "status": "live",
+        "salesuniqueid": [
+          "AMTRK-PS-PRL-04-PLT (ad1-ny-000005)"
+        ],
+        "site": {
+          "id": "ny-000005",
+          "zone": "amtrak",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2017-09-01",
+            "code": "live"
+          },
+          "parentsite": "AMTK-NYC-PENN",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "AMTK-NYC-PENN-04",
+          "coordinates": {
+            "latitude": 40.75061,
+            "longitude": -73.993516
+          },
+          "address": {
+            "registryAddress": "Penn Station",
+            "zipcode": "10119",
+            "state": "NY",
+            "city": "New York"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2017-09-01",
+            "linkActual": "2017-09-01"
+          },
+          "device": {
+            "name": "AMTK-NYC-PENN-04",
+            "productGroup": "IxNSight",
+            "uniqueId": "ny-000005",
+            "display": [
+              {
+                "playerId": "ny-000005-C01-D01",
+                "manufacturer": "Samsung",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "65\u201d",
+                "serial": "IxN-001480-dis"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "192F-94A7-4230",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "ny-000005-C01",
+                "hostname": "ad1-ny-000005",
+                "manufacturer": "Logic Supply",
+                "macAddress": "B8:AE:ED:78:E9:D8",
+                "serial": "U573832",
+                "salesuniqueid": "AMTRK-PS-PRL-04-PLT (ad1-ny-000005)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-ny-000005",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ny-000005",
+              "type": "ooh",
+              "siteId": "ny-000005"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-ny-000005",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ny-000005",
+              "type": "ooh",
+              "siteId": "ny-000005"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "ny-000012",
+      "geometry": {
+        "coordinates": [
+          -73.993516,
+          40.75061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "ny-000012",
+        "status": "live",
+        "salesuniqueid": [],
+        "site": {
+          "id": "ny-000012",
+          "zone": "amtrak",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2017-09-01",
+            "code": "live"
+          },
+          "parentsite": "AMTK-NYC-PENN",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "AMTK-NYC-PENN-11",
+          "coordinates": {
+            "latitude": 40.75061,
+            "longitude": -73.993516
+          },
+          "address": {
+            "registryAddress": "Penn Station",
+            "zipcode": "10119",
+            "state": "NY",
+            "city": "New York"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2017-09-01",
+            "linkActual": "2017-09-01"
+          },
+          "device": {
+            "name": "AMTK-NYC-PENN-11",
+            "productGroup": "IxNSight",
+            "uniqueId": "ny-000012",
+            "display": [],
+            "modem": [
+              {
+                "serial": "192F-941F-F9B3",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": []
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-ny-000012",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ny-000012",
+              "type": "ooh",
+              "siteId": "ny-000012"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-ny-000012",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ny-000012",
+              "type": "ooh",
+              "siteId": "ny-000012"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "de-001003",
+      "geometry": {
+        "coordinates": [
+          -75.5509,
+          39.737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "de-001003",
+        "status": "live",
+        "salesuniqueid": [],
+        "site": {
+          "id": "de-001003",
+          "zone": "amtrak",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2012-01-01",
+            "code": "live"
+          },
+          "parentsite": "AMTK-DE-WILM",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "AMTK-DE-WILM - 04",
+          "coordinates": {
+            "latitude": 39.737,
+            "longitude": -75.5509
+          },
+          "address": {
+            "registryAddress": "100 South French St",
+            "zipcode": "19801",
+            "state": "DE",
+            "city": "Wilmington"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2012-01-01",
+            "linkActual": "2012-01-01"
+          },
+          "device": {
+            "name": "AMTK-DE-WILM - 04",
+            "productGroup": "IxNSight",
+            "uniqueId": "de-001003",
+            "display": [
+              {
+                "playerId": "de-000001-C01-D04",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "42\"",
+                "serial": "IxN-001489-dis"
+              }
+            ],
+            "modem": [],
+            "player": []
+          },
+          "components": []
+        },
+        "tags": []
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "ny-000011",
+      "geometry": {
+        "coordinates": [
+          -73.993516,
+          40.75061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "ny-000011",
+        "status": "live",
+        "salesuniqueid": [
+          "AMTRK-PS-PRL-10-PLT (ad1-ny-000011)"
+        ],
+        "site": {
+          "id": "ny-000011",
+          "zone": "amtrak",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2017-09-01",
+            "code": "live"
+          },
+          "parentsite": "AMTK-NYC-PENN",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "AMTK-NYC-PENN-10",
+          "coordinates": {
+            "latitude": 40.75061,
+            "longitude": -73.993516
+          },
+          "address": {
+            "registryAddress": "Penn Station",
+            "zipcode": "10119",
+            "state": "NY",
+            "city": "New York"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2017-09-01",
+            "linkActual": "2017-09-01"
+          },
+          "device": {
+            "name": "AMTK-NYC-PENN-10",
+            "productGroup": "IxNSight",
+            "uniqueId": "ny-000011",
+            "display": [
+              {
+                "playerId": "ny-000011-C01-D01",
+                "manufacturer": "Samsung",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "65\u201d",
+                "serial": "IxN-001486-dis"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2934-4E32-88CB",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "ny-000011-C01",
+                "hostname": "ad1-ny-000011",
+                "manufacturer": "Logic Supply",
+                "macAddress": "B8:AE:ED:78:E5:D7",
+                "serial": "U590661",
+                "salesuniqueid": "AMTRK-PS-PRL-10-PLT (ad1-ny-000011)"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-ny-000011",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ny-000011",
+              "type": "ooh",
+              "siteId": "ny-000011"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-ny-000011",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ny-000011",
+              "type": "ooh",
+              "siteId": "ny-000011"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "ny-000002",
+      "geometry": {
+        "coordinates": [
+          -73.993516,
+          40.75061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "ny-000002",
+        "status": "live",
+        "salesuniqueid": [
+          "AMTRK-PS-PRL-01"
+        ],
+        "site": {
+          "id": "ny-000002",
+          "zone": "amtrak",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2017-09-01",
+            "code": "live"
+          },
+          "parentsite": "AMTK-NYC-PENN",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "AMTK-NYC-PENN-01",
+          "coordinates": {
+            "latitude": 40.75061,
+            "longitude": -73.993516
+          },
+          "address": {
+            "registryAddress": "Penn Station",
+            "zipcode": "10119",
+            "state": "NY",
+            "city": "New York"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2017-09-01",
+            "linkActual": "2017-09-01"
+          },
+          "device": {
+            "name": "AMTK-NYC-PENN-01",
+            "productGroup": "IxNSight",
+            "uniqueId": "ny-000002",
+            "display": [
+              {
+                "playerId": "ny-000002-C01-D01",
+                "manufacturer": "Samsung",
+                "orientation": "Portrait",
+                "resolution": "1080x1920",
+                "size": "65\u201d",
+                "serial": "IxN-001477-dis"
+              }
+            ],
+            "modem": [
+              {
+                "serial": "2935-EA17-1F82",
+                "manufacturer": "Pepwave"
+              }
+            ],
+            "player": [
+              {
+                "id": "ny-000002-C01",
+                "hostname": "ad1-ny-000002",
+                "manufacturer": "Logic Supply",
+                "macAddress": "54:B2:03:71:22:5F",
+                "serial": "U860185",
+                "salesuniqueid": "AMTRK-PS-PRL-01"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": [
+          {
+            "id": "broadsign.version:14.5.1-2-ad1-ny-000002",
+            "description": "broadsign.version:14.5.1-2",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ny-000002",
+              "type": "ooh",
+              "siteId": "ny-000002"
+            }
+          },
+          {
+            "id": "ansible.version:2.7.18-ad1-ny-000002",
+            "description": "ansible.version:2.7.18",
+            "status": {
+              "priority": 6,
+              "style": "primary"
+            },
+            "host": {
+              "hostname": "ad1-ny-000002",
+              "type": "ooh",
+              "siteId": "ny-000002"
+            }
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "de-000001",
+      "geometry": {
+        "coordinates": [
+          -75.5509,
+          39.737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "de-000001",
+        "status": "installed",
+        "salesuniqueid": [
+          "AMTK-DE-WIL-01"
+        ],
+        "site": {
+          "id": "de-000001",
+          "zone": "amtrak",
+          "environment": "prod",
+          "status": {
+            "message": "Installed",
+            "code": "installed"
+          },
+          "parentsite": "AMTK-DE-WILM",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "AMTK-DE-WILM - Telecom Room",
+          "coordinates": {
+            "latitude": 39.737,
+            "longitude": -75.5509
+          },
+          "address": {
+            "registryAddress": "100 South French St",
+            "zipcode": "19801",
+            "state": "DE",
+            "city": "Wilmington"
+          },
+          "installations": {},
+          "device": {
+            "name": "AMTK-DE-WILM - Telecom Room",
+            "productGroup": "IxNSight",
+            "uniqueId": "de-000001",
+            "display": [],
+            "modem": [
+              {
+                "serial": "IxN-002154-mdm",
+                "manufacturer": "Legacy"
+              }
+            ],
+            "player": [
+              {
+                "id": "de-000001-C01",
+                "hostname": "ad1-de-000001",
+                "manufacturer": "Legacy",
+                "macAddress": "74:D4:35:E8:B4:CC",
+                "serial": "IxN-006138-sbc",
+                "salesuniqueid": "AMTK-DE-WIL-01"
+              }
+            ]
+          },
+          "components": []
+        },
+        "tags": []
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "de-001000",
+      "geometry": {
+        "coordinates": [
+          -75.5509,
+          39.737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "de-001000",
+        "status": "live",
+        "salesuniqueid": [],
+        "site": {
+          "id": "de-001000",
+          "zone": "amtrak",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2012-01-01",
+            "code": "live"
+          },
+          "parentsite": "AMTK-DE-WILM",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "AMTK-DE-WILM - 01",
+          "coordinates": {
+            "latitude": 39.737,
+            "longitude": -75.5509
+          },
+          "address": {
+            "registryAddress": "100 South French St",
+            "zipcode": "19801",
+            "state": "DE",
+            "city": "Wilmington"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2012-01-01",
+            "linkActual": "2012-01-01"
+          },
+          "device": {
+            "name": "AMTK-DE-WILM - 01",
+            "productGroup": "IxNSight",
+            "uniqueId": "de-001000",
+            "display": [
+              {
+                "playerId": "de-000001-C01-D01",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "42\"",
+                "serial": "IxN-001490-dis"
+              }
+            ],
+            "modem": [],
+            "player": []
+          },
+          "components": []
+        },
+        "tags": []
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "de-001002",
+      "geometry": {
+        "coordinates": [
+          -75.5509,
+          39.737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "siteId": "de-001002",
+        "status": "live",
+        "salesuniqueid": [],
+        "site": {
+          "id": "de-001002",
+          "zone": "amtrak",
+          "environment": "prod",
+          "status": {
+            "message": "Live",
+            "smokeTestAndActivationActual": "2012-01-01",
+            "code": "live"
+          },
+          "parentsite": "AMTK-DE-WILM",
+          "Site_Dark__c": false,
+          "sitetype": "Location",
+          "sitename": "AMTK-DE-WILM - 03",
+          "coordinates": {
+            "latitude": 39.737,
+            "longitude": -75.5509
+          },
+          "address": {
+            "registryAddress": "100 South French St",
+            "zipcode": "19801",
+            "state": "DE",
+            "city": "Wilmington"
+          },
+          "installations": {
+            "conedPowerTerminatedActual": "2012-01-01",
+            "linkActual": "2012-01-01"
+          },
+          "device": {
+            "name": "AMTK-DE-WILM - 03",
+            "productGroup": "IxNSight",
+            "uniqueId": "de-001002",
+            "display": [
+              {
+                "playerId": "de-000001-C01-D03",
+                "manufacturer": "LG",
+                "orientation": "Landscape",
+                "resolution": "1920x1080",
+                "size": "42\"",
+                "serial": "IxN-001492-dis"
+              }
+            ],
+            "modem": [],
+            "player": []
+          },
+          "components": []
+        },
+        "tags": []
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
